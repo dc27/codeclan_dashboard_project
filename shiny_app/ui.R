@@ -8,9 +8,8 @@ sexes <- unique(life_expectancy_data_all_SIMD$sex)
 ui <- fluidPage(
   titlePanel("Life Expectancy by Scottish Health Board"),
   
-  # Sidebar layout - TODO: discuss layout options
+  # TODO: discuss layout options
   sidebarLayout(
-    
     sidebarPanel(
       
       # user inputs:

@@ -31,7 +31,7 @@ life_expectancy_data_all_SIMD <- life_expectancy_data %>%
   filter(str_detect(feature_code, "^S0"))
 
 create_hb_map <- function(measurement_df) {
-  # measurement_df is the LE df filtered by user inputs
+  # measurement_df is calculated in the server - determined by user inputs
   # bind to shape data
   hb_shapes_ll@data <- hb_shapes_ll@data %>% 
     cbind(measurement_df)
