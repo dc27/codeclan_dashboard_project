@@ -1,8 +1,11 @@
 source("R/filter_data_life_expectancy.R")
+source("R/filter_data_life_expectancy_simd.R")
 
 # create variables for input choices
+
 date_ranges <- sort(unique(life_expectancy_data_all_SIMD$date_code))
 sexes <- unique(life_expectancy_data_all_SIMD$sex)
+simd_quints <- sort(unique(le_data_individual_simds$simd_quintiles))
 
 # build the UI
 ui <- fluidPage(
@@ -28,7 +31,8 @@ ui <- fluidPage(
     ),
     
     mainPanel(
-      leafletOutput("LE_map")
+      leafletOutput("LE_map"),
+      plotOutput("LE_by_simd_plot")
       
     )
   )
