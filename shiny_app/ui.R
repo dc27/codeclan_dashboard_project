@@ -1,4 +1,4 @@
-source("helper.R")
+source("R/filter_data_life_expectancy.R")
 
 # create variables for input choices
 date_ranges <- sort(unique(life_expectancy_data_all_SIMD$date_code))
