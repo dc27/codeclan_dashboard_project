@@ -1,0 +1,2069 @@
+FeatureCode,DateCode,Measurement,Units,Value
+S12000034,2014/2015,Count,Hospital Discharges,117
+S12000034,2013/2014,Count,Hospital Discharges,120
+S12000034,2015/2016,Count,Hospital Discharges,120
+S12000034,2011/2012,Count,Hospital Discharges,144
+S12000034,2010/2011,Count,Hospital Discharges,165
+S12000034,2012/2013,Count,Hospital Discharges,120
+S12000035,2000/2001,Count,Hospital Discharges,39
+S12000035,1999/2000,Count,Hospital Discharges,45
+S12000035,2001/2002,Count,Hospital Discharges,36
+S12000035,1997/1998,Count,Hospital Discharges,21
+S12000035,1998/1999,Count,Hospital Discharges,36
+S12000034,2003/2004,Count,Hospital Discharges,84
+S12000034,2002/2003,Count,Hospital Discharges,90
+S12000034,2004/2005,Count,Hospital Discharges,117
+S12000034,2000/2001,Count,Hospital Discharges,78
+S12000034,1999/2000,Count,Hospital Discharges,81
+S12000034,2001/2002,Count,Hospital Discharges,102
+S12000034,2008/2009,Count,Hospital Discharges,159
+S12000034,2007/2008,Count,Hospital Discharges,144
+S12000034,2009/2010,Count,Hospital Discharges,141
+S12000034,2005/2006,Count,Hospital Discharges,99
+S12000034,2006/2007,Count,Hospital Discharges,108
+S12000036,1998/1999,Count,Hospital Discharges,456
+S12000036,1997/1998,Count,Hospital Discharges,507
+S12000036,1999/2000,Count,Hospital Discharges,462
+S12000035,2014/2015,Count,Hospital Discharges,33
+S12000035,2013/2014,Count,Hospital Discharges,42
+S12000035,2015/2016,Count,Hospital Discharges,54
+S12000036,2003/2004,Count,Hospital Discharges,567
+S12000036,2002/2003,Count,Hospital Discharges,483
+S12000036,2004/2005,Count,Hospital Discharges,543
+S12000036,2000/2001,Count,Hospital Discharges,417
+S12000036,2001/2002,Count,Hospital Discharges,513
+S12000035,2006/2007,Count,Hospital Discharges,42
+S12000035,2005/2006,Count,Hospital Discharges,39
+S12000035,2007/2008,Count,Hospital Discharges,54
+S12000035,2003/2004,Count,Hospital Discharges,57
+S12000035,2002/2003,Count,Hospital Discharges,48
+S12000035,2004/2005,Count,Hospital Discharges,42
+S12000035,2011/2012,Count,Hospital Discharges,54
+S12000035,2010/2011,Count,Hospital Discharges,54
+S12000035,2012/2013,Count,Hospital Discharges,42
+S12000035,2008/2009,Count,Hospital Discharges,45
+S12000035,2009/2010,Count,Hospital Discharges,51
+S12000030,2009/2010,Count,Hospital Discharges,93
+S12000030,2008/2009,Count,Hospital Discharges,78
+S12000030,2010/2011,Count,Hospital Discharges,114
+S12000030,2006/2007,Count,Hospital Discharges,45
+S12000030,2005/2006,Count,Hospital Discharges,45
+S12000030,2007/2008,Count,Hospital Discharges,69
+S12000030,2014/2015,Count,Hospital Discharges,96
+S12000030,2013/2014,Count,Hospital Discharges,81
+S12000030,2015/2016,Count,Hospital Discharges,117
+S12000030,2011/2012,Count,Hospital Discharges,75
+S12000030,2012/2013,Count,Hospital Discharges,93
+S12000030,1998/1999,Count,Hospital Discharges,51
+S12000030,1997/1998,Count,Hospital Discharges,33
+S12000030,1999/2000,Count,Hospital Discharges,63
+S12000029,2014/2015,Count,Hospital Discharges,312
+S12000029,2013/2014,Count,Hospital Discharges,264
+S12000029,2015/2016,Count,Hospital Discharges,444
+S12000030,2003/2004,Count,Hospital Discharges,63
+S12000030,2002/2003,Count,Hospital Discharges,75
+S12000030,2004/2005,Count,Hospital Discharges,60
+S12000030,2000/2001,Count,Hospital Discharges,45
+S12000030,2001/2002,Count,Hospital Discharges,51
+S12000033,2011/2012,Count,Hospital Discharges,471
+S12000033,2010/2011,Count,Hospital Discharges,537
+S12000033,2012/2013,Count,Hospital Discharges,402
+S12000033,2008/2009,Count,Hospital Discharges,573
+S12000033,2007/2008,Count,Hospital Discharges,519
+S12000033,2009/2010,Count,Hospital Discharges,627
+S12000034,1997/1998,Count,Hospital Discharges,57
+S12000033,2015/2016,Count,Hospital Discharges,396
+S12000034,1998/1999,Count,Hospital Discharges,78
+S12000033,2013/2014,Count,Hospital Discharges,429
+S12000033,2014/2015,Count,Hospital Discharges,387
+S12000033,2000/2001,Count,Hospital Discharges,399
+S12000033,1999/2000,Count,Hospital Discharges,411
+S12000033,2001/2002,Count,Hospital Discharges,381
+S12000033,1997/1998,Count,Hospital Discharges,333
+S12000033,1998/1999,Count,Hospital Discharges,327
+S12000033,2005/2006,Count,Hospital Discharges,405
+S12000033,2004/2005,Count,Hospital Discharges,444
+S12000033,2006/2007,Count,Hospital Discharges,498
+S12000033,2002/2003,Count,Hospital Discharges,432
+S12000033,2003/2004,Count,Hospital Discharges,402
+S12000040,2006/2007,Count,Hospital Discharges,156
+S12000040,2005/2006,Count,Hospital Discharges,135
+S12000040,2007/2008,Count,Hospital Discharges,222
+S12000040,2003/2004,Count,Hospital Discharges,96
+S12000040,2002/2003,Count,Hospital Discharges,90
+S12000040,2004/2005,Count,Hospital Discharges,108
+S12000040,2011/2012,Count,Hospital Discharges,297
+S12000040,2010/2011,Count,Hospital Discharges,219
+S12000040,2012/2013,Count,Hospital Discharges,249
+S12000040,2008/2009,Count,Hospital Discharges,207
+S12000040,2009/2010,Count,Hospital Discharges,201
+S12000039,2014/2015,Count,Hospital Discharges,141
+S12000039,2013/2014,Count,Hospital Discharges,126
+S12000039,2015/2016,Count,Hospital Discharges,183
+S12000039,2011/2012,Count,Hospital Discharges,96
+S12000039,2010/2011,Count,Hospital Discharges,144
+S12000039,2012/2013,Count,Hospital Discharges,114
+S12000040,2000/2001,Count,Hospital Discharges,81
+S12000040,1999/2000,Count,Hospital Discharges,78
+S12000040,2001/2002,Count,Hospital Discharges,90
+S12000040,1997/1998,Count,Hospital Discharges,48
+S12000040,1998/1999,Count,Hospital Discharges,36
+S12000041,2009/2010,Count,Hospital Discharges,87
+S12000041,2008/2009,Count,Hospital Discharges,72
+S12000041,2010/2011,Count,Hospital Discharges,105
+S12000041,2006/2007,Count,Hospital Discharges,36
+S12000041,2005/2006,Count,Hospital Discharges,36
+S12000041,2007/2008,Count,Hospital Discharges,45
+S12000041,2014/2015,Count,Hospital Discharges,129
+S12000041,2013/2014,Count,Hospital Discharges,111
+S12000041,2015/2016,Count,Hospital Discharges,81
+S12000041,2011/2012,Count,Hospital Discharges,102
+S12000041,2012/2013,Count,Hospital Discharges,72
+S12000041,1998/1999,Count,Hospital Discharges,24
+S12000041,1997/1998,Count,Hospital Discharges,30
+S12000041,1999/2000,Count,Hospital Discharges,27
+S12000040,2014/2015,Count,Hospital Discharges,267
+S12000040,2013/2014,Count,Hospital Discharges,249
+S12000040,2015/2016,Count,Hospital Discharges,261
+S12000041,2003/2004,Count,Hospital Discharges,30
+S12000041,2002/2003,Count,Hospital Discharges,39
+S12000041,2004/2005,Count,Hospital Discharges,24
+S12000041,2000/2001,Count,Hospital Discharges,33
+S12000041,2001/2002,Count,Hospital Discharges,27
+S12000038,2001/2002,Count,Hospital Discharges,126
+S12000038,2000/2001,Count,Hospital Discharges,96
+S12000038,2002/2003,Count,Hospital Discharges,132
+S12000038,1998/1999,Count,Hospital Discharges,78
+S12000038,1997/1998,Count,Hospital Discharges,48
+S12000038,1999/2000,Count,Hospital Discharges,114
+S12000038,2006/2007,Count,Hospital Discharges,171
+S12000038,2005/2006,Count,Hospital Discharges,123
+S12000038,2007/2008,Count,Hospital Discharges,165
+S12000038,2003/2004,Count,Hospital Discharges,111
+S12000038,2004/2005,Count,Hospital Discharges,132
+S12000036,2009/2010,Count,Hospital Discharges,618
+S12000036,2008/2009,Count,Hospital Discharges,723
+S12000036,2010/2011,Count,Hospital Discharges,756
+S12000036,2006/2007,Count,Hospital Discharges,660
+S12000036,2005/2006,Count,Hospital Discharges,633
+S12000036,2007/2008,Count,Hospital Discharges,693
+S12000036,2014/2015,Count,Hospital Discharges,1134
+S12000036,2013/2014,Count,Hospital Discharges,846
+S12000036,2015/2016,Count,Hospital Discharges,906
+S12000036,2011/2012,Count,Hospital Discharges,762
+S12000036,2012/2013,Count,Hospital Discharges,714
+S12000039,2003/2004,Count,Hospital Discharges,102
+S12000039,2002/2003,Count,Hospital Discharges,135
+S12000039,2004/2005,Count,Hospital Discharges,90
+S12000039,2000/2001,Count,Hospital Discharges,90
+S12000039,1999/2000,Count,Hospital Discharges,69
+S12000039,2001/2002,Count,Hospital Discharges,105
+S12000039,2008/2009,Count,Hospital Discharges,111
+S12000039,2007/2008,Count,Hospital Discharges,117
+S12000039,2009/2010,Count,Hospital Discharges,132
+S12000039,2005/2006,Count,Hospital Discharges,84
+S12000039,2006/2007,Count,Hospital Discharges,69
+S12000038,2011/2012,Count,Hospital Discharges,261
+S12000038,2010/2011,Count,Hospital Discharges,267
+S12000038,2012/2013,Count,Hospital Discharges,237
+S12000038,2008/2009,Count,Hospital Discharges,237
+S12000038,2009/2010,Count,Hospital Discharges,210
+S12000039,1997/1998,Count,Hospital Discharges,45
+S12000038,2015/2016,Count,Hospital Discharges,282
+S12000039,1998/1999,Count,Hospital Discharges,45
+S12000038,2013/2014,Count,Hospital Discharges,276
+S12000038,2014/2015,Count,Hospital Discharges,288
+S12000020,2001/2002,Count,Hospital Discharges,27
+S12000020,2000/2001,Count,Hospital Discharges,18
+S12000020,2002/2003,Count,Hospital Discharges,18
+S12000020,1998/1999,Count,Hospital Discharges,6
+S12000019,2015/2016,Count,Hospital Discharges,114
+S12000020,1999/2000,Count,Hospital Discharges,9
+S12000020,2006/2007,Count,Hospital Discharges,27
+S12000020,2005/2006,Count,Hospital Discharges,36
+S12000020,2007/2008,Count,Hospital Discharges,39
+S12000020,2003/2004,Count,Hospital Discharges,33
+S12000020,2004/2005,Count,Hospital Discharges,36
+S12000019,2008/2009,Count,Hospital Discharges,84
+S12000019,2007/2008,Count,Hospital Discharges,66
+S12000019,2009/2010,Count,Hospital Discharges,63
+S12000019,2005/2006,Count,Hospital Discharges,72
+S12000019,2004/2005,Count,Hospital Discharges,54
+S12000019,2006/2007,Count,Hospital Discharges,81
+S12000019,2013/2014,Count,Hospital Discharges,99
+S12000019,2012/2013,Count,Hospital Discharges,108
+S12000019,2014/2015,Count,Hospital Discharges,141
+S12000019,2010/2011,Count,Hospital Discharges,84
+S12000019,2011/2012,Count,Hospital Discharges,93
+S12000021,2004/2005,Count,Hospital Discharges,276
+S12000021,2003/2004,Count,Hospital Discharges,258
+S12000021,2005/2006,Count,Hospital Discharges,258
+S12000021,2001/2002,Count,Hospital Discharges,243
+S12000021,2000/2001,Count,Hospital Discharges,177
+S12000021,2002/2003,Count,Hospital Discharges,258
+S12000021,2009/2010,Count,Hospital Discharges,321
+S12000021,2008/2009,Count,Hospital Discharges,348
+S12000021,2010/2011,Count,Hospital Discharges,360
+S12000021,2006/2007,Count,Hospital Discharges,288
+S12000021,2007/2008,Count,Hospital Discharges,333
+S12000020,2012/2013,Count,Hospital Discharges,42
+S12000020,2011/2012,Count,Hospital Discharges,45
+S12000020,2013/2014,Count,Hospital Discharges,48
+S12000020,2009/2010,Count,Hospital Discharges,51
+S12000020,2008/2009,Count,Hospital Discharges,42
+S12000020,2010/2011,Count,Hospital Discharges,48
+S12000021,1998/1999,Count,Hospital Discharges,102
+S12000021,1997/1998,Count,Hospital Discharges,63
+S12000021,1999/2000,Count,Hospital Discharges,117
+S12000020,2014/2015,Count,Hospital Discharges,54
+S12000020,2015/2016,Count,Hospital Discharges,108
+S12000017,2014/2015,Count,Hospital Discharges,171
+S12000017,2013/2014,Count,Hospital Discharges,168
+S12000017,2015/2016,Count,Hospital Discharges,213
+S12000017,2011/2012,Count,Hospital Discharges,219
+S12000017,2010/2011,Count,Hospital Discharges,156
+S12000017,2012/2013,Count,Hospital Discharges,186
+S12000018,2000/2001,Count,Hospital Discharges,162
+S12000018,1999/2000,Count,Hospital Discharges,147
+S12000018,2001/2002,Count,Hospital Discharges,165
+S12000018,1997/1998,Count,Hospital Discharges,111
+S12000018,1998/1999,Count,Hospital Discharges,156
+S12000017,2003/2004,Count,Hospital Discharges,84
+S12000017,2002/2003,Count,Hospital Discharges,69
+S12000017,2004/2005,Count,Hospital Discharges,102
+S12000017,2000/2001,Count,Hospital Discharges,57
+S12000017,1999/2000,Count,Hospital Discharges,54
+S12000017,2001/2002,Count,Hospital Discharges,57
+S12000017,2008/2009,Count,Hospital Discharges,192
+S12000017,2007/2008,Count,Hospital Discharges,147
+S12000017,2009/2010,Count,Hospital Discharges,162
+S12000017,2005/2006,Count,Hospital Discharges,108
+S12000017,2006/2007,Count,Hospital Discharges,105
+S12000019,1997/1998,Count,Hospital Discharges,42
+S12000018,2015/2016,Count,Hospital Discharges,252
+S12000019,1998/1999,Count,Hospital Discharges,42
+S12000018,2013/2014,Count,Hospital Discharges,195
+S12000018,2012/2013,Count,Hospital Discharges,156
+S12000018,2014/2015,Count,Hospital Discharges,228
+S12000019,2002/2003,Count,Hospital Discharges,39
+S12000019,2001/2002,Count,Hospital Discharges,42
+S12000019,2003/2004,Count,Hospital Discharges,48
+S12000019,1999/2000,Count,Hospital Discharges,42
+S12000019,2000/2001,Count,Hospital Discharges,33
+S12000018,2005/2006,Count,Hospital Discharges,105
+S12000018,2004/2005,Count,Hospital Discharges,177
+S12000018,2006/2007,Count,Hospital Discharges,114
+S12000018,2002/2003,Count,Hospital Discharges,222
+S12000018,2003/2004,Count,Hospital Discharges,228
+S12000018,2010/2011,Count,Hospital Discharges,201
+S12000018,2009/2010,Count,Hospital Discharges,198
+S12000018,2011/2012,Count,Hospital Discharges,228
+S12000018,2007/2008,Count,Hospital Discharges,198
+S12000018,2008/2009,Count,Hospital Discharges,201
+S12000028,2004/2005,Count,Hospital Discharges,189
+S12000028,2003/2004,Count,Hospital Discharges,156
+S12000028,2005/2006,Count,Hospital Discharges,165
+S12000028,2001/2002,Count,Hospital Discharges,144
+S12000028,2000/2001,Count,Hospital Discharges,123
+S12000028,2002/2003,Count,Hospital Discharges,126
+S12000028,2009/2010,Count,Hospital Discharges,156
+S12000028,2008/2009,Count,Hospital Discharges,177
+S12000028,2010/2011,Count,Hospital Discharges,177
+S12000028,2006/2007,Count,Hospital Discharges,177
+S12000028,2007/2008,Count,Hospital Discharges,165
+S12000027,2012/2013,Count,Hospital Discharges,18
+S12000027,2011/2012,Count,Hospital Discharges,21
+S12000027,2013/2014,Count,Hospital Discharges,27
+S12000027,2009/2010,Count,Hospital Discharges,33
+S12000027,2008/2009,Count,Hospital Discharges,45
+S12000027,2010/2011,Count,Hospital Discharges,36
+S12000028,1998/1999,Count,Hospital Discharges,114
+S12000028,1997/1998,Count,Hospital Discharges,72
+S12000028,1999/2000,Count,Hospital Discharges,102
+S12000027,2014/2015,Count,Hospital Discharges,21
+S12000027,2015/2016,Count,Hospital Discharges,24
+S12000029,2006/2007,Count,Hospital Discharges,186
+S12000029,2005/2006,Count,Hospital Discharges,159
+S12000029,2007/2008,Count,Hospital Discharges,171
+S12000029,2003/2004,Count,Hospital Discharges,180
+S12000029,2002/2003,Count,Hospital Discharges,192
+S12000029,2004/2005,Count,Hospital Discharges,153
+S12000029,2011/2012,Count,Hospital Discharges,249
+S12000029,2010/2011,Count,Hospital Discharges,183
+S12000029,2012/2013,Count,Hospital Discharges,252
+S12000029,2008/2009,Count,Hospital Discharges,183
+S12000029,2009/2010,Count,Hospital Discharges,162
+S12000028,2014/2015,Count,Hospital Discharges,183
+S12000028,2013/2014,Count,Hospital Discharges,162
+S12000028,2015/2016,Count,Hospital Discharges,192
+S12000028,2011/2012,Count,Hospital Discharges,162
+S12000028,2012/2013,Count,Hospital Discharges,126
+S12000029,2000/2001,Count,Hospital Discharges,177
+S12000029,1999/2000,Count,Hospital Discharges,147
+S12000029,2001/2002,Count,Hospital Discharges,195
+S12000029,1997/1998,Count,Hospital Discharges,114
+S12000029,1998/1999,Count,Hospital Discharges,144
+S12000026,1998/1999,Count,Hospital Discharges,30
+S12000026,1997/1998,Count,Hospital Discharges,36
+S12000026,1999/2000,Count,Hospital Discharges,33
+S12000023,2014/2015,Count,Hospital Discharges,15
+S12000023,2013/2014,Count,Hospital Discharges,15
+S12000023,2015/2016,Count,Hospital Discharges,9
+S12000026,2003/2004,Count,Hospital Discharges,45
+S12000026,2002/2003,Count,Hospital Discharges,60
+S12000026,2004/2005,Count,Hospital Discharges,45
+S12000026,2000/2001,Count,Hospital Discharges,42
+S12000026,2001/2002,Count,Hospital Discharges,36
+S12000021,2015/2016,Count,Hospital Discharges,387
+S12000021,2014/2015,Count,Hospital Discharges,348
+S12000023,1997/1998,Count,Hospital Discharges,0
+S12000021,2012/2013,Count,Hospital Discharges,294
+S12000021,2011/2012,Count,Hospital Discharges,375
+S12000021,2013/2014,Count,Hospital Discharges,321
+S12000023,2011/2012,Count,Hospital Discharges,6
+S12000023,2010/2011,Count,Hospital Discharges,9
+S12000023,2012/2013,Count,Hospital Discharges,9
+S12000023,2002/2003,Count,Hospital Discharges,6
+S12000023,2003/2004,Count,Hospital Discharges,6
+S12000027,2001/2002,Count,Hospital Discharges,9
+S12000027,1999/2000,Count,Hospital Discharges,9
+S12000027,2002/2003,Count,Hospital Discharges,9
+S12000027,1997/1998,Count,Hospital Discharges,12
+S12000026,2015/2016,Count,Hospital Discharges,87
+S12000027,1998/1999,Count,Hospital Discharges,9
+S12000027,2006/2007,Count,Hospital Discharges,18
+S12000027,2005/2006,Count,Hospital Discharges,27
+S12000027,2007/2008,Count,Hospital Discharges,30
+S12000027,2003/2004,Count,Hospital Discharges,6
+S12000027,2004/2005,Count,Hospital Discharges,12
+S12000026,2008/2009,Count,Hospital Discharges,75
+S12000026,2007/2008,Count,Hospital Discharges,81
+S12000026,2009/2010,Count,Hospital Discharges,69
+S12000026,2005/2006,Count,Hospital Discharges,57
+S12000026,2006/2007,Count,Hospital Discharges,57
+S12000026,2013/2014,Count,Hospital Discharges,90
+S12000026,2012/2013,Count,Hospital Discharges,81
+S12000026,2014/2015,Count,Hospital Discharges,81
+S12000026,2010/2011,Count,Hospital Discharges,84
+S12000026,2011/2012,Count,Hospital Discharges,102
+S12000050,2000/2001,Count,Hospital Discharges,279
+S12000050,1999/2000,Count,Hospital Discharges,162
+S12000050,2001/2002,Count,Hospital Discharges,249
+S12000050,1997/1998,Count,Hospital Discharges,96
+S08000032,2016/2017,Count,Hospital Discharges,990
+S12000050,1998/1999,Count,Hospital Discharges,162
+S12000050,2005/2006,Count,Hospital Discharges,201
+S12000050,2004/2005,Count,Hospital Discharges,171
+S12000050,2006/2007,Count,Hospital Discharges,198
+S12000050,2002/2003,Count,Hospital Discharges,213
+S12000050,2003/2004,Count,Hospital Discharges,186
+S08000032,2009/2010,Count,Hospital Discharges,366
+S08000032,2008/2009,Count,Hospital Discharges,423
+S08000032,2010/2011,Count,Hospital Discharges,402
+S08000032,2006/2007,Count,Hospital Discharges,384
+S08000032,2005/2006,Count,Hospital Discharges,360
+S08000032,2007/2008,Count,Hospital Discharges,429
+S08000032,2014/2015,Count,Hospital Discharges,681
+S08000032,2013/2014,Count,Hospital Discharges,618
+S08000032,2015/2016,Count,Hospital Discharges,888
+S08000032,2011/2012,Count,Hospital Discharges,501
+S08000032,2012/2013,Count,Hospital Discharges,537
+S12000049,2002/2003,Count,Hospital Discharges,1620
+S12000049,2001/2002,Count,Hospital Discharges,1629
+S12000049,2003/2004,Count,Hospital Discharges,1371
+S12000049,1999/2000,Count,Hospital Discharges,1521
+S12000049,1998/1999,Count,Hospital Discharges,1476
+S12000049,2000/2001,Count,Hospital Discharges,1689
+S12000049,2007/2008,Count,Hospital Discharges,1353
+S12000049,2006/2007,Count,Hospital Discharges,1230
+S12000049,2008/2009,Count,Hospital Discharges,1287
+S12000049,2004/2005,Count,Hospital Discharges,1251
+S12000049,2005/2006,Count,Hospital Discharges,1098
+S12000050,2011/2012,Count,Hospital Discharges,255
+S12000050,2010/2011,Count,Hospital Discharges,219
+S12000050,2012/2013,Count,Hospital Discharges,288
+S12000050,2008/2009,Count,Hospital Discharges,240
+S12000050,2007/2008,Count,Hospital Discharges,255
+S12000050,2009/2010,Count,Hospital Discharges,204
+S12000050,2016/2017,Count,Hospital Discharges,540
+S12000050,2015/2016,Count,Hospital Discharges,444
+S12000049,1997/1998,Count,Hospital Discharges,1056
+S12000050,2013/2014,Count,Hospital Discharges,354
+S12000050,2014/2015,Count,Hospital Discharges,369
+S08000031,1998/1999,Count,Hospital Discharges,1803
+S08000031,1997/1998,Count,Hospital Discharges,1305
+S08000031,1999/2000,Count,Hospital Discharges,1911
+S08000030,2016/2017,Count,Hospital Discharges,597
+S08000030,2015/2016,Count,Hospital Discharges,591
+S08000031,1996/1997,Count,Hospital Discharges,1194
+S08000031,2003/2004,Count,Hospital Discharges,1860
+S08000031,2002/2003,Count,Hospital Discharges,2187
+S08000031,2004/2005,Count,Hospital Discharges,1719
+S08000031,2000/2001,Count,Hospital Discharges,2109
+S08000031,2001/2002,Count,Hospital Discharges,2094
+S08000030,2008/2009,Count,Hospital Discharges,438
+S08000030,2007/2008,Count,Hospital Discharges,318
+S08000030,2009/2010,Count,Hospital Discharges,498
+S08000030,2005/2006,Count,Hospital Discharges,210
+S08000030,2004/2005,Count,Hospital Discharges,192
+S08000030,2006/2007,Count,Hospital Discharges,258
+S08000030,2013/2014,Count,Hospital Discharges,612
+S08000030,2012/2013,Count,Hospital Discharges,522
+S08000030,2014/2015,Count,Hospital Discharges,624
+S08000030,2010/2011,Count,Hospital Discharges,561
+S08000030,2011/2012,Count,Hospital Discharges,570
+S08000032,1998/1999,Count,Hospital Discharges,306
+S08000032,1997/1998,Count,Hospital Discharges,210
+S08000032,1999/2000,Count,Hospital Discharges,309
+S08000031,2016/2017,Count,Hospital Discharges,3027
+S08000031,2015/2016,Count,Hospital Discharges,2460
+S08000032,1996/1997,Count,Hospital Discharges,144
+S08000032,2003/2004,Count,Hospital Discharges,366
+S08000032,2002/2003,Count,Hospital Discharges,405
+S08000032,2004/2005,Count,Hospital Discharges,324
+S08000032,2000/2001,Count,Hospital Discharges,456
+S08000032,2001/2002,Count,Hospital Discharges,444
+S08000031,2008/2009,Count,Hospital Discharges,1935
+S08000031,2007/2008,Count,Hospital Discharges,1923
+S08000031,2009/2010,Count,Hospital Discharges,1923
+S08000031,2005/2006,Count,Hospital Discharges,1470
+S08000031,2006/2007,Count,Hospital Discharges,1668
+S08000031,2013/2014,Count,Hospital Discharges,1836
+S08000031,2012/2013,Count,Hospital Discharges,1668
+S08000031,2014/2015,Count,Hospital Discharges,2028
+S08000031,2010/2011,Count,Hospital Discharges,2088
+S08000031,2011/2012,Count,Hospital Discharges,1950
+S12000030,2017/2018,Count,Hospital Discharges,120
+S12000030,1996/1997,Count,Hospital Discharges,33
+S12000033,1996/1997,Count,Hospital Discharges,285
+S12000029,1996/1997,Count,Hospital Discharges,78
+S12000028,2017/2018,Count,Hospital Discharges,237
+S12000029,2017/2018,Count,Hospital Discharges,522
+S12000035,1996/1997,Count,Hospital Discharges,24
+S12000034,2017/2018,Count,Hospital Discharges,147
+S12000035,2017/2018,Count,Hospital Discharges,84
+S12000033,2017/2018,Count,Hospital Discharges,465
+S12000034,1996/1997,Count,Hospital Discharges,66
+S12000023,1996/1997,Count,Hospital Discharges,0
+S12000021,2017/2018,Count,Hospital Discharges,474
+S12000023,2017/2018,Count,Hospital Discharges,15
+S12000020,2017/2018,Count,Hospital Discharges,87
+S12000020,1996/1997,Count,Hospital Discharges,12
+S12000021,1996/1997,Count,Hospital Discharges,66
+S12000027,2017/2018,Count,Hospital Discharges,18
+S12000027,1996/1997,Count,Hospital Discharges,12
+S12000028,1996/1997,Count,Hospital Discharges,57
+S12000026,1996/1997,Count,Hospital Discharges,24
+S12000026,2017/2018,Count,Hospital Discharges,114
+S12000047,2017/2018,Count,Hospital Discharges,855
+S12000047,1996/1997,Count,Hospital Discharges,126
+S12000048,1996/1997,Count,Hospital Discharges,30
+S12000045,1996/1997,Count,Hospital Discharges,30
+S12000042,2017/2018,Count,Hospital Discharges,471
+S12000045,2017/2018,Count,Hospital Discharges,87
+S12000050,1996/1997,Count,Hospital Discharges,66
+S12000049,2017/2018,Count,Hospital Discharges,2241
+S12000050,2017/2018,Count,Hospital Discharges,672
+S12000048,2017/2018,Count,Hospital Discharges,153
+S12000049,1996/1997,Count,Hospital Discharges,990
+S12000039,1996/1997,Count,Hospital Discharges,33
+S12000038,2017/2018,Count,Hospital Discharges,294
+S12000039,2017/2018,Count,Hospital Discharges,204
+S12000036,2017/2018,Count,Hospital Discharges,846
+S12000036,1996/1997,Count,Hospital Discharges,426
+S12000038,1996/1997,Count,Hospital Discharges,54
+S12000041,2017/2018,Count,Hospital Discharges,120
+S12000041,1996/1997,Count,Hospital Discharges,21
+S12000042,1996/1997,Count,Hospital Discharges,108
+S12000040,1996/1997,Count,Hospital Discharges,54
+S12000040,2017/2018,Count,Hospital Discharges,345
+S08000024,2017/2018,Count,Hospital Discharges,1476
+S08000022,2017/2018,Count,Hospital Discharges,354
+S08000025,2017/2018,Count,Hospital Discharges,15
+S08000019,2017/2018,Count,Hospital Discharges,522
+S08000017,2017/2018,Count,Hospital Discharges,276
+S08000020,2017/2018,Count,Hospital Discharges,699
+S08000030,2017/2018,Count,Hospital Discharges,747
+S08000029,2017/2018,Count,Hospital Discharges,855
+S08000031,2017/2018,Count,Hospital Discharges,3105
+S08000026,2017/2018,Count,Hospital Discharges,18
+S08000028,2017/2018,Count,Hospital Discharges,9
+S12000049,2013/2014,Count,Hospital Discharges,1152
+S12000049,2012/2013,Count,Hospital Discharges,1074
+S12000049,2014/2015,Count,Hospital Discharges,1260
+S12000049,2010/2011,Count,Hospital Discharges,1380
+S12000049,2009/2010,Count,Hospital Discharges,1287
+S12000049,2011/2012,Count,Hospital Discharges,1275
+S08000015,2017/2018,Count,Hospital Discharges,1125
+S92000003,2017/2018,Count,Hospital Discharges,10509
+S08000016,2017/2018,Count,Hospital Discharges,114
+S12000049,2015/2016,Count,Hospital Discharges,1617
+S12000049,2016/2017,Count,Hospital Discharges,2067
+S12000014,2017/2018,Count,Hospital Discharges,291
+S12000014,1996/1997,Count,Hospital Discharges,42
+S12000017,1996/1997,Count,Hospital Discharges,30
+S12000013,1996/1997,Count,Hospital Discharges,3
+S12000011,2017/2018,Count,Hospital Discharges,69
+S12000013,2017/2018,Count,Hospital Discharges,9
+S12000019,1996/1997,Count,Hospital Discharges,21
+S12000018,2017/2018,Count,Hospital Discharges,210
+S12000019,2017/2018,Count,Hospital Discharges,177
+S12000017,2017/2018,Count,Hospital Discharges,267
+S12000018,1996/1997,Count,Hospital Discharges,75
+S12000006,1996/1997,Count,Hospital Discharges,42
+S12000005,2017/2018,Count,Hospital Discharges,111
+S12000006,2017/2018,Count,Hospital Discharges,276
+S08000032,2017/2018,Count,Hospital Discharges,1197
+S12000005,1996/1997,Count,Hospital Discharges,24
+S12000010,2017/2018,Count,Hospital Discharges,105
+S12000010,1996/1997,Count,Hospital Discharges,33
+S12000011,1996/1997,Count,Hospital Discharges,9
+S12000008,1996/1997,Count,Hospital Discharges,84
+S12000008,2017/2018,Count,Hospital Discharges,414
+S08000026,2000/2001,Count,Hospital Discharges,0
+S08000025,2016/2017,Count,Hospital Discharges,6
+S08000026,2016/2017,Count,Hospital Discharges,27
+S08000025,2008/2009,Count,Hospital Discharges,3
+S08000025,2007/2008,Count,Hospital Discharges,3
+S08000025,2009/2010,Count,Hospital Discharges,3
+S12000005,2016/2017,Count,Hospital Discharges,69
+S08000028,2016/2017,Count,Hospital Discharges,9
+S12000006,2016/2017,Count,Hospital Discharges,231
+S08000028,1996/1997,Count,Hospital Discharges,3
+S08000028,1998/1999,Count,Hospital Discharges,3
+S08000025,1998/1999,Count,Hospital Discharges,0
+S08000025,1996/1997,Count,Hospital Discharges,0
+S08000025,1999/2000,Count,Hospital Discharges,0
+S08000022,2016/2017,Count,Hospital Discharges,309
+S08000020,2016/2017,Count,Hospital Discharges,633
+S08000024,2016/2017,Count,Hospital Discharges,1305
+S08000025,2005/2006,Count,Hospital Discharges,0
+S08000025,2004/2005,Count,Hospital Discharges,6
+S08000025,2006/2007,Count,Hospital Discharges,3
+S08000025,2000/2001,Count,Hospital Discharges,0
+S08000025,2001/2002,Count,Hospital Discharges,0
+S12000023,2001/2002,Count,Hospital Discharges,0
+S12000023,2000/2001,Count,Hospital Discharges,0
+S12000023,2004/2005,Count,Hospital Discharges,6
+S12000023,1998/1999,Count,Hospital Discharges,0
+S12000021,2016/2017,Count,Hospital Discharges,507
+S12000023,1999/2000,Count,Hospital Discharges,0
+S12000023,2008/2009,Count,Hospital Discharges,3
+S12000023,2007/2008,Count,Hospital Discharges,3
+S12000023,2009/2010,Count,Hospital Discharges,3
+S12000023,2005/2006,Count,Hospital Discharges,0
+S12000023,2006/2007,Count,Hospital Discharges,3
+S12000013,2016/2017,Count,Hospital Discharges,9
+S12000013,1998/1999,Count,Hospital Discharges,3
+S12000014,2016/2017,Count,Hospital Discharges,195
+S12000010,2016/2017,Count,Hospital Discharges,102
+S12000008,2016/2017,Count,Hospital Discharges,381
+S12000011,2016/2017,Count,Hospital Discharges,54
+S12000020,1997/1998,Count,Hospital Discharges,9
+S12000019,2016/2017,Count,Hospital Discharges,108
+S12000020,2016/2017,Count,Hospital Discharges,75
+S12000017,2016/2017,Count,Hospital Discharges,225
+S12000018,2016/2017,Count,Hospital Discharges,246
+S12000042,2012/2013,Count,Hospital Discharges,306
+S12000042,2011/2012,Count,Hospital Discharges,330
+S12000042,2013/2014,Count,Hospital Discharges,357
+S12000042,2009/2010,Count,Hospital Discharges,291
+S12000042,2008/2009,Count,Hospital Discharges,249
+S12000042,2010/2011,Count,Hospital Discharges,330
+S12000045,1998/1999,Count,Hospital Discharges,30
+S12000045,1997/1998,Count,Hospital Discharges,24
+S12000045,1999/2000,Count,Hospital Discharges,39
+S12000042,2014/2015,Count,Hospital Discharges,369
+S12000042,2015/2016,Count,Hospital Discharges,354
+S12000042,2001/2002,Count,Hospital Discharges,102
+S12000042,2000/2001,Count,Hospital Discharges,111
+S12000042,2002/2003,Count,Hospital Discharges,108
+S12000042,1998/1999,Count,Hospital Discharges,108
+S12000042,1997/1998,Count,Hospital Discharges,129
+S12000042,1999/2000,Count,Hospital Discharges,93
+S12000042,2006/2007,Count,Hospital Discharges,108
+S12000042,2005/2006,Count,Hospital Discharges,93
+S12000042,2007/2008,Count,Hospital Discharges,141
+S12000042,2003/2004,Count,Hospital Discharges,84
+S12000042,2004/2005,Count,Hospital Discharges,81
+S12000045,2014/2015,Count,Hospital Discharges,57
+S12000045,2013/2014,Count,Hospital Discharges,42
+S12000045,2015/2016,Count,Hospital Discharges,69
+S12000045,2011/2012,Count,Hospital Discharges,45
+S12000045,2010/2011,Count,Hospital Discharges,48
+S12000045,2012/2013,Count,Hospital Discharges,45
+S08000017,2016/2017,Count,Hospital Discharges,231
+S08000016,2016/2017,Count,Hospital Discharges,90
+S08000019,2016/2017,Count,Hospital Discharges,408
+S92000003,2016/2017,Count,Hospital Discharges,9525
+S08000015,2016/2017,Count,Hospital Discharges,1137
+S12000045,2003/2004,Count,Hospital Discharges,24
+S12000045,2002/2003,Count,Hospital Discharges,54
+S12000045,2004/2005,Count,Hospital Discharges,30
+S12000045,2000/2001,Count,Hospital Discharges,45
+S12000045,2001/2002,Count,Hospital Discharges,39
+S12000045,2008/2009,Count,Hospital Discharges,36
+S12000045,2007/2008,Count,Hospital Discharges,45
+S12000045,2009/2010,Count,Hospital Discharges,42
+S12000045,2005/2006,Count,Hospital Discharges,27
+S12000045,2006/2007,Count,Hospital Discharges,36
+S08000029,1997/1998,Count,Hospital Discharges,120
+S08000029,1996/1997,Count,Hospital Discharges,126
+S08000029,1998/1999,Count,Hospital Discharges,165
+S12000048,2015/2016,Count,Hospital Discharges,156
+S12000048,2014/2015,Count,Hospital Discharges,126
+S12000048,2016/2017,Count,Hospital Discharges,147
+S08000029,2002/2003,Count,Hospital Discharges,264
+S08000029,2001/2002,Count,Hospital Discharges,234
+S08000029,2003/2004,Count,Hospital Discharges,276
+S08000029,1999/2000,Count,Hospital Discharges,243
+S08000029,2000/2001,Count,Hospital Discharges,300
+S12000048,2007/2008,Count,Hospital Discharges,132
+S12000048,2006/2007,Count,Hospital Discharges,114
+S12000048,2008/2009,Count,Hospital Discharges,117
+S12000048,2004/2005,Count,Hospital Discharges,87
+S12000048,2003/2004,Count,Hospital Discharges,96
+S12000048,2005/2006,Count,Hospital Discharges,81
+S12000048,2012/2013,Count,Hospital Discharges,141
+S12000048,2011/2012,Count,Hospital Discharges,138
+S12000048,2013/2014,Count,Hospital Discharges,144
+S12000048,2009/2010,Count,Hospital Discharges,120
+S12000048,2010/2011,Count,Hospital Discharges,126
+S08000030,1997/1998,Count,Hospital Discharges,198
+S08000030,1996/1997,Count,Hospital Discharges,159
+S08000030,1998/1999,Count,Hospital Discharges,168
+S08000029,2015/2016,Count,Hospital Discharges,645
+S08000029,2014/2015,Count,Hospital Discharges,675
+S08000029,2016/2017,Count,Hospital Discharges,756
+S08000030,2002/2003,Count,Hospital Discharges,246
+S08000030,2001/2002,Count,Hospital Discharges,171
+S08000030,2003/2004,Count,Hospital Discharges,210
+S08000030,1999/2000,Count,Hospital Discharges,189
+S08000030,2000/2001,Count,Hospital Discharges,198
+S08000029,2007/2008,Count,Hospital Discharges,405
+S08000029,2006/2007,Count,Hospital Discharges,399
+S08000029,2008/2009,Count,Hospital Discharges,441
+S08000029,2004/2005,Count,Hospital Discharges,354
+S08000029,2005/2006,Count,Hospital Discharges,390
+S08000029,2012/2013,Count,Hospital Discharges,582
+S08000029,2011/2012,Count,Hospital Discharges,462
+S08000029,2013/2014,Count,Hospital Discharges,750
+S08000029,2009/2010,Count,Hospital Discharges,441
+S08000029,2010/2011,Count,Hospital Discharges,399
+S12000042,2016/2017,Count,Hospital Discharges,384
+S12000041,2016/2017,Count,Hospital Discharges,66
+S12000045,2016/2017,Count,Hospital Discharges,84
+S12000039,2016/2017,Count,Hospital Discharges,225
+S12000038,2016/2017,Count,Hospital Discharges,351
+S12000040,2016/2017,Count,Hospital Discharges,321
+S12000047,2000/2001,Count,Hospital Discharges,300
+S12000047,1999/2000,Count,Hospital Discharges,243
+S12000047,2001/2002,Count,Hospital Discharges,234
+S12000047,1997/1998,Count,Hospital Discharges,120
+S12000047,1998/1999,Count,Hospital Discharges,165
+S12000028,2016/2017,Count,Hospital Discharges,246
+S12000027,2016/2017,Count,Hospital Discharges,27
+S12000029,2016/2017,Count,Hospital Discharges,450
+S12000026,2016/2017,Count,Hospital Discharges,90
+S12000023,2016/2017,Count,Hospital Discharges,6
+S12000027,2000/2001,Count,Hospital Discharges,0
+S12000035,2016/2017,Count,Hospital Discharges,84
+S12000034,2016/2017,Count,Hospital Discharges,147
+S12000036,2016/2017,Count,Hospital Discharges,777
+S12000030,2016/2017,Count,Hospital Discharges,144
+S12000033,2016/2017,Count,Hospital Discharges,408
+S12000047,2016/2017,Count,Hospital Discharges,756
+S12000047,2015/2016,Count,Hospital Discharges,645
+S12000048,1997/1998,Count,Hospital Discharges,39
+S12000047,2013/2014,Count,Hospital Discharges,750
+S12000047,2012/2013,Count,Hospital Discharges,582
+S12000047,2014/2015,Count,Hospital Discharges,675
+S12000048,2001/2002,Count,Hospital Discharges,42
+S12000048,2000/2001,Count,Hospital Discharges,57
+S12000048,2002/2003,Count,Hospital Discharges,99
+S12000048,1998/1999,Count,Hospital Discharges,39
+S12000048,1999/2000,Count,Hospital Discharges,69
+S12000047,2005/2006,Count,Hospital Discharges,390
+S12000047,2004/2005,Count,Hospital Discharges,354
+S12000047,2006/2007,Count,Hospital Discharges,399
+S12000047,2002/2003,Count,Hospital Discharges,264
+S12000047,2003/2004,Count,Hospital Discharges,276
+S12000047,2010/2011,Count,Hospital Discharges,399
+S12000047,2009/2010,Count,Hospital Discharges,441
+S12000047,2011/2012,Count,Hospital Discharges,462
+S12000047,2007/2008,Count,Hospital Discharges,405
+S12000047,2008/2009,Count,Hospital Discharges,441
+S08000028,1997/1998,Count,Hospital Discharges,0
+S12000010,1997/1998,Count,Hospital Discharges,33
+S08000028,2000/2001,Count,Hospital Discharges,6
+S08000028,1999/2000,Count,Hospital Discharges,9
+S12000010,1999/2000,Count,Hospital Discharges,39
+S12000010,2000/2001,Count,Hospital Discharges,36
+S12000010,1998/1999,Count,Hospital Discharges,42
+S08000028,2005/2006,Count,Hospital Discharges,12
+S08000028,2004/2005,Count,Hospital Discharges,15
+S08000028,2006/2007,Count,Hospital Discharges,12
+S08000028,2002/2003,Count,Hospital Discharges,9
+S08000028,2001/2002,Count,Hospital Discharges,6
+S08000028,2003/2004,Count,Hospital Discharges,12
+S12000010,2009/2010,Count,Hospital Discharges,63
+S12000010,2010/2011,Count,Hospital Discharges,78
+S12000010,2007/2008,Count,Hospital Discharges,69
+S12000010,2008/2009,Count,Hospital Discharges,84
+S12000010,2012/2013,Count,Hospital Discharges,78
+S12000010,2013/2014,Count,Hospital Discharges,111
+S12000010,2011/2012,Count,Hospital Discharges,102
+S12000010,2002/2003,Count,Hospital Discharges,48
+S12000010,2003/2004,Count,Hospital Discharges,39
+S12000010,2001/2002,Count,Hospital Discharges,48
+S12000010,2005/2006,Count,Hospital Discharges,63
+S12000010,2006/2007,Count,Hospital Discharges,78
+S12000010,2004/2005,Count,Hospital Discharges,60
+S12000008,2014/2015,Count,Hospital Discharges,318
+S12000008,2015/2016,Count,Hospital Discharges,303
+S08000017,2002/2003,Count,Hospital Discharges,129
+S12000008,2013/2014,Count,Hospital Discharges,291
+S08000017,2000/2001,Count,Hospital Discharges,90
+S08000017,1999/2000,Count,Hospital Discharges,78
+S08000017,2001/2002,Count,Hospital Discharges,135
+S08000017,2007/2008,Count,Hospital Discharges,138
+S08000017,2006/2007,Count,Hospital Discharges,117
+S08000017,2008/2009,Count,Hospital Discharges,153
+S08000017,2004/2005,Count,Hospital Discharges,90
+S08000017,2003/2004,Count,Hospital Discharges,99
+S08000017,2005/2006,Count,Hospital Discharges,105
+S08000028,2011/2012,Count,Hospital Discharges,12
+S08000028,2010/2011,Count,Hospital Discharges,9
+S08000028,2012/2013,Count,Hospital Discharges,9
+S08000028,2008/2009,Count,Hospital Discharges,6
+S08000028,2007/2008,Count,Hospital Discharges,9
+S08000028,2009/2010,Count,Hospital Discharges,6
+S08000017,1997/1998,Count,Hospital Discharges,72
+S08000017,1996/1997,Count,Hospital Discharges,42
+S08000017,1998/1999,Count,Hospital Discharges,81
+S08000020,2015/2016,Count,Hospital Discharges,621
+S08000028,2013/2014,Count,Hospital Discharges,12
+S08000020,2014/2015,Count,Hospital Discharges,558
+S12000011,2001/2002,Count,Hospital Discharges,30
+S12000011,2002/2003,Count,Hospital Discharges,24
+S12000011,1999/2000,Count,Hospital Discharges,27
+S12000011,2000/2001,Count,Hospital Discharges,24
+S12000011,2004/2005,Count,Hospital Discharges,39
+S12000011,2005/2006,Count,Hospital Discharges,33
+S12000011,2003/2004,Count,Hospital Discharges,27
+S08000022,2000/2001,Count,Hospital Discharges,96
+S08000022,2001/2002,Count,Hospital Discharges,93
+S08000022,1999/2000,Count,Hospital Discharges,102
+S12000011,1997/1998,Count,Hospital Discharges,21
+S12000011,1998/1999,Count,Hospital Discharges,15
+S08000022,2002/2003,Count,Hospital Discharges,117
+S08000026,2014/2015,Count,Hospital Discharges,21
+S08000022,2004/2005,Count,Hospital Discharges,144
+S08000022,2003/2004,Count,Hospital Discharges,141
+S08000026,2015/2016,Count,Hospital Discharges,24
+S08000022,2006/2007,Count,Hospital Discharges,147
+S08000022,2007/2008,Count,Hospital Discharges,198
+S08000022,2005/2006,Count,Hospital Discharges,147
+S12000011,2007/2008,Count,Hospital Discharges,42
+S12000011,2008/2009,Count,Hospital Discharges,60
+S12000011,2006/2007,Count,Hospital Discharges,45
+S12000011,2010/2011,Count,Hospital Discharges,45
+S12000011,2011/2012,Count,Hospital Discharges,45
+S12000011,2009/2010,Count,Hospital Discharges,54
+S08000016,2012/2013,Count,Hospital Discharges,81
+S08000016,2011/2012,Count,Hospital Discharges,102
+S08000016,2014/2015,Count,Hospital Discharges,81
+S08000016,2013/2014,Count,Hospital Discharges,90
+S08000016,2009/2010,Count,Hospital Discharges,69
+S08000016,2008/2009,Count,Hospital Discharges,75
+S08000016,2010/2011,Count,Hospital Discharges,84
+S12000010,2015/2016,Count,Hospital Discharges,117
+S08000022,1996/1997,Count,Hospital Discharges,54
+S12000010,2014/2015,Count,Hospital Discharges,120
+S08000016,2015/2016,Count,Hospital Discharges,87
+S08000022,1998/1999,Count,Hospital Discharges,78
+S08000022,1997/1998,Count,Hospital Discharges,60
+S08000016,2000/2001,Count,Hospital Discharges,42
+S08000016,1999/2000,Count,Hospital Discharges,33
+S08000016,2001/2002,Count,Hospital Discharges,36
+S08000016,1997/1998,Count,Hospital Discharges,36
+S08000016,1996/1997,Count,Hospital Discharges,24
+S08000016,1998/1999,Count,Hospital Discharges,30
+S08000016,2006/2007,Count,Hospital Discharges,57
+S08000016,2005/2006,Count,Hospital Discharges,57
+S08000016,2007/2008,Count,Hospital Discharges,81
+S08000016,2003/2004,Count,Hospital Discharges,45
+S08000016,2002/2003,Count,Hospital Discharges,60
+S08000016,2004/2005,Count,Hospital Discharges,45
+S12000006,2009/2010,Count,Hospital Discharges,171
+S12000006,2010/2011,Count,Hospital Discharges,162
+S12000006,2007/2008,Count,Hospital Discharges,138
+S12000006,2008/2009,Count,Hospital Discharges,153
+S12000006,2012/2013,Count,Hospital Discharges,174
+S12000005,2012/2013,Count,Hospital Discharges,33
+S12000006,2011/2012,Count,Hospital Discharges,168
+S12000006,2002/2003,Count,Hospital Discharges,129
+S12000006,2003/2004,Count,Hospital Discharges,99
+S12000006,2001/2002,Count,Hospital Discharges,135
+S12000006,2005/2006,Count,Hospital Discharges,105
+S12000006,2006/2007,Count,Hospital Discharges,117
+S12000006,2004/2005,Count,Hospital Discharges,90
+S12000005,2003/2004,Count,Hospital Discharges,30
+S12000005,2002/2003,Count,Hospital Discharges,42
+S12000005,2005/2006,Count,Hospital Discharges,21
+S12000005,2004/2005,Count,Hospital Discharges,27
+S12000005,2000/2001,Count,Hospital Discharges,27
+S12000005,1999/2000,Count,Hospital Discharges,33
+S12000005,2001/2002,Count,Hospital Discharges,27
+S12000005,2010/2011,Count,Hospital Discharges,39
+S12000005,2009/2010,Count,Hospital Discharges,36
+S12000005,2011/2012,Count,Hospital Discharges,39
+S12000005,2007/2008,Count,Hospital Discharges,45
+S12000005,2006/2007,Count,Hospital Discharges,27
+S12000005,2008/2009,Count,Hospital Discharges,51
+S08000019,2010/2011,Count,Hospital Discharges,252
+S08000019,2009/2010,Count,Hospital Discharges,246
+S08000019,2012/2013,Count,Hospital Discharges,213
+S08000019,2011/2012,Count,Hospital Discharges,201
+S08000019,2007/2008,Count,Hospital Discharges,180
+S08000019,2006/2007,Count,Hospital Discharges,132
+S08000019,2008/2009,Count,Hospital Discharges,228
+S12000005,2015/2016,Count,Hospital Discharges,84
+S12000005,2013/2014,Count,Hospital Discharges,48
+S12000005,2014/2015,Count,Hospital Discharges,42
+S08000019,2014/2015,Count,Hospital Discharges,297
+S08000019,2013/2014,Count,Hospital Discharges,270
+S08000019,2015/2016,Count,Hospital Discharges,387
+S08000019,1998/1999,Count,Hospital Discharges,150
+S12000006,1997/1998,Count,Hospital Discharges,72
+S08000019,1999/2000,Count,Hospital Discharges,177
+S12000006,1999/2000,Count,Hospital Discharges,78
+S12000006,2000/2001,Count,Hospital Discharges,90
+S12000006,1998/1999,Count,Hospital Discharges,81
+S08000019,2004/2005,Count,Hospital Discharges,156
+S08000019,2003/2004,Count,Hospital Discharges,156
+S08000019,2005/2006,Count,Hospital Discharges,126
+S08000019,2001/2002,Count,Hospital Discharges,180
+S08000019,2000/2001,Count,Hospital Discharges,147
+S08000019,2002/2003,Count,Hospital Discharges,210
+S12000008,2008/2009,Count,Hospital Discharges,255
+S12000008,2009/2010,Count,Hospital Discharges,279
+S12000008,2006/2007,Count,Hospital Discharges,243
+S12000008,2007/2008,Count,Hospital Discharges,294
+S12000008,2011/2012,Count,Hospital Discharges,360
+S12000008,2012/2013,Count,Hospital Discharges,300
+S12000008,2010/2011,Count,Hospital Discharges,324
+S12000008,2001/2002,Count,Hospital Discharges,222
+S12000008,2002/2003,Count,Hospital Discharges,243
+S12000008,2000/2001,Count,Hospital Discharges,147
+S12000008,2004/2005,Count,Hospital Discharges,222
+S12000008,2005/2006,Count,Hospital Discharges,207
+S12000008,2003/2004,Count,Hospital Discharges,204
+S08000017,2013/2014,Count,Hospital Discharges,192
+S08000017,2012/2013,Count,Hospital Discharges,174
+S08000017,2014/2015,Count,Hospital Discharges,171
+S08000017,2010/2011,Count,Hospital Discharges,162
+S08000017,2009/2010,Count,Hospital Discharges,171
+S08000017,2011/2012,Count,Hospital Discharges,168
+S08000028,2014/2015,Count,Hospital Discharges,15
+S08000020,2011/2012,Count,Hospital Discharges,660
+S08000028,2015/2016,Count,Hospital Discharges,9
+S08000020,2013/2014,Count,Hospital Discharges,600
+S08000017,2015/2016,Count,Hospital Discharges,186
+S08000020,2012/2013,Count,Hospital Discharges,564
+S08000020,1997/1998,Count,Hospital Discharges,396
+S08000020,1998/1999,Count,Hospital Discharges,414
+S08000019,1996/1997,Count,Hospital Discharges,99
+S08000020,1996/1997,Count,Hospital Discharges,360
+S08000020,2000/2001,Count,Hospital Discharges,498
+S08000020,2001/2002,Count,Hospital Discharges,510
+S08000020,1999/2000,Count,Hospital Discharges,501
+S12000005,1997/1998,Count,Hospital Discharges,24
+S08000019,1997/1998,Count,Hospital Discharges,108
+S12000005,1998/1999,Count,Hospital Discharges,33
+S12000006,2014/2015,Count,Hospital Discharges,171
+S12000006,2015/2016,Count,Hospital Discharges,186
+S12000006,2013/2014,Count,Hospital Discharges,192
+S08000020,2009/2010,Count,Hospital Discharges,819
+S08000020,2010/2011,Count,Hospital Discharges,750
+S08000020,2008/2009,Count,Hospital Discharges,771
+S12000008,1998/1999,Count,Hospital Discharges,129
+S12000008,1999/2000,Count,Hospital Discharges,135
+S12000008,1997/1998,Count,Hospital Discharges,90
+S08000020,2003/2004,Count,Hospital Discharges,519
+S08000020,2004/2005,Count,Hospital Discharges,594
+S08000020,2002/2003,Count,Hospital Discharges,540
+S08000020,2006/2007,Count,Hospital Discharges,633
+S08000020,2007/2008,Count,Hospital Discharges,702
+S08000020,2005/2006,Count,Hospital Discharges,537
+S08000024,2000/2001,Count,Hospital Discharges,570
+S08000024,2001/2002,Count,Hospital Discharges,696
+S08000024,1999/2000,Count,Hospital Discharges,621
+S08000024,2003/2004,Count,Hospital Discharges,747
+S08000024,2004/2005,Count,Hospital Discharges,768
+S08000024,2002/2003,Count,Hospital Discharges,660
+S08000015,1996/1997,Count,Hospital Discharges,207
+S08000024,1996/1997,Count,Hospital Discharges,534
+S08000015,1997/1998,Count,Hospital Discharges,225
+S08000024,1998/1999,Count,Hospital Discharges,573
+S08000025,2015/2016,Count,Hospital Discharges,9
+S08000024,1997/1998,Count,Hospital Discharges,630
+S12000014,1999/2000,Count,Hospital Discharges,84
+S12000014,2000/2001,Count,Hospital Discharges,75
+S12000014,1998/1999,Count,Hospital Discharges,66
+S08000024,2010/2011,Count,Hospital Discharges,1137
+S08000024,2011/2012,Count,Hospital Discharges,1254
+S12000014,2001/2002,Count,Hospital Discharges,102
+S08000024,2006/2007,Count,Hospital Discharges,972
+S08000024,2007/2008,Count,Hospital Discharges,1050
+S08000024,2005/2006,Count,Hospital Discharges,903
+S08000024,2009/2010,Count,Hospital Discharges,945
+S12000014,1997/1998,Count,Hospital Discharges,54
+S08000024,2008/2009,Count,Hospital Discharges,1101
+S12000013,2004/2005,Count,Hospital Discharges,15
+S12000013,2005/2006,Count,Hospital Discharges,12
+S12000013,2003/2004,Count,Hospital Discharges,12
+S12000013,2007/2008,Count,Hospital Discharges,9
+S12000013,2008/2009,Count,Hospital Discharges,6
+S12000013,2006/2007,Count,Hospital Discharges,12
+S08000015,2007/2008,Count,Hospital Discharges,792
+S08000015,2006/2007,Count,Hospital Discharges,708
+S08000015,2008/2009,Count,Hospital Discharges,780
+S08000015,2004/2005,Count,Hospital Discharges,690
+S08000015,2003/2004,Count,Hospital Discharges,618
+S08000015,2005/2006,Count,Hospital Discharges,630
+S08000015,2002/2003,Count,Hospital Discharges,627
+S08000015,2001/2002,Count,Hospital Discharges,612
+S12000013,2015/2016,Count,Hospital Discharges,9
+S08000015,1999/2000,Count,Hospital Discharges,354
+S08000015,1998/1999,Count,Hospital Discharges,345
+S08000015,2000/2001,Count,Hospital Discharges,447
+S12000013,2010/2011,Count,Hospital Discharges,9
+S12000013,2011/2012,Count,Hospital Discharges,12
+S12000013,2009/2010,Count,Hospital Discharges,6
+S12000013,2013/2014,Count,Hospital Discharges,12
+S12000013,2014/2015,Count,Hospital Discharges,15
+S12000013,2012/2013,Count,Hospital Discharges,9
+S92000003,2010/2011,Count,Hospital Discharges,6960
+S92000003,2009/2010,Count,Hospital Discharges,6489
+S92000003,2011/2012,Count,Hospital Discharges,7074
+S92000003,2007/2008,Count,Hospital Discharges,6264
+S92000003,2006/2007,Count,Hospital Discharges,5505
+S92000003,2008/2009,Count,Hospital Discharges,6639
+S12000014,2013/2014,Count,Hospital Discharges,144
+S12000014,2014/2015,Count,Hospital Discharges,156
+S12000014,2012/2013,Count,Hospital Discharges,87
+S92000003,2013/2014,Count,Hospital Discharges,7314
+S92000003,2012/2013,Count,Hospital Discharges,6477
+S12000014,2015/2016,Count,Hospital Discharges,186
+S92000003,1998/1999,Count,Hospital Discharges,4128
+S92000003,1997/1998,Count,Hospital Discharges,3378
+S92000003,1999/2000,Count,Hospital Discharges,4539
+S12000017,1997/1998,Count,Hospital Discharges,42
+S12000017,1998/1999,Count,Hospital Discharges,39
+S92000003,1996/1997,Count,Hospital Discharges,2958
+S92000003,2004/2005,Count,Hospital Discharges,5112
+S92000003,2003/2004,Count,Hospital Discharges,5064
+S92000003,2005/2006,Count,Hospital Discharges,4974
+S92000003,2001/2002,Count,Hospital Discharges,5220
+S92000003,2000/2001,Count,Hospital Discharges,4965
+S92000003,2002/2003,Count,Hospital Discharges,5469
+S08000025,2010/2011,Count,Hospital Discharges,9
+S08000025,2003/2004,Count,Hospital Discharges,6
+S08000025,2011/2012,Count,Hospital Discharges,6
+S08000025,1997/1998,Count,Hospital Discharges,0
+S08000024,2015/2016,Count,Hospital Discharges,1395
+S08000025,2002/2003,Count,Hospital Discharges,6
+S08000024,2013/2014,Count,Hospital Discharges,1308
+S08000024,2014/2015,Count,Hospital Discharges,1662
+S08000024,2012/2013,Count,Hospital Discharges,1149
+S08000025,2013/2014,Count,Hospital Discharges,15
+S08000025,2012/2013,Count,Hospital Discharges,9
+S08000025,2014/2015,Count,Hospital Discharges,15
+S12000014,2007/2008,Count,Hospital Discharges,66
+S12000014,2008/2009,Count,Hospital Discharges,99
+S12000014,2006/2007,Count,Hospital Discharges,60
+S12000014,2010/2011,Count,Hospital Discharges,96
+S12000014,2011/2012,Count,Hospital Discharges,87
+S12000014,2009/2010,Count,Hospital Discharges,120
+S92000003,2014/2015,Count,Hospital Discharges,7881
+S12000014,2002/2003,Count,Hospital Discharges,93
+S92000003,2015/2016,Count,Hospital Discharges,8460
+S12000014,2004/2005,Count,Hospital Discharges,69
+S12000014,2005/2006,Count,Hospital Discharges,57
+S12000014,2003/2004,Count,Hospital Discharges,63
+S08000015,2012/2013,Count,Hospital Discharges,720
+S08000022,2013/2014,Count,Hospital Discharges,213
+S08000026,2013/2014,Count,Hospital Discharges,27
+S12000013,1999/2000,Count,Hospital Discharges,9
+S12000013,1997/1998,Count,Hospital Discharges,0
+S08000026,2010/2011,Count,Hospital Discharges,36
+S08000026,2009/2010,Count,Hospital Discharges,33
+S08000026,2012/2013,Count,Hospital Discharges,18
+S08000026,2011/2012,Count,Hospital Discharges,21
+S12000011,2012/2013,Count,Hospital Discharges,45
+S12000011,2013/2014,Count,Hospital Discharges,48
+S08000022,2009/2010,Count,Hospital Discharges,213
+S08000022,2010/2011,Count,Hospital Discharges,210
+S08000022,2011/2012,Count,Hospital Discharges,273
+S08000022,2012/2013,Count,Hospital Discharges,228
+S12000011,2014/2015,Count,Hospital Discharges,54
+S12000011,2015/2016,Count,Hospital Discharges,57
+S08000026,2002/2003,Count,Hospital Discharges,9
+S08000022,2014/2015,Count,Hospital Discharges,204
+S08000026,1996/1997,Count,Hospital Discharges,12
+S08000022,2015/2016,Count,Hospital Discharges,267
+S08000026,2003/2004,Count,Hospital Discharges,6
+S08000026,1999/2000,Count,Hospital Discharges,9
+S08000026,1998/1999,Count,Hospital Discharges,9
+S08000026,1997/1998,Count,Hospital Discharges,12
+S08000026,2001/2002,Count,Hospital Discharges,9
+S08000015,2013/2014,Count,Hospital Discharges,774
+S08000026,2006/2007,Count,Hospital Discharges,18
+S08000026,2008/2009,Count,Hospital Discharges,45
+S08000026,2007/2008,Count,Hospital Discharges,30
+S08000026,2005/2006,Count,Hospital Discharges,27
+S08000026,2004/2005,Count,Hospital Discharges,12
+S08000015,2014/2015,Count,Hospital Discharges,849
+S08000015,2015/2016,Count,Hospital Discharges,882
+S08000015,2011/2012,Count,Hospital Discharges,897
+S08000022,2008/2009,Count,Hospital Discharges,237
+S08000015,2010/2011,Count,Hospital Discharges,864
+S12000013,2001/2002,Count,Hospital Discharges,6
+S12000013,2000/2001,Count,Hospital Discharges,6
+S12000013,2002/2003,Count,Hospital Discharges,9
+S08000015,2009/2010,Count,Hospital Discharges,756
+S08000029,1997/1998,Ratio,"EASR per 100,000",32.11
+S12000042,2016/2017,Ratio,"EASR per 100,000",275.33
+S08000029,1996/1997,Ratio,"EASR per 100,000",33.01
+S12000041,2016/2017,Ratio,"EASR per 100,000",63.5
+S08000029,1998/1999,Ratio,"EASR per 100,000",44.11
+S08000019,2012/2013,Ratio,"EASR per 100,000",72.53
+S08000019,2013/2014,Ratio,"EASR per 100,000",92.43
+S08000019,2000/2001,Ratio,"EASR per 100,000",50.57
+S12000048,2011/2012,Ratio,"EASR per 100,000",102.44
+S08000019,2002/2003,Ratio,"EASR per 100,000",71.89
+S08000019,2001/2002,Ratio,"EASR per 100,000",63.04
+S12000048,2013/2014,Ratio,"EASR per 100,000",108.36
+S08000019,1999/2000,Ratio,"EASR per 100,000",59.33
+S12000048,2012/2013,Ratio,"EASR per 100,000",105.37
+S12000040,2016/2017,Ratio,"EASR per 100,000",180.64
+S08000024,2016/2017,Ratio,"EASR per 100,000",142.91
+S08000019,2015/2016,Ratio,"EASR per 100,000",132.31
+S08000024,1997/1998,Ratio,"EASR per 100,000",69.42
+S08000019,2014/2015,Ratio,"EASR per 100,000",101.09
+S12000034,2016/2017,Ratio,"EASR per 100,000",59.38
+S12000048,2016/2017,Ratio,"EASR per 100,000",107.77
+S08000024,1996/1997,Ratio,"EASR per 100,000",59.29
+S12000033,2016/2017,Ratio,"EASR per 100,000",168.97
+S12000048,2015/2016,Ratio,"EASR per 100,000",111.45
+S08000029,1999/2000,Ratio,"EASR per 100,000",67.26
+S12000045,2016/2017,Ratio,"EASR per 100,000",89.95
+S12000048,2014/2015,Ratio,"EASR per 100,000",89.89
+S08000029,2001/2002,Ratio,"EASR per 100,000",65.4
+S12000045,2010/2011,Ratio,"EASR per 100,000",56.76
+S08000029,2000/2001,Ratio,"EASR per 100,000",84.37
+S12000028,2016/2017,Ratio,"EASR per 100,000",262.59
+S08000019,2011/2012,Ratio,"EASR per 100,000",67.71
+S08000024,2002/2003,Ratio,"EASR per 100,000",73.61
+S12000039,2016/2017,Ratio,"EASR per 100,000",267.06
+S08000019,2010/2011,Ratio,"EASR per 100,000",85.18
+S12000045,2013/2014,Ratio,"EASR per 100,000",43.18
+S08000024,2001/2002,Ratio,"EASR per 100,000",76.85
+S08000016,2016/2017,Ratio,"EASR per 100,000",93.17
+S12000036,2016/2017,Ratio,"EASR per 100,000",144.71
+S08000024,2004/2005,Ratio,"EASR per 100,000",87.15
+S12000045,2014/2015,Ratio,"EASR per 100,000",61.85
+S92000003,2016/2017,Ratio,"EASR per 100,000",180.56
+S12000045,2015/2016,Ratio,"EASR per 100,000",70.36
+S12000038,2016/2017,Ratio,"EASR per 100,000",208.99
+S08000024,2003/2004,Ratio,"EASR per 100,000",85.28
+S08000015,2016/2017,Ratio,"EASR per 100,000",356.08
+S12000029,2016/2017,Ratio,"EASR per 100,000",149.48
+S12000030,2016/2017,Ratio,"EASR per 100,000",161.2
+S08000019,2006/2007,Ratio,"EASR per 100,000",44.72
+S08000019,2007/2008,Ratio,"EASR per 100,000",61.19
+S08000024,1998/1999,Ratio,"EASR per 100,000",62.85
+S08000019,2009/2010,Ratio,"EASR per 100,000",85.72
+S08000019,2008/2009,Ratio,"EASR per 100,000",77.48
+S08000019,2004/2005,Ratio,"EASR per 100,000",54.11
+S08000019,2003/2004,Ratio,"EASR per 100,000",54.06
+S08000022,2016/2017,Ratio,"EASR per 100,000",105.62
+S08000019,2005/2006,Ratio,"EASR per 100,000",42.93
+S08000019,2016/2017,Ratio,"EASR per 100,000",138.52
+S08000024,2000/2001,Ratio,"EASR per 100,000",62.36
+S12000035,2016/2017,Ratio,"EASR per 100,000",114.32
+S08000017,2016/2017,Ratio,"EASR per 100,000",191.65
+S12000045,2012/2013,Ratio,"EASR per 100,000",49.64
+S08000020,2016/2017,Ratio,"EASR per 100,000",105.62
+S12000045,2011/2012,Ratio,"EASR per 100,000",52.57
+S12000027,2016/2017,Ratio,"EASR per 100,000",116.72
+S08000024,1999/2000,Ratio,"EASR per 100,000",68.68
+S12000047,2000/2001,Ratio,"EASR per 100,000",84.37
+S12000047,1999/2000,Ratio,"EASR per 100,000",67.26
+S08000020,1996/1997,Ratio,"EASR per 100,000",56.74
+S12000047,1997/1998,Ratio,"EASR per 100,000",32.11
+S12000017,2016/2017,Ratio,"EASR per 100,000",103.82
+S12000047,1998/1999,Ratio,"EASR per 100,000",44.11
+S12000047,2015/2016,Ratio,"EASR per 100,000",187.71
+S08000020,1999/2000,Ratio,"EASR per 100,000",82.32
+S12000047,2014/2015,Ratio,"EASR per 100,000",194.69
+S08000020,1998/1999,Ratio,"EASR per 100,000",67.75
+S08000020,1997/1998,Ratio,"EASR per 100,000",63.25
+S12000047,2016/2017,Ratio,"EASR per 100,000",221
+S08000020,2003/2004,Ratio,"EASR per 100,000",90.33
+S12000013,2016/2017,Ratio,"EASR per 100,000",34.13
+S08000020,2002/2003,Ratio,"EASR per 100,000",93.04
+S08000020,2004/2005,Ratio,"EASR per 100,000",104.38
+S08000020,2005/2006,Ratio,"EASR per 100,000",93.8
+S08000022,2013/2014,Ratio,"EASR per 100,000",72.64
+S08000020,2000/2001,Ratio,"EASR per 100,000",83.61
+S08000020,2001/2002,Ratio,"EASR per 100,000",87.33
+S08000022,2011/2012,Ratio,"EASR per 100,000",91.21
+S08000022,2012/2013,Ratio,"EASR per 100,000",77.7
+S12000014,2016/2017,Ratio,"EASR per 100,000",123.99
+S08000022,2010/2011,Ratio,"EASR per 100,000",71.68
+S12000021,2016/2017,Ratio,"EASR per 100,000",444.6
+S12000018,2016/2017,Ratio,"EASR per 100,000",341.88
+S12000047,2006/2007,Ratio,"EASR per 100,000",113.04
+S12000047,2005/2006,Ratio,"EASR per 100,000",109.2
+S08000022,2005/2006,Ratio,"EASR per 100,000",50.88
+S08000022,2008/2009,Ratio,"EASR per 100,000",78.31
+S12000020,2016/2017,Ratio,"EASR per 100,000",81.66
+S08000022,2007/2008,Ratio,"EASR per 100,000",67.69
+S12000019,2016/2017,Ratio,"EASR per 100,000",131.87
+S08000022,2009/2010,Ratio,"EASR per 100,000",74.05
+S08000022,2006/2007,Ratio,"EASR per 100,000",50.03
+S12000047,2009/2010,Ratio,"EASR per 100,000",125.2
+S12000047,2010/2011,Ratio,"EASR per 100,000",112.92
+S12000047,2008/2009,Ratio,"EASR per 100,000",124.51
+S12000047,2012/2013,Ratio,"EASR per 100,000",166.49
+S12000047,2013/2014,Ratio,"EASR per 100,000",216.26
+S12000047,2011/2012,Ratio,"EASR per 100,000",132.63
+S12000047,2003/2004,Ratio,"EASR per 100,000",78.67
+S12000047,2002/2003,Ratio,"EASR per 100,000",73.86
+S12000047,2004/2005,Ratio,"EASR per 100,000",99.82
+S12000047,2007/2008,Ratio,"EASR per 100,000",112.14
+S12000047,2001/2002,Ratio,"EASR per 100,000",65.4
+S12000023,2016/2017,Ratio,"EASR per 100,000",35.13
+S12000026,2016/2017,Ratio,"EASR per 100,000",93.17
+S08000022,1996/1997,Ratio,"EASR per 100,000",18.93
+S12000048,1998/1999,Ratio,"EASR per 100,000",29.32
+S12000048,1999/2000,Ratio,"EASR per 100,000",52.47
+S12000048,1997/1998,Ratio,"EASR per 100,000",28.32
+S08000022,2001/2002,Ratio,"EASR per 100,000",32.31
+S08000022,2000/2001,Ratio,"EASR per 100,000",32.14
+S08000022,2002/2003,Ratio,"EASR per 100,000",42.06
+S08000022,1998/1999,Ratio,"EASR per 100,000",25.23
+S08000022,1997/1998,Ratio,"EASR per 100,000",20.06
+S08000022,1999/2000,Ratio,"EASR per 100,000",33.8
+S12000048,2006/2007,Ratio,"EASR per 100,000",93.44
+S12000048,2007/2008,Ratio,"EASR per 100,000",102.86
+S12000048,2005/2006,Ratio,"EASR per 100,000",66.04
+S12000048,2009/2010,Ratio,"EASR per 100,000",91.85
+S12000048,2010/2011,Ratio,"EASR per 100,000",98.04
+S12000048,2008/2009,Ratio,"EASR per 100,000",90.61
+S12000048,2001/2002,Ratio,"EASR per 100,000",35.78
+S12000048,2002/2003,Ratio,"EASR per 100,000",82.99
+S12000048,2000/2001,Ratio,"EASR per 100,000",44.46
+S12000048,2004/2005,Ratio,"EASR per 100,000",72.08
+S12000048,2003/2004,Ratio,"EASR per 100,000",80.12
+S08000020,2007/2008,Ratio,"EASR per 100,000",120.79
+S12000006,2016/2017,Ratio,"EASR per 100,000",191.65
+S12000008,2016/2017,Ratio,"EASR per 100,000",341.87
+S12000005,2016/2017,Ratio,"EASR per 100,000",145.35
+S08000028,2016/2017,Ratio,"EASR per 100,000",34.13
+S08000020,2008/2009,Ratio,"EASR per 100,000",131.33
+S12000011,2016/2017,Ratio,"EASR per 100,000",63.97
+S08000022,2015/2016,Ratio,"EASR per 100,000",92.09
+S08000022,2014/2015,Ratio,"EASR per 100,000",69.6
+S08000020,2006/2007,Ratio,"EASR per 100,000",110.56
+S12000010,2016/2017,Ratio,"EASR per 100,000",109.18
+S08000020,2013/2014,Ratio,"EASR per 100,000",101.12
+S08000020,2014/2015,Ratio,"EASR per 100,000",93.69
+S08000025,2016/2017,Ratio,"EASR per 100,000",35.13
+S08000022,2004/2005,Ratio,"EASR per 100,000",50.93
+S08000022,2003/2004,Ratio,"EASR per 100,000",48.67
+S08000020,2015/2016,Ratio,"EASR per 100,000",103.88
+S08000020,2010/2011,Ratio,"EASR per 100,000",126.88
+S08000026,2016/2017,Ratio,"EASR per 100,000",116.72
+S08000020,2009/2010,Ratio,"EASR per 100,000",139.5
+S08000020,2012/2013,Ratio,"EASR per 100,000",95.69
+S08000020,2011/2012,Ratio,"EASR per 100,000",111.74
+S08000030,2017/2018,Ratio,"EASR per 100,000",195.06
+S08000015,2002/2003,Ratio,"EASR per 100,000",178.92
+S08000015,2001/2002,Ratio,"EASR per 100,000",169.81
+S08000015,2003/2004,Ratio,"EASR per 100,000",177.71
+S08000029,2017/2018,Ratio,"EASR per 100,000",248.29
+S08000032,2017/2018,Ratio,"EASR per 100,000",188.3
+S08000015,1999/2000,Ratio,"EASR per 100,000",95.7
+S08000031,2017/2018,Ratio,"EASR per 100,000",268.03
+S08000015,2000/2001,Ratio,"EASR per 100,000",121.14
+S08000015,2006/2007,Ratio,"EASR per 100,000",205.2
+S08000024,2017/2018,Ratio,"EASR per 100,000",160.18
+S08000025,2017/2018,Ratio,"EASR per 100,000",65.2
+S08000022,2017/2018,Ratio,"EASR per 100,000",121.15
+S08000015,2007/2008,Ratio,"EASR per 100,000",229.84
+S08000015,2004/2005,Ratio,"EASR per 100,000",196.12
+S08000028,2017/2018,Ratio,"EASR per 100,000",29.75
+S08000015,2005/2006,Ratio,"EASR per 100,000",181.96
+S08000026,2017/2018,Ratio,"EASR per 100,000",80.03
+S12000011,1996/1997,Ratio,"EASR per 100,000",10.93
+S12000010,2017/2018,Ratio,"EASR per 100,000",113.55
+S12000011,2017/2018,Ratio,"EASR per 100,000",81.3
+S12000008,2017/2018,Ratio,"EASR per 100,000",366.62
+S12000010,1996/1997,Ratio,"EASR per 100,000",41.43
+S12000014,1996/1997,Ratio,"EASR per 100,000",27.71
+S12000014,2017/2018,Ratio,"EASR per 100,000",186.67
+S12000013,1996/1997,Ratio,"EASR per 100,000",11.27
+S12000013,2017/2018,Ratio,"EASR per 100,000",29.75
+S12000005,2017/2018,Ratio,"EASR per 100,000",231.07
+S08000015,1997/1998,Ratio,"EASR per 100,000",56.74
+S08000015,1998/1999,Ratio,"EASR per 100,000",90.94
+S12000005,1996/1997,Ratio,"EASR per 100,000",45.12
+S12000006,2017/2018,Ratio,"EASR per 100,000",229.38
+S12000008,1996/1997,Ratio,"EASR per 100,000",64.59
+S08000015,1996/1997,Ratio,"EASR per 100,000",51.83
+S12000006,1996/1997,Ratio,"EASR per 100,000",28.67
+S12000049,2008/2009,Ratio,"EASR per 100,000",202.3
+S12000049,2007/2008,Ratio,"EASR per 100,000",210.53
+S12000049,2009/2010,Ratio,"EASR per 100,000",202.79
+S12000049,2005/2006,Ratio,"EASR per 100,000",170.81
+S12000049,2006/2007,Ratio,"EASR per 100,000",191.18
+S12000049,2012/2013,Ratio,"EASR per 100,000",171.31
+S12000049,2013/2014,Ratio,"EASR per 100,000",184.04
+S12000049,2010/2011,Ratio,"EASR per 100,000",216.96
+S12000049,2011/2012,Ratio,"EASR per 100,000",196.42
+S12000049,1999/2000,Ratio,"EASR per 100,000",213.09
+S12000049,1998/1999,Ratio,"EASR per 100,000",203.74
+S12000049,2000/2001,Ratio,"EASR per 100,000",244.21
+S12000050,2016/2017,Ratio,"EASR per 100,000",163.09
+S12000049,1997/1998,Ratio,"EASR per 100,000",144.55
+S12000049,2003/2004,Ratio,"EASR per 100,000",205.41
+S12000049,2004/2005,Ratio,"EASR per 100,000",192.77
+S12000049,2001/2002,Ratio,"EASR per 100,000",233.06
+S12000049,2002/2003,Ratio,"EASR per 100,000",237.8
+S08000017,2017/2018,Ratio,"EASR per 100,000",229.38
+S08000015,2011/2012,Ratio,"EASR per 100,000",265.78
+S08000015,2010/2011,Ratio,"EASR per 100,000",253.66
+S08000015,2012/2013,Ratio,"EASR per 100,000",215.11
+S08000016,2017/2018,Ratio,"EASR per 100,000",123.11
+S08000020,2017/2018,Ratio,"EASR per 100,000",118.41
+S08000015,2008/2009,Ratio,"EASR per 100,000",226.2
+S08000019,2017/2018,Ratio,"EASR per 100,000",178.83
+S08000015,2009/2010,Ratio,"EASR per 100,000",220.44
+S08000015,2015/2016,Ratio,"EASR per 100,000",274.73
+S12000049,2016/2017,Ratio,"EASR per 100,000",331.27
+S12000049,2014/2015,Ratio,"EASR per 100,000",199.56
+S12000049,2015/2016,Ratio,"EASR per 100,000",257.67
+S08000015,2013/2014,Ratio,"EASR per 100,000",234.61
+S08000015,2017/2018,Ratio,"EASR per 100,000",351.99
+S08000015,2014/2015,Ratio,"EASR per 100,000",258.86
+S92000003,2017/2018,Ratio,"EASR per 100,000",198.97
+S92000003,1996/1997,Ratio,"EASR per 100,000",51.13
+S92000003,1997/1998,Ratio,"EASR per 100,000",59.48
+S12000036,1996/1997,Ratio,"EASR per 100,000",77.13
+S12000035,1996/1997,Ratio,"EASR per 100,000",26.27
+S12000035,2017/2018,Ratio,"EASR per 100,000",115.33
+S12000038,2017/2018,Ratio,"EASR per 100,000",176.58
+S12000039,1996/1997,Ratio,"EASR per 100,000",32.13
+S12000036,2017/2018,Ratio,"EASR per 100,000",156.21
+S12000038,1996/1997,Ratio,"EASR per 100,000",28.17
+S92000003,2001/2002,Ratio,"EASR per 100,000",96.36
+S12000033,2017/2018,Ratio,"EASR per 100,000",191.94
+S92000003,2000/2001,Ratio,"EASR per 100,000",90.88
+S92000003,2002/2003,Ratio,"EASR per 100,000",102.04
+S12000033,1996/1997,Ratio,"EASR per 100,000",99.37
+S92000003,1999/2000,Ratio,"EASR per 100,000",81.91
+S92000003,1998/1999,Ratio,"EASR per 100,000",73.67
+S12000034,1996/1997,Ratio,"EASR per 100,000",26.83
+S12000034,2017/2018,Ratio,"EASR per 100,000",60.16
+S12000048,1996/1997,Ratio,"EASR per 100,000",21.6
+S12000047,2017/2018,Ratio,"EASR per 100,000",248.29
+S12000048,2017/2018,Ratio,"EASR per 100,000",112.68
+S12000045,2017/2018,Ratio,"EASR per 100,000",93.17
+S12000047,1996/1997,Ratio,"EASR per 100,000",33.01
+S12000050,1996/1997,Ratio,"EASR per 100,000",18.6
+S12000050,2017/2018,Ratio,"EASR per 100,000",201.79
+S12000049,1996/1997,Ratio,"EASR per 100,000",128.65
+S12000049,2017/2018,Ratio,"EASR per 100,000",355.72
+S12000040,2017/2018,Ratio,"EASR per 100,000",192.82
+S12000041,1996/1997,Ratio,"EASR per 100,000",19.47
+S12000039,2017/2018,Ratio,"EASR per 100,000",244.96
+S12000040,1996/1997,Ratio,"EASR per 100,000",31.63
+S12000042,2017/2018,Ratio,"EASR per 100,000",344.68
+S12000045,1996/1997,Ratio,"EASR per 100,000",26.92
+S12000041,2017/2018,Ratio,"EASR per 100,000",117.59
+S12000042,1996/1997,Ratio,"EASR per 100,000",58.99
+S12000023,1996/1997,Ratio,"EASR per 100,000",0
+S92000003,2014/2015,Ratio,"EASR per 100,000",149.01
+S12000023,2017/2018,Ratio,"EASR per 100,000",65.2
+S12000021,2017/2018,Ratio,"EASR per 100,000",415.57
+S92000003,2015/2016,Ratio,"EASR per 100,000",160.07
+S12000026,1996/1997,Ratio,"EASR per 100,000",21.72
+S12000026,2017/2018,Ratio,"EASR per 100,000",123.11
+S92000003,2013/2014,Ratio,"EASR per 100,000",138.52
+S92000003,2012/2013,Ratio,"EASR per 100,000",122.16
+S12000018,2017/2018,Ratio,"EASR per 100,000",298.47
+S12000018,1996/1997,Ratio,"EASR per 100,000",78.78
+S12000019,1996/1997,Ratio,"EASR per 100,000",25.15
+S12000017,1996/1997,Ratio,"EASR per 100,000",15.84
+S12000017,2017/2018,Ratio,"EASR per 100,000",124.25
+S12000020,2017/2018,Ratio,"EASR per 100,000",95.24
+S12000021,1996/1997,Ratio,"EASR per 100,000",44.05
+S12000019,2017/2018,Ratio,"EASR per 100,000",215.11
+S12000020,1996/1997,Ratio,"EASR per 100,000",11.73
+S12000029,2017/2018,Ratio,"EASR per 100,000",173.53
+S12000029,1996/1997,Ratio,"EASR per 100,000",22.97
+S92000003,2005/2006,Ratio,"EASR per 100,000",94.03
+S92000003,2007/2008,Ratio,"EASR per 100,000",117.58
+S92000003,2006/2007,Ratio,"EASR per 100,000",103.96
+S12000030,2017/2018,Ratio,"EASR per 100,000",137.86
+S92000003,2003/2004,Ratio,"EASR per 100,000",95.62
+S92000003,2004/2005,Ratio,"EASR per 100,000",96.64
+S12000030,1996/1997,Ratio,"EASR per 100,000",33.69
+S12000027,1996/1997,Ratio,"EASR per 100,000",44.12
+S12000027,2017/2018,Ratio,"EASR per 100,000",80.03
+S92000003,2011/2012,Ratio,"EASR per 100,000",132.73
+S92000003,2010/2011,Ratio,"EASR per 100,000",131.08
+S12000028,1996/1997,Ratio,"EASR per 100,000",47.52
+S12000028,2017/2018,Ratio,"EASR per 100,000",256.65
+S92000003,2009/2010,Ratio,"EASR per 100,000",122.53
+S92000003,2008/2009,Ratio,"EASR per 100,000",124.73
+S08000017,2007/2008,Ratio,"EASR per 100,000",106.73
+S08000017,2008/2009,Ratio,"EASR per 100,000",124.35
+S08000017,2006/2007,Ratio,"EASR per 100,000",92.99
+S08000017,2010/2011,Ratio,"EASR per 100,000",126.14
+S08000017,2009/2010,Ratio,"EASR per 100,000",134.89
+S08000017,2003/2004,Ratio,"EASR per 100,000",80.9
+S08000017,2002/2003,Ratio,"EASR per 100,000",102.56
+S08000017,2005/2006,Ratio,"EASR per 100,000",85.05
+S08000017,2004/2005,Ratio,"EASR per 100,000",74.4
+S08000030,2016/2017,Ratio,"EASR per 100,000",155.85
+S08000030,2015/2016,Ratio,"EASR per 100,000",152.93
+S08000017,2015/2016,Ratio,"EASR per 100,000",150.3
+S08000030,2013/2014,Ratio,"EASR per 100,000",159.22
+S08000030,2014/2015,Ratio,"EASR per 100,000",161.32
+S08000017,2012/2013,Ratio,"EASR per 100,000",139.32
+S08000017,2011/2012,Ratio,"EASR per 100,000",131.24
+S08000017,2014/2015,Ratio,"EASR per 100,000",133.52
+S08000017,2013/2014,Ratio,"EASR per 100,000",156.54
+S08000031,2002/2003,Ratio,"EASR per 100,000",177.76
+S08000031,2001/2002,Ratio,"EASR per 100,000",166.81
+S08000031,2003/2004,Ratio,"EASR per 100,000",154.24
+S08000031,1999/2000,Ratio,"EASR per 100,000",149.07
+S08000031,2000/2001,Ratio,"EASR per 100,000",167.63
+S08000031,2006/2007,Ratio,"EASR per 100,000",141.83
+S08000031,2007/2008,Ratio,"EASR per 100,000",163.2
+S08000031,2004/2005,Ratio,"EASR per 100,000",144.61
+S08000031,2005/2006,Ratio,"EASR per 100,000",124.42
+S08000017,1999/2000,Ratio,"EASR per 100,000",58.46
+S08000017,1998/1999,Ratio,"EASR per 100,000",58.84
+S08000017,2001/2002,Ratio,"EASR per 100,000",106.9
+S08000017,2000/2001,Ratio,"EASR per 100,000",69.69
+S08000031,1997/1998,Ratio,"EASR per 100,000",98.73
+S08000031,1998/1999,Ratio,"EASR per 100,000",137.82
+S08000017,1997/1998,Ratio,"EASR per 100,000",50.86
+S08000031,1996/1997,Ratio,"EASR per 100,000",86.85
+S08000029,2014/2015,Ratio,"EASR per 100,000",194.69
+S08000029,2013/2014,Ratio,"EASR per 100,000",216.26
+S08000029,2015/2016,Ratio,"EASR per 100,000",187.71
+S08000029,2011/2012,Ratio,"EASR per 100,000",132.63
+S08000029,2012/2013,Ratio,"EASR per 100,000",166.49
+S08000019,1997/1998,Ratio,"EASR per 100,000",36.48
+S08000019,1996/1997,Ratio,"EASR per 100,000",32.76
+S08000019,1998/1999,Ratio,"EASR per 100,000",49.88
+S08000029,2016/2017,Ratio,"EASR per 100,000",221
+S08000029,2005/2006,Ratio,"EASR per 100,000",109.2
+S08000029,2004/2005,Ratio,"EASR per 100,000",99.82
+S08000029,2006/2007,Ratio,"EASR per 100,000",113.04
+S08000029,2002/2003,Ratio,"EASR per 100,000",73.86
+S08000029,2003/2004,Ratio,"EASR per 100,000",78.67
+S08000029,2009/2010,Ratio,"EASR per 100,000",125.2
+S08000029,2010/2011,Ratio,"EASR per 100,000",112.92
+S08000029,2007/2008,Ratio,"EASR per 100,000",112.14
+S08000029,2008/2009,Ratio,"EASR per 100,000",124.51
+S08000030,2007/2008,Ratio,"EASR per 100,000",82.79
+S08000030,2006/2007,Ratio,"EASR per 100,000",67.47
+S08000030,2008/2009,Ratio,"EASR per 100,000",112.3
+S08000030,2004/2005,Ratio,"EASR per 100,000",50.41
+S08000030,2005/2006,Ratio,"EASR per 100,000",55.11
+S08000030,2011/2012,Ratio,"EASR per 100,000",146.37
+S08000030,2012/2013,Ratio,"EASR per 100,000",134.21
+S08000030,2009/2010,Ratio,"EASR per 100,000",126.34
+S08000030,2010/2011,Ratio,"EASR per 100,000",145.22
+S08000030,1998/1999,Ratio,"EASR per 100,000",40.91
+S08000030,1999/2000,Ratio,"EASR per 100,000",46.12
+S08000030,1996/1997,Ratio,"EASR per 100,000",36.2
+S08000030,1997/1998,Ratio,"EASR per 100,000",46.72
+S08000030,2002/2003,Ratio,"EASR per 100,000",64
+S08000030,2003/2004,Ratio,"EASR per 100,000",55.32
+S08000030,2000/2001,Ratio,"EASR per 100,000",50.23
+S08000030,2001/2002,Ratio,"EASR per 100,000",43.59
+S08000016,1999/2000,Ratio,"EASR per 100,000",35.1
+S08000016,2000/2001,Ratio,"EASR per 100,000",47.46
+S08000016,1998/1999,Ratio,"EASR per 100,000",28.92
+S08000016,2002/2003,Ratio,"EASR per 100,000",64.5
+S08000016,2001/2002,Ratio,"EASR per 100,000",39.35
+S12000050,1997/1998,Ratio,"EASR per 100,000",26.83
+S12000050,1998/1999,Ratio,"EASR per 100,000",47.41
+S08000016,1997/1998,Ratio,"EASR per 100,000",37.08
+S08000016,1996/1997,Ratio,"EASR per 100,000",21.72
+S08000016,2008/2009,Ratio,"EASR per 100,000",78.86
+S08000016,2009/2010,Ratio,"EASR per 100,000",75.93
+S08000016,2007/2008,Ratio,"EASR per 100,000",87.78
+S08000016,2011/2012,Ratio,"EASR per 100,000",111.13
+S08000016,2010/2011,Ratio,"EASR per 100,000",89.2
+S08000016,2004/2005,Ratio,"EASR per 100,000",45.25
+S08000016,2003/2004,Ratio,"EASR per 100,000",47.15
+S08000016,2006/2007,Ratio,"EASR per 100,000",62.3
+S08000016,2005/2006,Ratio,"EASR per 100,000",61.64
+S12000050,2010/2011,Ratio,"EASR per 100,000",64.85
+S12000050,2009/2010,Ratio,"EASR per 100,000",58.91
+S12000050,2011/2012,Ratio,"EASR per 100,000",74.3
+S12000050,2007/2008,Ratio,"EASR per 100,000",73.96
+S12000050,2008/2009,Ratio,"EASR per 100,000",69.35
+S12000050,2014/2015,Ratio,"EASR per 100,000",110.95
+S12000050,2015/2016,Ratio,"EASR per 100,000",132.89
+S12000050,2012/2013,Ratio,"EASR per 100,000",85.9
+S12000050,2013/2014,Ratio,"EASR per 100,000",104.55
+S12000050,2001/2002,Ratio,"EASR per 100,000",71.08
+S12000050,2002/2003,Ratio,"EASR per 100,000",60.41
+S12000050,1999/2000,Ratio,"EASR per 100,000",45.43
+S12000050,2000/2001,Ratio,"EASR per 100,000",78.5
+S12000050,2005/2006,Ratio,"EASR per 100,000",57.78
+S12000050,2006/2007,Ratio,"EASR per 100,000",57.19
+S12000050,2003/2004,Ratio,"EASR per 100,000",53.88
+S12000050,2004/2005,Ratio,"EASR per 100,000",50.48
+S08000032,1998/1999,Ratio,"EASR per 100,000",45.95
+S08000032,1997/1998,Ratio,"EASR per 100,000",30.68
+S08000032,1999/2000,Ratio,"EASR per 100,000",46.11
+S08000031,2016/2017,Ratio,"EASR per 100,000",262.46
+S08000032,1996/1997,Ratio,"EASR per 100,000",20.69
+S08000032,2002/2003,Ratio,"EASR per 100,000",61.31
+S08000032,2003/2004,Ratio,"EASR per 100,000",55.75
+S08000032,2000/2001,Ratio,"EASR per 100,000",68.22
+S08000032,2001/2002,Ratio,"EASR per 100,000",67.03
+S08000031,2011/2012,Ratio,"EASR per 100,000",165.07
+S08000031,2010/2011,Ratio,"EASR per 100,000",179.16
+S08000031,2012/2013,Ratio,"EASR per 100,000",144.04
+S08000031,2008/2009,Ratio,"EASR per 100,000",165.34
+S08000031,2009/2010,Ratio,"EASR per 100,000",165.06
+S08000031,2015/2016,Ratio,"EASR per 100,000",213.26
+S08000017,1996/1997,Ratio,"EASR per 100,000",28.67
+S08000031,2013/2014,Ratio,"EASR per 100,000",159.62
+S08000031,2014/2015,Ratio,"EASR per 100,000",174.88
+S08000032,2015/2016,Ratio,"EASR per 100,000",139.29
+S08000032,2014/2015,Ratio,"EASR per 100,000",106.53
+S08000016,2015/2016,Ratio,"EASR per 100,000",97.16
+S08000032,2012/2013,Ratio,"EASR per 100,000",84.08
+S08000032,2013/2014,Ratio,"EASR per 100,000",95.58
+S08000016,2013/2014,Ratio,"EASR per 100,000",99.95
+S08000016,2012/2013,Ratio,"EASR per 100,000",87.84
+S08000032,2016/2017,Ratio,"EASR per 100,000",156.37
+S08000016,2014/2015,Ratio,"EASR per 100,000",86.47
+S08000032,2006/2007,Ratio,"EASR per 100,000",58.64
+S08000032,2007/2008,Ratio,"EASR per 100,000",65.05
+S08000032,2004/2005,Ratio,"EASR per 100,000",49.92
+S08000032,2005/2006,Ratio,"EASR per 100,000",54.82
+S08000032,2010/2011,Ratio,"EASR per 100,000",62.08
+S08000032,2011/2012,Ratio,"EASR per 100,000",77.9
+S08000032,2008/2009,Ratio,"EASR per 100,000",64.58
+S08000032,2009/2010,Ratio,"EASR per 100,000",55.92
+S12000010,2007/2008,Ratio,"EASR per 100,000",81.51
+S12000010,2008/2009,Ratio,"EASR per 100,000",98.66
+S12000010,2006/2007,Ratio,"EASR per 100,000",92.61
+S12000010,2010/2011,Ratio,"EASR per 100,000",87.88
+S12000010,2009/2010,Ratio,"EASR per 100,000",70.6
+S12000010,2002/2003,Ratio,"EASR per 100,000",65.68
+S12000010,2003/2004,Ratio,"EASR per 100,000",44.25
+S12000010,2001/2002,Ratio,"EASR per 100,000",62.74
+S12000010,2005/2006,Ratio,"EASR per 100,000",78.94
+S12000010,2004/2005,Ratio,"EASR per 100,000",72.79
+S12000026,2011/2012,Ratio,"EASR per 100,000",111.13
+S12000026,2010/2011,Ratio,"EASR per 100,000",89.2
+S12000026,2012/2013,Ratio,"EASR per 100,000",87.84
+S12000026,2008/2009,Ratio,"EASR per 100,000",78.86
+S12000026,2009/2010,Ratio,"EASR per 100,000",75.93
+S12000026,2015/2016,Ratio,"EASR per 100,000",97.16
+S12000010,2011/2012,Ratio,"EASR per 100,000",113.05
+S12000026,2013/2014,Ratio,"EASR per 100,000",99.95
+S12000026,2014/2015,Ratio,"EASR per 100,000",86.47
+S12000027,2005/2006,Ratio,"EASR per 100,000",116.87
+S12000027,2004/2005,Ratio,"EASR per 100,000",54.29
+S12000027,2006/2007,Ratio,"EASR per 100,000",86.56
+S12000027,2002/2003,Ratio,"EASR per 100,000",35.07
+S12000027,2003/2004,Ratio,"EASR per 100,000",24.2
+S12000027,2010/2011,Ratio,"EASR per 100,000",160.48
+S12000027,2009/2010,Ratio,"EASR per 100,000",149.62
+S12000027,2011/2012,Ratio,"EASR per 100,000",89.4
+S12000027,2007/2008,Ratio,"EASR per 100,000",143.76
+S12000027,2008/2009,Ratio,"EASR per 100,000",199.99
+S12000010,1997/1998,Ratio,"EASR per 100,000",40.81
+S12000010,1998/1999,Ratio,"EASR per 100,000",49.88
+S12000027,1997/1998,Ratio,"EASR per 100,000",43.58
+S12000010,2000/2001,Ratio,"EASR per 100,000",40.96
+S12000010,1999/2000,Ratio,"EASR per 100,000",48.09
+S12000027,2000/2001,Ratio,"EASR per 100,000",0
+S12000027,2001/2002,Ratio,"EASR per 100,000",38.1
+S12000027,1998/1999,Ratio,"EASR per 100,000",39.97
+S12000027,1999/2000,Ratio,"EASR per 100,000",31.44
+S12000023,2006/2007,Ratio,"EASR per 100,000",13.87
+S12000023,2005/2006,Ratio,"EASR per 100,000",0
+S12000023,2007/2008,Ratio,"EASR per 100,000",19.32
+S12000023,2003/2004,Ratio,"EASR per 100,000",31.62
+S12000023,2004/2005,Ratio,"EASR per 100,000",33.52
+S12000023,2011/2012,Ratio,"EASR per 100,000",25.09
+S12000023,2010/2011,Ratio,"EASR per 100,000",39.7
+S12000023,2012/2013,Ratio,"EASR per 100,000",43.73
+S12000023,2008/2009,Ratio,"EASR per 100,000",15.53
+S12000023,2009/2010,Ratio,"EASR per 100,000",18.31
+S12000023,1997/1998,Ratio,"EASR per 100,000",0
+S12000011,1997/1998,Ratio,"EASR per 100,000",24.79
+S12000023,1998/1999,Ratio,"EASR per 100,000",0
+S12000011,1999/2000,Ratio,"EASR per 100,000",32.02
+S12000011,1998/1999,Ratio,"EASR per 100,000",17.58
+S12000023,2001/2002,Ratio,"EASR per 100,000",0
+S12000023,2002/2003,Ratio,"EASR per 100,000",33.04
+S12000023,1999/2000,Ratio,"EASR per 100,000",0
+S12000023,2000/2001,Ratio,"EASR per 100,000",0
+S12000026,2002/2003,Ratio,"EASR per 100,000",64.5
+S12000026,2001/2002,Ratio,"EASR per 100,000",39.35
+S12000026,2003/2004,Ratio,"EASR per 100,000",47.15
+S12000026,1999/2000,Ratio,"EASR per 100,000",35.1
+S12000026,2000/2001,Ratio,"EASR per 100,000",47.46
+S12000026,2006/2007,Ratio,"EASR per 100,000",62.3
+S12000026,2007/2008,Ratio,"EASR per 100,000",87.78
+S12000026,2004/2005,Ratio,"EASR per 100,000",45.25
+S12000026,2005/2006,Ratio,"EASR per 100,000",61.64
+S12000010,2015/2016,Ratio,"EASR per 100,000",123.81
+S12000023,2015/2016,Ratio,"EASR per 100,000",40.14
+S12000010,2014/2015,Ratio,"EASR per 100,000",136.28
+S12000023,2013/2014,Ratio,"EASR per 100,000",70.72
+S12000023,2014/2015,Ratio,"EASR per 100,000",67.9
+S12000026,1997/1998,Ratio,"EASR per 100,000",37.08
+S12000026,1998/1999,Ratio,"EASR per 100,000",28.92
+S12000010,2013/2014,Ratio,"EASR per 100,000",119.33
+S12000010,2012/2013,Ratio,"EASR per 100,000",86.47
+S12000029,2004/2005,Ratio,"EASR per 100,000",49.46
+S12000029,2003/2004,Ratio,"EASR per 100,000",57.64
+S12000029,2005/2006,Ratio,"EASR per 100,000",51.43
+S12000029,2001/2002,Ratio,"EASR per 100,000",62.24
+S12000029,2002/2003,Ratio,"EASR per 100,000",62.31
+S12000029,2009/2010,Ratio,"EASR per 100,000",52.57
+S12000029,2008/2009,Ratio,"EASR per 100,000",59.52
+S12000029,2010/2011,Ratio,"EASR per 100,000",59.35
+S12000029,2006/2007,Ratio,"EASR per 100,000",60.49
+S12000029,2007/2008,Ratio,"EASR per 100,000",55.33
+S12000008,1998/1999,Ratio,"EASR per 100,000",103.72
+S12000008,1999/2000,Ratio,"EASR per 100,000",112.32
+S12000008,1997/1998,Ratio,"EASR per 100,000",70.93
+S12000008,2001/2002,Ratio,"EASR per 100,000",183.79
+S12000008,2000/2001,Ratio,"EASR per 100,000",118.76
+S12000029,1999/2000,Ratio,"EASR per 100,000",46.87
+S12000029,2000/2001,Ratio,"EASR per 100,000",56.26
+S12000029,1997/1998,Ratio,"EASR per 100,000",34.84
+S12000029,1998/1999,Ratio,"EASR per 100,000",44.54
+S12000030,2001/2002,Ratio,"EASR per 100,000",56.26
+S12000030,2000/2001,Ratio,"EASR per 100,000",47.72
+S12000030,2002/2003,Ratio,"EASR per 100,000",83.69
+S12000030,1998/1999,Ratio,"EASR per 100,000",53.18
+S12000030,1999/2000,Ratio,"EASR per 100,000",66.59
+S12000030,2006/2007,Ratio,"EASR per 100,000",54.15
+S12000030,2005/2006,Ratio,"EASR per 100,000",55.25
+S12000030,2007/2008,Ratio,"EASR per 100,000",86.6
+S12000030,2003/2004,Ratio,"EASR per 100,000",73.64
+S12000030,2004/2005,Ratio,"EASR per 100,000",70.38
+S12000029,2014/2015,Ratio,"EASR per 100,000",101.83
+S12000029,2013/2014,Ratio,"EASR per 100,000",85.95
+S12000029,2015/2016,Ratio,"EASR per 100,000",146.76
+S12000029,2011/2012,Ratio,"EASR per 100,000",81.55
+S12000029,2012/2013,Ratio,"EASR per 100,000",82.93
+S12000006,2013/2014,Ratio,"EASR per 100,000",156.54
+S12000030,1997/1998,Ratio,"EASR per 100,000",35.37
+S12000006,2015/2016,Ratio,"EASR per 100,000",150.3
+S12000006,2014/2015,Ratio,"EASR per 100,000",133.52
+S12000028,2002/2003,Ratio,"EASR per 100,000",124.55
+S12000028,2001/2002,Ratio,"EASR per 100,000",138.35
+S12000028,2003/2004,Ratio,"EASR per 100,000",157.3
+S12000028,1999/2000,Ratio,"EASR per 100,000",93.98
+S12000028,2000/2001,Ratio,"EASR per 100,000",113.38
+S12000028,2007/2008,Ratio,"EASR per 100,000",166.75
+S12000028,2006/2007,Ratio,"EASR per 100,000",177.16
+S12000028,2008/2009,Ratio,"EASR per 100,000",181.14
+S12000028,2004/2005,Ratio,"EASR per 100,000",184.98
+S12000028,2005/2006,Ratio,"EASR per 100,000",164
+S12000027,2015/2016,Ratio,"EASR per 100,000",108.74
+S12000027,2014/2015,Ratio,"EASR per 100,000",91.44
+S12000008,2015/2016,Ratio,"EASR per 100,000",271
+S12000027,2012/2013,Ratio,"EASR per 100,000",76.26
+S12000027,2013/2014,Ratio,"EASR per 100,000",116.11
+S12000028,1997/1998,Ratio,"EASR per 100,000",61.32
+S12000028,1998/1999,Ratio,"EASR per 100,000",101.95
+S12000008,2014/2015,Ratio,"EASR per 100,000",278.11
+S12000008,2013/2014,Ratio,"EASR per 100,000",256.61
+S12000008,2007/2008,Ratio,"EASR per 100,000",250.75
+S12000008,2008/2009,Ratio,"EASR per 100,000",212.88
+S12000008,2006/2007,Ratio,"EASR per 100,000",205.47
+S12000008,2010/2011,Ratio,"EASR per 100,000",274.93
+S12000008,2009/2010,Ratio,"EASR per 100,000",233
+S12000008,2003/2004,Ratio,"EASR per 100,000",170.5
+S12000008,2002/2003,Ratio,"EASR per 100,000",205.62
+S12000008,2005/2006,Ratio,"EASR per 100,000",176.98
+S12000008,2004/2005,Ratio,"EASR per 100,000",186.12
+S12000028,2012/2013,Ratio,"EASR per 100,000",131.63
+S12000028,2011/2012,Ratio,"EASR per 100,000",166.02
+S12000028,2013/2014,Ratio,"EASR per 100,000",165.62
+S12000028,2009/2010,Ratio,"EASR per 100,000",158.32
+S12000028,2010/2011,Ratio,"EASR per 100,000",178.52
+S12000008,2012/2013,Ratio,"EASR per 100,000",258.63
+S12000008,2011/2012,Ratio,"EASR per 100,000",306.53
+S12000028,2014/2015,Ratio,"EASR per 100,000",189.66
+S12000028,2015/2016,Ratio,"EASR per 100,000",206.49
+S12000018,2008/2009,Ratio,"EASR per 100,000",264.98
+S12000018,2007/2008,Ratio,"EASR per 100,000",252.03
+S12000018,2009/2010,Ratio,"EASR per 100,000",261.48
+S12000018,2005/2006,Ratio,"EASR per 100,000",131.9
+S12000018,2006/2007,Ratio,"EASR per 100,000",143.8
+S12000018,2013/2014,Ratio,"EASR per 100,000",263.92
+S12000018,2012/2013,Ratio,"EASR per 100,000",209.41
+S12000018,2014/2015,Ratio,"EASR per 100,000",313.61
+S12000018,2010/2011,Ratio,"EASR per 100,000",270.72
+S12000018,2011/2012,Ratio,"EASR per 100,000",300.01
+S12000018,1999/2000,Ratio,"EASR per 100,000",169.38
+S12000018,1998/1999,Ratio,"EASR per 100,000",181.35
+S12000018,2000/2001,Ratio,"EASR per 100,000",191.92
+S12000014,1997/1998,Ratio,"EASR per 100,000",34.46
+S12000018,1997/1998,Ratio,"EASR per 100,000",122.59
+S12000018,2003/2004,Ratio,"EASR per 100,000",289.03
+S12000018,2004/2005,Ratio,"EASR per 100,000",224.43
+S12000018,2001/2002,Ratio,"EASR per 100,000",200.16
+S12000018,2002/2003,Ratio,"EASR per 100,000",276.03
+S12000013,2004/2005,Ratio,"EASR per 100,000",58.88
+S12000013,2005/2006,Ratio,"EASR per 100,000",43.93
+S12000013,2003/2004,Ratio,"EASR per 100,000",58.45
+S12000013,2007/2008,Ratio,"EASR per 100,000",44.14
+S12000013,2006/2007,Ratio,"EASR per 100,000",42.18
+S12000019,1999/2000,Ratio,"EASR per 100,000",51.91
+S12000019,1998/1999,Ratio,"EASR per 100,000",49.76
+S12000019,2000/2001,Ratio,"EASR per 100,000",43.79
+S12000013,2002/2003,Ratio,"EASR per 100,000",40.82
+S12000019,1997/1998,Ratio,"EASR per 100,000",52.16
+S12000013,2013/2014,Ratio,"EASR per 100,000",52.55
+S12000013,2014/2015,Ratio,"EASR per 100,000",61.79
+S12000013,2012/2013,Ratio,"EASR per 100,000",44.27
+S12000018,2015/2016,Ratio,"EASR per 100,000",348.17
+S12000013,2015/2016,Ratio,"EASR per 100,000",35.81
+S12000013,2009/2010,Ratio,"EASR per 100,000",25.77
+S12000013,2008/2009,Ratio,"EASR per 100,000",28.3
+S12000013,2011/2012,Ratio,"EASR per 100,000",50.73
+S12000013,2010/2011,Ratio,"EASR per 100,000",32.79
+S12000014,2003/2004,Ratio,"EASR per 100,000",41.44
+S12000014,2004/2005,Ratio,"EASR per 100,000",43.94
+S12000014,2002/2003,Ratio,"EASR per 100,000",60.47
+S12000014,2006/2007,Ratio,"EASR per 100,000",37.54
+S12000014,2005/2006,Ratio,"EASR per 100,000",37.81
+S12000017,2000/2001,Ratio,"EASR per 100,000",27.65
+S12000017,1999/2000,Ratio,"EASR per 100,000",27.11
+S12000017,2001/2002,Ratio,"EASR per 100,000",29.57
+S12000017,1997/1998,Ratio,"EASR per 100,000",19.35
+S12000017,1998/1999,Ratio,"EASR per 100,000",19.12
+S12000014,2012/2013,Ratio,"EASR per 100,000",54.85
+S12000014,2013/2014,Ratio,"EASR per 100,000",91.65
+S12000014,2011/2012,Ratio,"EASR per 100,000",54.64
+S12000014,2015/2016,Ratio,"EASR per 100,000",119.39
+S12000014,2014/2015,Ratio,"EASR per 100,000",101.44
+S12000014,2008/2009,Ratio,"EASR per 100,000",62.44
+S12000014,2007/2008,Ratio,"EASR per 100,000",40.66
+S12000014,2010/2011,Ratio,"EASR per 100,000",60.58
+S12000014,2009/2010,Ratio,"EASR per 100,000",77.47
+S12000017,2014/2015,Ratio,"EASR per 100,000",79.91
+S12000017,2013/2014,Ratio,"EASR per 100,000",78.47
+S12000017,2015/2016,Ratio,"EASR per 100,000",100.26
+S12000017,2011/2012,Ratio,"EASR per 100,000",100.43
+S12000017,2012/2013,Ratio,"EASR per 100,000",85.98
+S12000014,1999/2000,Ratio,"EASR per 100,000",52.41
+S12000014,1998/1999,Ratio,"EASR per 100,000",41.78
+S12000014,2001/2002,Ratio,"EASR per 100,000",69.86
+S12000014,2000/2001,Ratio,"EASR per 100,000",50.68
+S12000017,2005/2006,Ratio,"EASR per 100,000",52.61
+S12000017,2004/2005,Ratio,"EASR per 100,000",51.72
+S12000017,2006/2007,Ratio,"EASR per 100,000",50.17
+S12000017,2002/2003,Ratio,"EASR per 100,000",36.76
+S12000017,2003/2004,Ratio,"EASR per 100,000",41.37
+S12000017,2009/2010,Ratio,"EASR per 100,000",78.12
+S12000017,2010/2011,Ratio,"EASR per 100,000",73.26
+S12000017,2007/2008,Ratio,"EASR per 100,000",69.99
+S12000017,2008/2009,Ratio,"EASR per 100,000",88.41
+S12000011,2005/2006,Ratio,"EASR per 100,000",42.06
+S12000011,2006/2007,Ratio,"EASR per 100,000",59.08
+S12000011,2004/2005,Ratio,"EASR per 100,000",51.1
+S12000011,2008/2009,Ratio,"EASR per 100,000",78.67
+S12000011,2007/2008,Ratio,"EASR per 100,000",53.71
+S12000021,1998/1999,Ratio,"EASR per 100,000",71.93
+S12000021,1997/1998,Ratio,"EASR per 100,000",40.6
+S12000021,1999/2000,Ratio,"EASR per 100,000",83.25
+S12000011,2003/2004,Ratio,"EASR per 100,000",33.84
+S12000011,2002/2003,Ratio,"EASR per 100,000",28.54
+S12000011,2014/2015,Ratio,"EASR per 100,000",69.58
+S12000011,2015/2016,Ratio,"EASR per 100,000",68.77
+S12000011,2013/2014,Ratio,"EASR per 100,000",62.14
+S12000020,2014/2015,Ratio,"EASR per 100,000",64.17
+S12000020,2015/2016,Ratio,"EASR per 100,000",121.79
+S12000011,2010/2011,Ratio,"EASR per 100,000",56.92
+S12000011,2009/2010,Ratio,"EASR per 100,000",68.98
+S12000011,2012/2013,Ratio,"EASR per 100,000",59.32
+S12000011,2011/2012,Ratio,"EASR per 100,000",62.04
+S12000021,2012/2013,Ratio,"EASR per 100,000",238.71
+S12000021,2011/2012,Ratio,"EASR per 100,000",305.07
+S12000021,2013/2014,Ratio,"EASR per 100,000",266.85
+S12000021,2009/2010,Ratio,"EASR per 100,000",255.3
+S12000021,2010/2011,Ratio,"EASR per 100,000",293.48
+S12000011,2001/2002,Ratio,"EASR per 100,000",32.9
+S12000011,2000/2001,Ratio,"EASR per 100,000",29.39
+S12000021,2014/2015,Ratio,"EASR per 100,000",295.66
+S12000021,2015/2016,Ratio,"EASR per 100,000",333.71
+S12000021,2003/2004,Ratio,"EASR per 100,000",199.76
+S12000021,2002/2003,Ratio,"EASR per 100,000",196.97
+S12000021,2004/2005,Ratio,"EASR per 100,000",214.45
+S12000021,2000/2001,Ratio,"EASR per 100,000",130.04
+S12000021,2001/2002,Ratio,"EASR per 100,000",181.24
+S12000021,2007/2008,Ratio,"EASR per 100,000",259.96
+S12000021,2008/2009,Ratio,"EASR per 100,000",274.12
+S12000021,2005/2006,Ratio,"EASR per 100,000",201.46
+S12000021,2006/2007,Ratio,"EASR per 100,000",226.91
+S12000019,2013/2014,Ratio,"EASR per 100,000",129.79
+S12000019,2012/2013,Ratio,"EASR per 100,000",136.91
+S12000019,2014/2015,Ratio,"EASR per 100,000",177.6
+S12000019,2010/2011,Ratio,"EASR per 100,000",108.72
+S12000019,2011/2012,Ratio,"EASR per 100,000",118.77
+S12000013,1999/2000,Ratio,"EASR per 100,000",34.68
+S12000013,2000/2001,Ratio,"EASR per 100,000",22.06
+S12000013,1998/1999,Ratio,"EASR per 100,000",14.59
+S12000019,2015/2016,Ratio,"EASR per 100,000",138.73
+S12000013,2001/2002,Ratio,"EASR per 100,000",28.19
+S12000019,2004/2005,Ratio,"EASR per 100,000",71.72
+S12000019,2003/2004,Ratio,"EASR per 100,000",64.94
+S12000019,2005/2006,Ratio,"EASR per 100,000",99.57
+S12000019,2001/2002,Ratio,"EASR per 100,000",54.14
+S12000019,2002/2003,Ratio,"EASR per 100,000",53.09
+S12000019,2008/2009,Ratio,"EASR per 100,000",109.97
+S12000019,2009/2010,Ratio,"EASR per 100,000",83.41
+S12000019,2006/2007,Ratio,"EASR per 100,000",111.42
+S12000019,2007/2008,Ratio,"EASR per 100,000",88.54
+S12000020,2008/2009,Ratio,"EASR per 100,000",45.37
+S12000020,2007/2008,Ratio,"EASR per 100,000",45.69
+S12000020,2009/2010,Ratio,"EASR per 100,000",57.62
+S12000020,2005/2006,Ratio,"EASR per 100,000",37.97
+S12000020,2006/2007,Ratio,"EASR per 100,000",28.64
+S12000020,2012/2013,Ratio,"EASR per 100,000",48.58
+S12000020,2013/2014,Ratio,"EASR per 100,000",54.87
+S12000020,2010/2011,Ratio,"EASR per 100,000",53.54
+S12000020,2011/2012,Ratio,"EASR per 100,000",51.88
+S12000020,1999/2000,Ratio,"EASR per 100,000",12.28
+S12000020,1998/1999,Ratio,"EASR per 100,000",6.34
+S12000020,2000/2001,Ratio,"EASR per 100,000",19.47
+S12000013,1997/1998,Ratio,"EASR per 100,000",0
+S12000020,1997/1998,Ratio,"EASR per 100,000",7.83
+S12000020,2003/2004,Ratio,"EASR per 100,000",35.43
+S12000020,2004/2005,Ratio,"EASR per 100,000",37.44
+S12000020,2001/2002,Ratio,"EASR per 100,000",31.55
+S12000020,2002/2003,Ratio,"EASR per 100,000",18.75
+S12000040,1998/1999,Ratio,"EASR per 100,000",21.38
+S12000040,1997/1998,Ratio,"EASR per 100,000",28.31
+S12000040,1999/2000,Ratio,"EASR per 100,000",47.38
+S08000026,1997/1998,Ratio,"EASR per 100,000",43.58
+S08000026,1996/1997,Ratio,"EASR per 100,000",44.12
+S12000040,2003/2004,Ratio,"EASR per 100,000",56.09
+S12000040,2002/2003,Ratio,"EASR per 100,000",52.93
+S12000040,2004/2005,Ratio,"EASR per 100,000",62.24
+S12000040,2000/2001,Ratio,"EASR per 100,000",49.11
+S12000040,2001/2002,Ratio,"EASR per 100,000",53.42
+S08000026,2003/2004,Ratio,"EASR per 100,000",24.2
+S08000026,2004/2005,Ratio,"EASR per 100,000",54.29
+S08000026,2002/2003,Ratio,"EASR per 100,000",35.07
+S08000026,2006/2007,Ratio,"EASR per 100,000",86.56
+S08000026,2005/2006,Ratio,"EASR per 100,000",116.87
+S08000026,1999/2000,Ratio,"EASR per 100,000",31.44
+S08000026,1998/1999,Ratio,"EASR per 100,000",39.97
+S08000026,2001/2002,Ratio,"EASR per 100,000",38.1
+S08000026,2000/2001,Ratio,"EASR per 100,000",0
+S08000025,2014/2015,Ratio,"EASR per 100,000",67.9
+S08000025,2015/2016,Ratio,"EASR per 100,000",40.14
+S12000041,1997/1998,Ratio,"EASR per 100,000",27.09
+S12000040,2014/2015,Ratio,"EASR per 100,000",150.3
+S12000040,2015/2016,Ratio,"EASR per 100,000",146.01
+S12000041,2001/2002,Ratio,"EASR per 100,000",23.88
+S12000041,2000/2001,Ratio,"EASR per 100,000",30.09
+S12000041,2002/2003,Ratio,"EASR per 100,000",37.11
+S12000041,1998/1999,Ratio,"EASR per 100,000",21.03
+S12000041,1999/2000,Ratio,"EASR per 100,000",23.78
+S12000040,2008/2009,Ratio,"EASR per 100,000",116.91
+S12000040,2007/2008,Ratio,"EASR per 100,000",127.33
+S12000040,2009/2010,Ratio,"EASR per 100,000",111.27
+S12000040,2005/2006,Ratio,"EASR per 100,000",76.47
+S12000040,2006/2007,Ratio,"EASR per 100,000",89.02
+S12000040,2012/2013,Ratio,"EASR per 100,000",139.29
+S12000040,2013/2014,Ratio,"EASR per 100,000",141.15
+S12000040,2010/2011,Ratio,"EASR per 100,000",121.59
+S12000040,2011/2012,Ratio,"EASR per 100,000",164.81
+S12000039,1997/1998,Ratio,"EASR per 100,000",43.35
+S08000026,2013/2014,Ratio,"EASR per 100,000",116.11
+S12000039,1998/1999,Ratio,"EASR per 100,000",42.91
+S08000026,2015/2016,Ratio,"EASR per 100,000",108.74
+S08000026,2014/2015,Ratio,"EASR per 100,000",91.44
+S12000039,2002/2003,Ratio,"EASR per 100,000",142.49
+S12000039,2001/2002,Ratio,"EASR per 100,000",108.47
+S12000039,2003/2004,Ratio,"EASR per 100,000",108
+S12000039,1999/2000,Ratio,"EASR per 100,000",69.71
+S12000039,2000/2001,Ratio,"EASR per 100,000",92.51
+S12000038,2010/2011,Ratio,"EASR per 100,000",157.2
+S12000038,2009/2010,Ratio,"EASR per 100,000",123.08
+S12000038,2011/2012,Ratio,"EASR per 100,000",151.87
+S12000038,2007/2008,Ratio,"EASR per 100,000",95.98
+S12000038,2008/2009,Ratio,"EASR per 100,000",136.59
+S12000038,2014/2015,Ratio,"EASR per 100,000",169.22
+S12000038,2015/2016,Ratio,"EASR per 100,000",167.11
+S12000038,2012/2013,Ratio,"EASR per 100,000",138.11
+S12000038,2013/2014,Ratio,"EASR per 100,000",164.08
+S08000026,2012/2013,Ratio,"EASR per 100,000",76.26
+S12000039,2015/2016,Ratio,"EASR per 100,000",217.73
+S08000026,2011/2012,Ratio,"EASR per 100,000",89.4
+S12000039,2013/2014,Ratio,"EASR per 100,000",149.03
+S12000039,2014/2015,Ratio,"EASR per 100,000",163.37
+S08000026,2008/2009,Ratio,"EASR per 100,000",199.99
+S08000026,2007/2008,Ratio,"EASR per 100,000",143.76
+S08000026,2010/2011,Ratio,"EASR per 100,000",160.48
+S08000026,2009/2010,Ratio,"EASR per 100,000",149.62
+S12000039,2007/2008,Ratio,"EASR per 100,000",128
+S12000039,2006/2007,Ratio,"EASR per 100,000",77.47
+S12000039,2008/2009,Ratio,"EASR per 100,000",124.67
+S12000039,2004/2005,Ratio,"EASR per 100,000",96.88
+S12000039,2005/2006,Ratio,"EASR per 100,000",92.78
+S12000039,2011/2012,Ratio,"EASR per 100,000",106.89
+S12000039,2012/2013,Ratio,"EASR per 100,000",130.15
+S12000039,2009/2010,Ratio,"EASR per 100,000",146.64
+S12000039,2010/2011,Ratio,"EASR per 100,000",164.84
+S12000042,2015/2016,Ratio,"EASR per 100,000",250.61
+S12000042,2014/2015,Ratio,"EASR per 100,000",259.44
+S08000024,2015/2016,Ratio,"EASR per 100,000",153.34
+S12000042,2012/2013,Ratio,"EASR per 100,000",214.21
+S12000042,2013/2014,Ratio,"EASR per 100,000",252.53
+S08000024,2011/2012,Ratio,"EASR per 100,000",137.41
+S08000024,2012/2013,Ratio,"EASR per 100,000",127.43
+S08000024,2010/2011,Ratio,"EASR per 100,000",125.93
+S08000024,2014/2015,Ratio,"EASR per 100,000",182.17
+S08000024,2013/2014,Ratio,"EASR per 100,000",144.82
+S12000042,2006/2007,Ratio,"EASR per 100,000",72.92
+S12000042,2005/2006,Ratio,"EASR per 100,000",60.63
+S12000042,2007/2008,Ratio,"EASR per 100,000",94.73
+S12000042,2003/2004,Ratio,"EASR per 100,000",55.15
+S12000042,2004/2005,Ratio,"EASR per 100,000",52.93
+S12000042,2010/2011,Ratio,"EASR per 100,000",225.65
+S12000042,2011/2012,Ratio,"EASR per 100,000",221.06
+S12000042,2008/2009,Ratio,"EASR per 100,000",164.2
+S12000042,2009/2010,Ratio,"EASR per 100,000",188.58
+S12000045,2004/2005,Ratio,"EASR per 100,000",35.42
+S12000045,2003/2004,Ratio,"EASR per 100,000",24.55
+S12000045,2005/2006,Ratio,"EASR per 100,000",28.59
+S12000045,2001/2002,Ratio,"EASR per 100,000",37.95
+S12000045,2002/2003,Ratio,"EASR per 100,000",58.99
+S12000045,2008/2009,Ratio,"EASR per 100,000",41.9
+S12000045,2009/2010,Ratio,"EASR per 100,000",46.14
+S12000045,2006/2007,Ratio,"EASR per 100,000",38.3
+S12000045,2007/2008,Ratio,"EASR per 100,000",49.16
+S08000024,2006/2007,Ratio,"EASR per 100,000",109.44
+S08000024,2007/2008,Ratio,"EASR per 100,000",116.7
+S08000024,2005/2006,Ratio,"EASR per 100,000",103.48
+S08000024,2009/2010,Ratio,"EASR per 100,000",105.28
+S08000024,2008/2009,Ratio,"EASR per 100,000",121.61
+S12000045,1999/2000,Ratio,"EASR per 100,000",36.37
+S12000045,2000/2001,Ratio,"EASR per 100,000",43.53
+S12000045,1997/1998,Ratio,"EASR per 100,000",19.67
+S12000045,1998/1999,Ratio,"EASR per 100,000",29.68
+S12000041,2015/2016,Ratio,"EASR per 100,000",76.11
+S12000041,2014/2015,Ratio,"EASR per 100,000",124.8
+S08000025,2013/2014,Ratio,"EASR per 100,000",70.72
+S12000041,2012/2013,Ratio,"EASR per 100,000",68.24
+S12000041,2013/2014,Ratio,"EASR per 100,000",105.43
+S08000025,2009/2010,Ratio,"EASR per 100,000",18.31
+S08000025,2010/2011,Ratio,"EASR per 100,000",39.7
+S08000025,2008/2009,Ratio,"EASR per 100,000",15.53
+S08000025,2012/2013,Ratio,"EASR per 100,000",43.73
+S08000025,2011/2012,Ratio,"EASR per 100,000",25.09
+S12000041,2006/2007,Ratio,"EASR per 100,000",34.56
+S12000041,2005/2006,Ratio,"EASR per 100,000",33.85
+S12000041,2007/2008,Ratio,"EASR per 100,000",45.44
+S12000041,2003/2004,Ratio,"EASR per 100,000",29.33
+S12000041,2004/2005,Ratio,"EASR per 100,000",22.12
+S12000041,2010/2011,Ratio,"EASR per 100,000",102.24
+S12000041,2011/2012,Ratio,"EASR per 100,000",97.93
+S12000041,2008/2009,Ratio,"EASR per 100,000",67.3
+S12000041,2009/2010,Ratio,"EASR per 100,000",82.45
+S12000042,1997/1998,Ratio,"EASR per 100,000",76.28
+S08000025,1996/1997,Ratio,"EASR per 100,000",0
+S12000042,1998/1999,Ratio,"EASR per 100,000",64.17
+S08000025,1998/1999,Ratio,"EASR per 100,000",0
+S08000025,1997/1998,Ratio,"EASR per 100,000",0
+S12000042,2001/2002,Ratio,"EASR per 100,000",63.91
+S12000042,2002/2003,Ratio,"EASR per 100,000",69.13
+S12000042,1999/2000,Ratio,"EASR per 100,000",56.74
+S12000042,2000/2001,Ratio,"EASR per 100,000",69.44
+S08000025,2004/2005,Ratio,"EASR per 100,000",33.52
+S08000025,2005/2006,Ratio,"EASR per 100,000",0
+S08000025,2003/2004,Ratio,"EASR per 100,000",31.62
+S08000025,2007/2008,Ratio,"EASR per 100,000",19.32
+S08000025,2006/2007,Ratio,"EASR per 100,000",13.87
+S08000025,2000/2001,Ratio,"EASR per 100,000",0
+S08000025,1999/2000,Ratio,"EASR per 100,000",0
+S08000025,2002/2003,Ratio,"EASR per 100,000",33.04
+S08000025,2001/2002,Ratio,"EASR per 100,000",0
+S12000034,2000/2001,Ratio,"EASR per 100,000",36.37
+S12000034,1999/2000,Ratio,"EASR per 100,000",35.5
+S12000034,2001/2002,Ratio,"EASR per 100,000",47.36
+S12000034,1997/1998,Ratio,"EASR per 100,000",23.82
+S12000034,1998/1999,Ratio,"EASR per 100,000",34.74
+S12000034,2005/2006,Ratio,"EASR per 100,000",44.13
+S12000034,2004/2005,Ratio,"EASR per 100,000",55.29
+S12000034,2006/2007,Ratio,"EASR per 100,000",48.66
+S12000034,2002/2003,Ratio,"EASR per 100,000",41.56
+S12000034,2003/2004,Ratio,"EASR per 100,000",40.38
+S12000033,2013/2014,Ratio,"EASR per 100,000",176.53
+S12000033,2012/2013,Ratio,"EASR per 100,000",161
+S12000033,2014/2015,Ratio,"EASR per 100,000",162.59
+S12000033,2010/2011,Ratio,"EASR per 100,000",217.2
+S12000033,2011/2012,Ratio,"EASR per 100,000",189.99
+S12000005,2014/2015,Ratio,"EASR per 100,000",81.45
+S12000005,2013/2014,Ratio,"EASR per 100,000",91.84
+S12000033,2015/2016,Ratio,"EASR per 100,000",165.23
+S12000005,2015/2016,Ratio,"EASR per 100,000",174.26
+S12000005,2009/2010,Ratio,"EASR per 100,000",68.33
+S12000005,2010/2011,Ratio,"EASR per 100,000",77.71
+S12000005,2008/2009,Ratio,"EASR per 100,000",97.58
+S12000005,2012/2013,Ratio,"EASR per 100,000",68.08
+S12000005,2011/2012,Ratio,"EASR per 100,000",74.2
+S12000005,2004/2005,Ratio,"EASR per 100,000",58.94
+S12000005,2005/2006,Ratio,"EASR per 100,000",42
+S12000005,2003/2004,Ratio,"EASR per 100,000",63.47
+S12000005,2007/2008,Ratio,"EASR per 100,000",88.46
+S12000005,2006/2007,Ratio,"EASR per 100,000",51.64
+S12000034,2010/2011,Ratio,"EASR per 100,000",67.8
+S12000034,2009/2010,Ratio,"EASR per 100,000",60.75
+S12000034,2011/2012,Ratio,"EASR per 100,000",59.86
+S12000034,2007/2008,Ratio,"EASR per 100,000",62.3
+S12000034,2008/2009,Ratio,"EASR per 100,000",68.85
+S12000034,2014/2015,Ratio,"EASR per 100,000",46.92
+S12000034,2015/2016,Ratio,"EASR per 100,000",47.04
+S12000034,2012/2013,Ratio,"EASR per 100,000",49.81
+S12000034,2013/2014,Ratio,"EASR per 100,000",48.81
+S12000006,2008/2009,Ratio,"EASR per 100,000",124.35
+S12000006,2009/2010,Ratio,"EASR per 100,000",134.89
+S12000006,2007/2008,Ratio,"EASR per 100,000",106.73
+S12000006,2011/2012,Ratio,"EASR per 100,000",131.24
+S12000006,2010/2011,Ratio,"EASR per 100,000",126.14
+S12000006,2003/2004,Ratio,"EASR per 100,000",80.9
+S12000006,2004/2005,Ratio,"EASR per 100,000",74.4
+S12000006,2002/2003,Ratio,"EASR per 100,000",102.56
+S12000006,2006/2007,Ratio,"EASR per 100,000",92.99
+S12000006,2005/2006,Ratio,"EASR per 100,000",85.05
+S12000030,2011/2012,Ratio,"EASR per 100,000",86.33
+S12000030,2010/2011,Ratio,"EASR per 100,000",134.92
+S12000030,2012/2013,Ratio,"EASR per 100,000",108.79
+S12000030,2008/2009,Ratio,"EASR per 100,000",95.27
+S12000030,2009/2010,Ratio,"EASR per 100,000",113.54
+S12000030,2015/2016,Ratio,"EASR per 100,000",129.47
+S12000006,2012/2013,Ratio,"EASR per 100,000",139.32
+S12000030,2013/2014,Ratio,"EASR per 100,000",96.55
+S12000030,2014/2015,Ratio,"EASR per 100,000",110.86
+S12000033,2004/2005,Ratio,"EASR per 100,000",173.23
+S12000033,2003/2004,Ratio,"EASR per 100,000",154.14
+S12000033,2005/2006,Ratio,"EASR per 100,000",160.93
+S12000033,2001/2002,Ratio,"EASR per 100,000",142.8
+S12000033,2002/2003,Ratio,"EASR per 100,000",160.4
+S12000033,2008/2009,Ratio,"EASR per 100,000",225.34
+S12000033,2009/2010,Ratio,"EASR per 100,000",251.72
+S12000033,2006/2007,Ratio,"EASR per 100,000",200.82
+S12000033,2007/2008,Ratio,"EASR per 100,000",206.25
+S12000006,1998/1999,Ratio,"EASR per 100,000",58.84
+S12000006,1999/2000,Ratio,"EASR per 100,000",58.46
+S12000006,1997/1998,Ratio,"EASR per 100,000",50.86
+S12000006,2001/2002,Ratio,"EASR per 100,000",106.9
+S12000006,2000/2001,Ratio,"EASR per 100,000",69.69
+S12000033,1999/2000,Ratio,"EASR per 100,000",146.13
+S12000033,2000/2001,Ratio,"EASR per 100,000",147.02
+S12000033,1997/1998,Ratio,"EASR per 100,000",114.6
+S12000033,1998/1999,Ratio,"EASR per 100,000",115.15
+S08000028,2010/2011,Ratio,"EASR per 100,000",32.79
+S08000028,2011/2012,Ratio,"EASR per 100,000",50.73
+S08000028,2009/2010,Ratio,"EASR per 100,000",25.77
+S12000036,2015/2016,Ratio,"EASR per 100,000",170.2
+S08000028,2012/2013,Ratio,"EASR per 100,000",44.27
+S08000028,2005/2006,Ratio,"EASR per 100,000",43.93
+S08000028,2006/2007,Ratio,"EASR per 100,000",42.18
+S08000028,2004/2005,Ratio,"EASR per 100,000",58.88
+S08000028,2008/2009,Ratio,"EASR per 100,000",28.3
+S08000028,2007/2008,Ratio,"EASR per 100,000",44.14
+S12000036,2009/2010,Ratio,"EASR per 100,000",116.57
+S12000036,2008/2009,Ratio,"EASR per 100,000",134.64
+S12000036,2010/2011,Ratio,"EASR per 100,000",141.99
+S12000036,2006/2007,Ratio,"EASR per 100,000",124.2
+S12000036,2007/2008,Ratio,"EASR per 100,000",128.41
+S12000036,2013/2014,Ratio,"EASR per 100,000",159.55
+S12000036,2014/2015,Ratio,"EASR per 100,000",209.92
+S12000036,2011/2012,Ratio,"EASR per 100,000",141.57
+S12000036,2012/2013,Ratio,"EASR per 100,000",135.61
+S12000038,2001/2002,Ratio,"EASR per 100,000",70.41
+S12000038,2000/2001,Ratio,"EASR per 100,000",54.46
+S12000038,2002/2003,Ratio,"EASR per 100,000",74.26
+S12000038,1998/1999,Ratio,"EASR per 100,000",42.01
+S12000038,1999/2000,Ratio,"EASR per 100,000",60.96
+S12000038,2005/2006,Ratio,"EASR per 100,000",72.85
+S12000038,2006/2007,Ratio,"EASR per 100,000",100.39
+S12000038,2003/2004,Ratio,"EASR per 100,000",64.57
+S12000038,2004/2005,Ratio,"EASR per 100,000",75.94
+S08000028,2000/2001,Ratio,"EASR per 100,000",22.06
+S08000028,2001/2002,Ratio,"EASR per 100,000",28.19
+S08000028,1999/2000,Ratio,"EASR per 100,000",34.68
+S08000028,2003/2004,Ratio,"EASR per 100,000",58.45
+S08000028,2002/2003,Ratio,"EASR per 100,000",40.82
+S08000028,1996/1997,Ratio,"EASR per 100,000",11.27
+S12000038,1997/1998,Ratio,"EASR per 100,000",24.79
+S08000028,1998/1999,Ratio,"EASR per 100,000",14.59
+S08000028,1997/1998,Ratio,"EASR per 100,000",0
+S12000035,2003/2004,Ratio,"EASR per 100,000",65.46
+S12000035,2002/2003,Ratio,"EASR per 100,000",56.19
+S12000035,2004/2005,Ratio,"EASR per 100,000",50.06
+S12000035,2000/2001,Ratio,"EASR per 100,000",42.75
+S12000035,2001/2002,Ratio,"EASR per 100,000",38.81
+S12000035,2008/2009,Ratio,"EASR per 100,000",52.36
+S12000035,2007/2008,Ratio,"EASR per 100,000",62.69
+S12000035,2009/2010,Ratio,"EASR per 100,000",62.42
+S12000035,2005/2006,Ratio,"EASR per 100,000",46.35
+S12000035,2006/2007,Ratio,"EASR per 100,000",50.42
+S12000005,1999/2000,Ratio,"EASR per 100,000",66.42
+S12000005,2000/2001,Ratio,"EASR per 100,000",57.98
+S12000005,1998/1999,Ratio,"EASR per 100,000",66.12
+S12000005,2002/2003,Ratio,"EASR per 100,000",86.57
+S12000005,2001/2002,Ratio,"EASR per 100,000",54.41
+S12000035,1998/1999,Ratio,"EASR per 100,000",39.35
+S12000035,1999/2000,Ratio,"EASR per 100,000",49.2
+S12000005,1997/1998,Ratio,"EASR per 100,000",44.03
+S12000035,1997/1998,Ratio,"EASR per 100,000",22.2
+S12000036,2000/2001,Ratio,"EASR per 100,000",73.99
+S12000036,1999/2000,Ratio,"EASR per 100,000",83.6
+S12000036,2001/2002,Ratio,"EASR per 100,000",92.17
+S12000036,1997/1998,Ratio,"EASR per 100,000",90.78
+S12000036,1998/1999,Ratio,"EASR per 100,000",80.97
+S12000036,2004/2005,Ratio,"EASR per 100,000",103.52
+S12000036,2005/2006,Ratio,"EASR per 100,000",121.05
+S12000036,2002/2003,Ratio,"EASR per 100,000",89.28
+S12000036,2003/2004,Ratio,"EASR per 100,000",109.11
+S12000035,2013/2014,Ratio,"EASR per 100,000",57.45
+S12000035,2012/2013,Ratio,"EASR per 100,000",54.27
+S12000035,2014/2015,Ratio,"EASR per 100,000",41.55
+S12000035,2010/2011,Ratio,"EASR per 100,000",68.38
+S12000035,2011/2012,Ratio,"EASR per 100,000",66.7
+S08000028,2014/2015,Ratio,"EASR per 100,000",61.79
+S08000028,2013/2014,Ratio,"EASR per 100,000",52.55
+S12000035,2015/2016,Ratio,"EASR per 100,000",66.76
+S08000028,2015/2016,Ratio,"EASR per 100,000",35.81

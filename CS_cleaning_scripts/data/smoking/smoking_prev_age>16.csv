@@ -1,0 +1,7 @@
+"indicator","area_name","area_code","area_type","year","period","numerator","measure","lower_confidence_interval","upper_confidence_interval","definition","data_source"
+"Smoking prevalence, aged >16 years","Scotland","S00000001","Scotland",2012,"2012 survey year",NA,23.76,23,24.52,"Percentage","Scottish Survey Core Questions"
+"Smoking prevalence, aged >16 years","Scotland","S00000001","Scotland",2013,"2013 survey year",NA,22.33,21.59,23.08,"Percentage","Scottish Survey Core Questions"
+"Smoking prevalence, aged >16 years","Scotland","S00000001","Scotland",2014,"2014 survey year",NA,21.19,20.47,21.91,"Percentage","Scottish Survey Core Questions"
+"Smoking prevalence, aged >16 years","Scotland","S00000001","Scotland",2015,"2015 survey year",NA,20.66,19.95,21.36,"Percentage","Scottish Survey Core Questions"
+"Smoking prevalence, aged >16 years","Scotland","S00000001","Scotland",2016,"2016 survey year",NA,19.55,18.86,20.24,"Percentage","Scottish Survey Core Questions"
+"Smoking prevalence, aged >16 years","Scotland","S00000001","Scotland",2017,"2017 survey year",NA,17.95,17.27,18.62,"Percentage","Scottish Survey Core Questions"

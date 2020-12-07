@@ -1,0 +1,379 @@
+FeatureCode,DateCode,Measurement,Units,Value,Age,Gender,Last alcoholic drink
+S92000003,2013,Percent,Percent Of Pupils,7,All,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,13,All,Male,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,4,13 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,13,13 years,Male,"1 month, but less than 6 months ago"
+S92000003,2013,Percent,Percent Of Pupils,17,15 years,Male,"1 month, but less than 6 months ago"
+S92000003,2006,Percent,Percent Of Pupils,13,All,Male,"1 month, but less than 6 months ago"
+S92000003,2015,Percent,Percent Of Pupils,12,15 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,10,15 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,3,13 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,8,All,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,7,All,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,10,15 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,17,All,Male,"1 month, but less than 6 months ago"
+S92000003,2004,Percent,Percent Of Pupils,24,13 years,Male,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,15,15 years,Male,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,10,13 years,Male,"1 month, but less than 6 months ago"
+S92000003,2013,Percent,Percent Of Pupils,13,All,Male,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,14,All,Male,"1 month, but less than 6 months ago"
+S92000003,2006,Percent,Percent Of Pupils,14,15 years,Male,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,15,15 years,Male,"1 month, but less than 6 months ago"
+S92000003,2015,Percent,Percent Of Pupils,16,15 years,Male,"1 month, but less than 6 months ago"
+S92000003,2004,Percent,Percent Of Pupils,21,All,Male,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,18,13 years,Male,"1 month, but less than 6 months ago"
+S92000003,2013,Percent,Percent Of Pupils,8,13 years,Male,"1 month, but less than 6 months ago"
+S92000003,2004,Percent,Percent Of Pupils,6,All,Male,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,6,13 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,8,15 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,8,15 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,9,15 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,7,15 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,5,All,Male,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,4,13 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,6,All,Male,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,5,All,Male,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,7,15 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,5,13 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,11,15 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,12,15 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,6,13 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,8,All,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,3,13 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,8,All,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,10,15 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,9,All,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,8,13 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,9,All,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,7,13 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,7,13 years,Male,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,13,15 years,Male,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,40,All,Male,Never had a drink
+S92000003,2002,Percent,Percent Of Pupils,23,All,Male,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,67,13 years,Male,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,31,All,Male,Never had a drink
+S92000003,2008,Percent,Percent Of Pupils,47,13 years,Male,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,14,All,Male,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,15,13 years,Male,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,17,13 years,Male,6 months ago or more
+S92000003,2002,Percent,Percent Of Pupils,33,13 years,Male,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,37,15 years,Male,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,54,All,Male,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,72,13 years,Male,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,45,13 years,Male,Never had a drink
+S92000003,2004,Percent,Percent Of Pupils,34,13 years,Male,Never had a drink
+S92000003,2004,Percent,Percent Of Pupils,25,All,Male,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,33,15 years,Male,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,19,15 years,Male,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,56,13 years,Male,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,24,15 years,Male,Never had a drink
+S92000003,2008,Percent,Percent Of Pupils,34,All,Male,Never had a drink
+S92000003,2004,Percent,Percent Of Pupils,15,15 years,Male,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,49,All,Male,Never had a drink
+S92000003,2008,Percent,Percent Of Pupils,20,15 years,Male,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,11,13 years,Male,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,11,13 years,Male,6 months ago or more
+S92000003,2002,Percent,Percent Of Pupils,10,All,Male,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,14,All,Male,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,9,15 years,Male,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,10,All,Male,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,18,15 years,Male,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,12,13 years,Male,"1 month, but less than 6 months ago"
+S92000003,2015,Percent,Percent Of Pupils,8,13 years,Male,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,15,15 years,Male,"1 month, but less than 6 months ago"
+S92000003,2015,Percent,Percent Of Pupils,12,15 years,Male,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,12,All,Male,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,14,13 years,Male,6 months ago or more
+S92000003,2002,Percent,Percent Of Pupils,13,13 years,Male,6 months ago or more
+S92000003,2008,Percent,Percent Of Pupils,16,All,Male,6 months ago or more
+S92000003,2002,Percent,Percent Of Pupils,7,15 years,Male,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,14,15 years,Male,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,11,15 years,Male,6 months ago or more
+S92000003,2010,Percent,Percent Of Pupils,10,15 years,Male,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,11,All,Male,6 months ago or more
+S92000003,2008,Percent,Percent Of Pupils,13,15 years,Male,6 months ago or more
+S92000003,2008,Percent,Percent Of Pupils,19,13 years,Male,6 months ago or more
+S92000003,2010,Percent,Percent Of Pupils,12,All,Male,6 months ago or more
+S92000003,2008,Percent,Percent Of Pupils,21,All,Male,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,10,All,Male,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,8,All,Male,"1 week, but less than 2 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,4,All,Male,"1 week, but less than 2 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,25,All,Male,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,40,15 years,Male,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,9,15 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,15,13 years,Male,Sometime during the last 7 days
+S92000003,2013,Percent,Percent Of Pupils,18,15 years,Male,Sometime during the last 7 days
+S92000003,2010,Percent,Percent Of Pupils,2,13 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,16,15 years,Male,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,47,15 years,Male,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,31,15 years,Male,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,35,All,Male,Sometime during the last 7 days
+S92000003,2010,Percent,Percent Of Pupils,35,15 years,Male,Sometime during the last 7 days
+S92000003,2010,Percent,Percent Of Pupils,5,15 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,11,13 years,Male,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,10,15 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,7,All,Male,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,11,All,Male,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,5,13 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,4,13 years,Male,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,4,13 years,Male,Sometime during the last 7 days
+S92000003,2013,Percent,Percent Of Pupils,3,13 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,23,13 years,Male,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,35,15 years,Male,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,13,13 years,Male,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,20,13 years,Male,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,30,All,Male,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,Male,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,24,All,Male,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,21,All,Female,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,21,All,Female,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,16,15 years,Female,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,12,13 years,Female,Sometime during the last 7 days
+S92000003,2010,Percent,Percent Of Pupils,34,15 years,Female,Sometime during the last 7 days
+S92000003,2013,Percent,Percent Of Pupils,14,All,Female,"1 month, but less than 6 months ago"
+S92000003,2004,Percent,Percent Of Pupils,33,All,Female,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,20,13 years,Female,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,11,All,Female,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,31,13 years,Female,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,16,15 years,Female,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,15,13 years,Female,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,11,13 years,Female,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,19,15 years,Female,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,16,15 years,Female,"1 month, but less than 6 months ago"
+S92000003,2013,Percent,Percent Of Pupils,12,All,Female,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,34,All,Female,Sometime during the last 7 days
+S92000003,2013,Percent,Percent Of Pupils,19,15 years,Female,"1 month, but less than 6 months ago"
+S92000003,2015,Percent,Percent Of Pupils,4,13 years,Female,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,50,13 years,Female,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,14,13 years,Female,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,15,All,Female,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,31,15 years,Female,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,13,All,Female,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,10,15 years,Female,6 months ago or more
+S92000003,2002,Percent,Percent Of Pupils,19,All,Female,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,39,All,Female,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,12,All,Female,6 months ago or more
+S92000003,2002,Percent,Percent Of Pupils,12,13 years,Female,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,14,13 years,Female,"1 month, but less than 6 months ago"
+S92000003,2006,Percent,Percent Of Pupils,15,13 years,Female,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,24,13 years,Female,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,10,All,Female,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,9,All,Female,6 months ago or more
+S92000003,2010,Percent,Percent Of Pupils,13,All,Female,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,46,15 years,Female,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,37,15 years,Female,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,23,13 years,Female,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,15,13 years,Female,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,19,15 years,Female,Sometime during the last 7 days
+S92000003,2013,Percent,Percent Of Pupils,12,13 years,Female,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,5,15 years,Female,6 months ago or more
+S92000003,2002,Percent,Percent Of Pupils,7,15 years,Female,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,9,13 years,Female,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,12,15 years,Female,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,10,15 years,Female,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,12,All,Female,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,13,All,Female,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,8,All,Female,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,12,All,Female,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,16,15 years,Female,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,22,All,Female,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,19,15 years,Female,"1 month, but less than 6 months ago"
+S92000003,2013,Percent,Percent Of Pupils,4,13 years,Female,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,7,13 years,Female,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,14,13 years,Female,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,10,15 years,Female,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,33,15 years,Female,Never had a drink
+S92000003,2008,Percent,Percent Of Pupils,14,All,Female,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,12,13 years,Female,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,11,15 years,Female,6 months ago or more
+S92000003,2010,Percent,Percent Of Pupils,10,15 years,Female,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,53,All,Female,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,9,13 years,Female,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,20,13 years,Female,"1 month, but less than 6 months ago"
+S92000003,2004,Percent,Percent Of Pupils,20,All,Female,Never had a drink
+S92000003,2008,Percent,Percent Of Pupils,5,13 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,14,15 years,Female,Never had a drink
+S92000003,2004,Percent,Percent Of Pupils,10,15 years,Female,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,10,All,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,26,All,Female,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,31,13 years,Female,Never had a drink
+S92000003,2002,Percent,Percent Of Pupils,8,13 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,7,All,Female,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,10,All,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,4,All,Female,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,46,15 years,Female,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,10,All,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,5,13 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,9,13 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,8,All,Female,"1 week, but less than 2 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,7,13 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,8,All,Female,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,7,All,Female,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,6,13 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,24,All,Female,Sometime during the last 7 days
+S92000003,2013,Percent,Percent Of Pupils,2,13 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,28,15 years,Female,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,6,15 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,8,15 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,5,All,Female,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,12,15 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,13,15 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,75,13 years,Female,Never had a drink
+S92000003,2008,Percent,Percent Of Pupils,10,15 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,11,All,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,9,15 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,8,13 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,12,15 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,14,15 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,9,15 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,9,All,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,9,All,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,28,All,Female,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,5,13 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,13,15 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,10,15 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,3,13 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,9,13 years,Female,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,17,15 years,Female,"1 month, but less than 6 months ago"
+S92000003,2013,Percent,Percent Of Pupils,13,15 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,5,13 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,9,15 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,70,13 years,Female,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,4,13 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,17,15 years,Female,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,49,All,Female,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,56,13 years,Female,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,21,15 years,Female,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,6,All,Female,"1 week, but less than 2 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,15,15 years,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,2,13 years,Female,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,42,13 years,Female,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,8,All,Female,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,33,All,Female,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,10,All,All,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,44,13 years,All,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,68,13 years,All,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,4,13 years,All,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,16,13 years,All,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,23,All,All,Never had a drink
+S92000003,2013,Percent,Percent Of Pupils,13,13 years,All,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,12,All,All,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,20,13 years,All,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,7,15 years,All,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,14,13 years,All,Sometime during the last 7 days
+S92000003,2010,Percent,Percent Of Pupils,14,13 years,All,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,31,15 years,All,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,56,13 years,All,Never had a drink
+S92000003,2002,Percent,Percent Of Pupils,35,All,All,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,12,15 years,All,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,39,All,All,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,54,All,All,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,23,15 years,All,Never had a drink
+S92000003,2008,Percent,Percent Of Pupils,33,All,All,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,17,15 years,All,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,34,15 years,All,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,49,13 years,All,Never had a drink
+S92000003,2015,Percent,Percent Of Pupils,35,15 years,All,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,25,All,All,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,30,All,All,Never had a drink
+S92000003,2004,Percent,Percent Of Pupils,33,13 years,All,Never had a drink
+S92000003,2006,Percent,Percent Of Pupils,13,All,All,6 months ago or more
+S92000003,2006,Percent,Percent Of Pupils,11,15 years,All,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,73,13 years,All,Never had a drink
+S92000003,2010,Percent,Percent Of Pupils,12,All,All,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,11,15 years,All,6 months ago or more
+S92000003,2015,Percent,Percent Of Pupils,10,13 years,All,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,49,All,All,Never had a drink
+S92000003,2002,Percent,Percent Of Pupils,32,13 years,All,Never had a drink
+S92000003,2008,Percent,Percent Of Pupils,18,15 years,All,Never had a drink
+S92000003,2002,Percent,Percent Of Pupils,22,All,All,Never had a drink
+S92000003,2004,Percent,Percent Of Pupils,12,15 years,All,Never had a drink
+S92000003,2004,Percent,Percent Of Pupils,31,All,All,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,8,13 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,8,All,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,5,13 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,4,13 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,8,All,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,12,15 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,9,All,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,9,All,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,12,15 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,2,13 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,11,15 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,6,13 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,8,All,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,7,All,All,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,18,15 years,All,"1 month, but less than 6 months ago"
+S92000003,2006,Percent,Percent Of Pupils,14,All,All,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,5,15 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,3,13 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,2,13 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,13,15 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,12,15 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,3,13 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,8,15 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,10,15 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,5,All,All,"1 week, but less than 2 weeks ago"
+S92000003,2010,Percent,Percent Of Pupils,4,All,All,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,8,15 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,8,15 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2013,Percent,Percent Of Pupils,5,All,All,"1 week, but less than 2 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,7,All,All,"1 week, but less than 2 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,5,13 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,4,13 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,10,All,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,8,All,All,"1 week, but less than 2 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,7,13 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,10,15 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,6,13 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,8,13 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,6,All,All,"1 week, but less than 2 weeks ago"
+S92000003,2002,Percent,Percent Of Pupils,10,15 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2004,Percent,Percent Of Pupils,8,15 years,All,"1 week, but less than 2 weeks ago"
+S92000003,2008,Percent,Percent Of Pupils,14,15 years,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2006,Percent,Percent Of Pupils,10,All,All,"2 weeks, but less than 4 weeks ago"
+S92000003,2015,Percent,Percent Of Pupils,17,15 years,All,Sometime during the last 7 days
+S92000003,2004,Percent,Percent Of Pupils,9,All,All,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,7,15 years,All,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,13,All,All,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,13,15 years,All,6 months ago or more
+S92000003,2008,Percent,Percent Of Pupils,31,15 years,All,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,7,13 years,All,"1 month, but less than 6 months ago"
+S92000003,2013,Percent,Percent Of Pupils,13,All,All,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,14,13 years,All,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,23,13 years,All,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,12,13 years,All,"1 month, but less than 6 months ago"
+S92000003,2004,Percent,Percent Of Pupils,43,15 years,All,Sometime during the last 7 days
+S92000003,2006,Percent,Percent Of Pupils,36,15 years,All,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,13,13 years,All,6 months ago or more
+S92000003,2002,Percent,Percent Of Pupils,10,All,All,6 months ago or more
+S92000003,2008,Percent,Percent Of Pupils,12,15 years,All,6 months ago or more
+S92000003,2008,Percent,Percent Of Pupils,14,All,All,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,11,13 years,All,6 months ago or more
+S92000003,2008,Percent,Percent Of Pupils,17,13 years,All,6 months ago or more
+S92000003,2013,Percent,Percent Of Pupils,19,15 years,All,Sometime during the last 7 days
+S92000003,2010,Percent,Percent Of Pupils,24,All,All,Sometime during the last 7 days
+S92000003,2010,Percent,Percent Of Pupils,10,15 years,All,6 months ago or more
+S92000003,2004,Percent,Percent Of Pupils,21,All,All,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,11,13 years,All,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,4,13 years,All,Sometime during the last 7 days
+S92000003,2002,Percent,Percent Of Pupils,46,15 years,All,Sometime during the last 7 days
+S92000003,2013,Percent,Percent Of Pupils,18,15 years,All,"1 month, but less than 6 months ago"
+S92000003,2006,Percent,Percent Of Pupils,15,15 years,All,"1 month, but less than 6 months ago"
+S92000003,2015,Percent,Percent Of Pupils,16,15 years,All,"1 month, but less than 6 months ago"
+S92000003,2013,Percent,Percent Of Pupils,9,13 years,All,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,13,All,All,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,16,15 years,All,"1 month, but less than 6 months ago"
+S92000003,2006,Percent,Percent Of Pupils,13,13 years,All,"1 month, but less than 6 months ago"
+S92000003,2004,Percent,Percent Of Pupils,24,13 years,All,"1 month, but less than 6 months ago"
+S92000003,2015,Percent,Percent Of Pupils,11,All,All,Sometime during the last 7 days
+S92000003,2015,Percent,Percent Of Pupils,12,All,All,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,19,13 years,All,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,16,15 years,All,"1 month, but less than 6 months ago"
+S92000003,2010,Percent,Percent Of Pupils,9,13 years,All,"1 month, but less than 6 months ago"
+S92000003,2002,Percent,Percent Of Pupils,18,All,All,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,16,15 years,All,"1 month, but less than 6 months ago"
+S92000003,2008,Percent,Percent Of Pupils,21,All,All,Sometime during the last 7 days
+S92000003,2008,Percent,Percent Of Pupils,14,All,All,"1 month, but less than 6 months ago"

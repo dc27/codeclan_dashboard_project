@@ -1,0 +1,801 @@
+feature_code,date_code,measurement,units,value,council_area,NHS_name,NHS_code
+S12000034,2008/2009,Count,Hospital Discharges,159,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2008/2009,Count,Hospital Discharges,45,Argyll and Bute,NHS Highland,S08000022
+S12000030,2008/2009,Count,Hospital Discharges,78,Stirling,NHS Forth Valley,S08000019
+S12000033,2008/2009,Count,Hospital Discharges,573,Aberdeen City,NHS Grampian,S08000020
+S12000040,2008/2009,Count,Hospital Discharges,207,West Lothian,NHS Lothian,S08000024
+S12000041,2008/2009,Count,Hospital Discharges,72,Angus,NHS Tayside,S08000027
+S12000041,2008/2009,Count,Hospital Discharges,72,Angus,NHS Tayside,S08000030
+S12000036,2008/2009,Count,Hospital Discharges,723,City of Edinburgh,NHS Lothian,S08000024
+S12000039,2008/2009,Count,Hospital Discharges,111,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2008/2009,Count,Hospital Discharges,111,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000038,2008/2009,Count,Hospital Discharges,237,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2008/2009,Count,Hospital Discharges,237,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2008/2009,Count,Hospital Discharges,84,Midlothian,NHS Lothian,S08000024
+S12000021,2008/2009,Count,Hospital Discharges,348,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000020,2008/2009,Count,Hospital Discharges,42,Moray,NHS Grampian,S08000020
+S12000017,2008/2009,Count,Hospital Discharges,192,Highland,NHS Highland,S08000022
+S12000018,2008/2009,Count,Hospital Discharges,201,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2008/2009,Count,Hospital Discharges,201,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000028,2008/2009,Count,Hospital Discharges,177,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000027,2008/2009,Count,Hospital Discharges,45,Shetland Islands,NHS Shetland,S08000026
+S12000029,2008/2009,Count,Hospital Discharges,183,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2008/2009,Count,Hospital Discharges,183,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000026,2008/2009,Count,Hospital Discharges,75,Scottish Borders,NHS Borders,S08000016
+S12000049,2008/2009,Count,Hospital Discharges,1287,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2008/2009,Count,Hospital Discharges,240,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000023,2008/2009,Count,Hospital Discharges,3,Orkney Islands,NHS Orkney,S08000025
+S12000042,2008/2009,Count,Hospital Discharges,249,Dundee City,NHS Tayside,S08000027
+S12000042,2008/2009,Count,Hospital Discharges,249,Dundee City,NHS Tayside,S08000030
+S12000045,2008/2009,Count,Hospital Discharges,36,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2008/2009,Count,Hospital Discharges,36,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2008/2009,Count,Hospital Discharges,117,Perth and Kinross,NHS Tayside,S08000030
+S12000047,2008/2009,Count,Hospital Discharges,441,Fife,NHS Fife,S08000029
+S12000010,2008/2009,Count,Hospital Discharges,84,East Lothian,NHS Lothian,S08000024
+S12000011,2008/2009,Count,Hospital Discharges,60,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2008/2009,Count,Hospital Discharges,60,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000006,2008/2009,Count,Hospital Discharges,153,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000005,2008/2009,Count,Hospital Discharges,51,Clackmannanshire,NHS Forth Valley,S08000019
+S12000008,2008/2009,Count,Hospital Discharges,255,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000013,2008/2009,Count,Hospital Discharges,6,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2008/2009,Count,Hospital Discharges,99,Falkirk,NHS Forth Valley,S08000019
+S12000047,2008/2009,Ratio,"EASR per 100,000",124.51,Fife,NHS Fife,S08000029
+S12000048,2008/2009,Ratio,"EASR per 100,000",90.61,Perth and Kinross,NHS Tayside,S08000030
+S12000049,2008/2009,Ratio,"EASR per 100,000",202.3,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2008/2009,Ratio,"EASR per 100,000",69.35,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000010,2008/2009,Ratio,"EASR per 100,000",98.66,East Lothian,NHS Lothian,S08000024
+S12000026,2008/2009,Ratio,"EASR per 100,000",78.86,Scottish Borders,NHS Borders,S08000016
+S12000027,2008/2009,Ratio,"EASR per 100,000",199.99,Shetland Islands,NHS Shetland,S08000026
+S12000023,2008/2009,Ratio,"EASR per 100,000",15.53,Orkney Islands,NHS Orkney,S08000025
+S12000029,2008/2009,Ratio,"EASR per 100,000",59.52,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2008/2009,Ratio,"EASR per 100,000",59.52,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000028,2008/2009,Ratio,"EASR per 100,000",181.14,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000008,2008/2009,Ratio,"EASR per 100,000",212.88,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2008/2009,Ratio,"EASR per 100,000",264.98,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2008/2009,Ratio,"EASR per 100,000",264.98,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2008/2009,Ratio,"EASR per 100,000",28.3,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2008/2009,Ratio,"EASR per 100,000",62.44,Falkirk,NHS Forth Valley,S08000019
+S12000017,2008/2009,Ratio,"EASR per 100,000",88.41,Highland,NHS Highland,S08000022
+S12000011,2008/2009,Ratio,"EASR per 100,000",78.67,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2008/2009,Ratio,"EASR per 100,000",78.67,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000021,2008/2009,Ratio,"EASR per 100,000",274.12,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000019,2008/2009,Ratio,"EASR per 100,000",109.97,Midlothian,NHS Lothian,S08000024
+S12000020,2008/2009,Ratio,"EASR per 100,000",45.37,Moray,NHS Grampian,S08000020
+S12000040,2008/2009,Ratio,"EASR per 100,000",116.91,West Lothian,NHS Lothian,S08000024
+S12000038,2008/2009,Ratio,"EASR per 100,000",136.59,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2008/2009,Ratio,"EASR per 100,000",136.59,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2008/2009,Ratio,"EASR per 100,000",124.67,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2008/2009,Ratio,"EASR per 100,000",124.67,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2008/2009,Ratio,"EASR per 100,000",164.2,Dundee City,NHS Tayside,S08000027
+S12000042,2008/2009,Ratio,"EASR per 100,000",164.2,Dundee City,NHS Tayside,S08000030
+S12000045,2008/2009,Ratio,"EASR per 100,000",41.9,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2008/2009,Ratio,"EASR per 100,000",41.9,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000041,2008/2009,Ratio,"EASR per 100,000",67.3,Angus,NHS Tayside,S08000027
+S12000041,2008/2009,Ratio,"EASR per 100,000",67.3,Angus,NHS Tayside,S08000030
+S12000005,2008/2009,Ratio,"EASR per 100,000",97.58,Clackmannanshire,NHS Forth Valley,S08000019
+S12000034,2008/2009,Ratio,"EASR per 100,000",68.85,Aberdeenshire,NHS Grampian,S08000020
+S12000006,2008/2009,Ratio,"EASR per 100,000",124.35,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000030,2008/2009,Ratio,"EASR per 100,000",95.27,Stirling,NHS Forth Valley,S08000019
+S12000033,2008/2009,Ratio,"EASR per 100,000",225.34,Aberdeen City,NHS Grampian,S08000020
+S12000036,2008/2009,Ratio,"EASR per 100,000",134.64,City of Edinburgh,NHS Lothian,S08000024
+S12000035,2008/2009,Ratio,"EASR per 100,000",52.36,Argyll and Bute,NHS Highland,S08000022
+S12000034,2009/2010,Count,Hospital Discharges,141,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2009/2010,Count,Hospital Discharges,51,Argyll and Bute,NHS Highland,S08000022
+S12000030,2009/2010,Count,Hospital Discharges,93,Stirling,NHS Forth Valley,S08000019
+S12000033,2009/2010,Count,Hospital Discharges,627,Aberdeen City,NHS Grampian,S08000020
+S12000040,2009/2010,Count,Hospital Discharges,201,West Lothian,NHS Lothian,S08000024
+S12000041,2009/2010,Count,Hospital Discharges,87,Angus,NHS Tayside,S08000027
+S12000041,2009/2010,Count,Hospital Discharges,87,Angus,NHS Tayside,S08000030
+S12000036,2009/2010,Count,Hospital Discharges,618,City of Edinburgh,NHS Lothian,S08000024
+S12000039,2009/2010,Count,Hospital Discharges,132,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2009/2010,Count,Hospital Discharges,132,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000038,2009/2010,Count,Hospital Discharges,210,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2009/2010,Count,Hospital Discharges,210,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2009/2010,Count,Hospital Discharges,63,Midlothian,NHS Lothian,S08000024
+S12000021,2009/2010,Count,Hospital Discharges,321,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000020,2009/2010,Count,Hospital Discharges,51,Moray,NHS Grampian,S08000020
+S12000017,2009/2010,Count,Hospital Discharges,162,Highland,NHS Highland,S08000022
+S12000018,2009/2010,Count,Hospital Discharges,198,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2009/2010,Count,Hospital Discharges,198,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000028,2009/2010,Count,Hospital Discharges,156,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000027,2009/2010,Count,Hospital Discharges,33,Shetland Islands,NHS Shetland,S08000026
+S12000029,2009/2010,Count,Hospital Discharges,162,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2009/2010,Count,Hospital Discharges,162,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000026,2009/2010,Count,Hospital Discharges,69,Scottish Borders,NHS Borders,S08000016
+S12000050,2009/2010,Count,Hospital Discharges,204,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2009/2010,Count,Hospital Discharges,1287,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000023,2009/2010,Count,Hospital Discharges,3,Orkney Islands,NHS Orkney,S08000025
+S12000042,2009/2010,Count,Hospital Discharges,291,Dundee City,NHS Tayside,S08000027
+S12000042,2009/2010,Count,Hospital Discharges,291,Dundee City,NHS Tayside,S08000030
+S12000045,2009/2010,Count,Hospital Discharges,42,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2009/2010,Count,Hospital Discharges,42,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2009/2010,Count,Hospital Discharges,120,Perth and Kinross,NHS Tayside,S08000030
+S12000047,2009/2010,Count,Hospital Discharges,441,Fife,NHS Fife,S08000029
+S12000010,2009/2010,Count,Hospital Discharges,63,East Lothian,NHS Lothian,S08000024
+S12000011,2009/2010,Count,Hospital Discharges,54,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2009/2010,Count,Hospital Discharges,54,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000006,2009/2010,Count,Hospital Discharges,171,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000005,2009/2010,Count,Hospital Discharges,36,Clackmannanshire,NHS Forth Valley,S08000019
+S12000008,2009/2010,Count,Hospital Discharges,279,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000013,2009/2010,Count,Hospital Discharges,6,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2009/2010,Count,Hospital Discharges,120,Falkirk,NHS Forth Valley,S08000019
+S12000047,2009/2010,Ratio,"EASR per 100,000",125.2,Fife,NHS Fife,S08000029
+S12000048,2009/2010,Ratio,"EASR per 100,000",91.85,Perth and Kinross,NHS Tayside,S08000030
+S12000049,2009/2010,Ratio,"EASR per 100,000",202.79,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2009/2010,Ratio,"EASR per 100,000",58.91,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000010,2009/2010,Ratio,"EASR per 100,000",70.6,East Lothian,NHS Lothian,S08000024
+S12000026,2009/2010,Ratio,"EASR per 100,000",75.93,Scottish Borders,NHS Borders,S08000016
+S12000027,2009/2010,Ratio,"EASR per 100,000",149.62,Shetland Islands,NHS Shetland,S08000026
+S12000023,2009/2010,Ratio,"EASR per 100,000",18.31,Orkney Islands,NHS Orkney,S08000025
+S12000029,2009/2010,Ratio,"EASR per 100,000",52.57,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2009/2010,Ratio,"EASR per 100,000",52.57,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000008,2009/2010,Ratio,"EASR per 100,000",233,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000028,2009/2010,Ratio,"EASR per 100,000",158.32,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2009/2010,Ratio,"EASR per 100,000",261.48,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2009/2010,Ratio,"EASR per 100,000",261.48,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2009/2010,Ratio,"EASR per 100,000",25.77,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2009/2010,Ratio,"EASR per 100,000",77.47,Falkirk,NHS Forth Valley,S08000019
+S12000017,2009/2010,Ratio,"EASR per 100,000",78.12,Highland,NHS Highland,S08000022
+S12000011,2009/2010,Ratio,"EASR per 100,000",68.98,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2009/2010,Ratio,"EASR per 100,000",68.98,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000021,2009/2010,Ratio,"EASR per 100,000",255.3,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000019,2009/2010,Ratio,"EASR per 100,000",83.41,Midlothian,NHS Lothian,S08000024
+S12000020,2009/2010,Ratio,"EASR per 100,000",57.62,Moray,NHS Grampian,S08000020
+S12000040,2009/2010,Ratio,"EASR per 100,000",111.27,West Lothian,NHS Lothian,S08000024
+S12000038,2009/2010,Ratio,"EASR per 100,000",123.08,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2009/2010,Ratio,"EASR per 100,000",123.08,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2009/2010,Ratio,"EASR per 100,000",146.64,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2009/2010,Ratio,"EASR per 100,000",146.64,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2009/2010,Ratio,"EASR per 100,000",188.58,Dundee City,NHS Tayside,S08000027
+S12000042,2009/2010,Ratio,"EASR per 100,000",188.58,Dundee City,NHS Tayside,S08000030
+S12000045,2009/2010,Ratio,"EASR per 100,000",46.14,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2009/2010,Ratio,"EASR per 100,000",46.14,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000041,2009/2010,Ratio,"EASR per 100,000",82.45,Angus,NHS Tayside,S08000027
+S12000041,2009/2010,Ratio,"EASR per 100,000",82.45,Angus,NHS Tayside,S08000030
+S12000005,2009/2010,Ratio,"EASR per 100,000",68.33,Clackmannanshire,NHS Forth Valley,S08000019
+S12000034,2009/2010,Ratio,"EASR per 100,000",60.75,Aberdeenshire,NHS Grampian,S08000020
+S12000006,2009/2010,Ratio,"EASR per 100,000",134.89,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000030,2009/2010,Ratio,"EASR per 100,000",113.54,Stirling,NHS Forth Valley,S08000019
+S12000033,2009/2010,Ratio,"EASR per 100,000",251.72,Aberdeen City,NHS Grampian,S08000020
+S12000036,2009/2010,Ratio,"EASR per 100,000",116.57,City of Edinburgh,NHS Lothian,S08000024
+S12000035,2009/2010,Ratio,"EASR per 100,000",62.42,Argyll and Bute,NHS Highland,S08000022
+S12000034,2010/2011,Count,Hospital Discharges,165,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2010/2011,Count,Hospital Discharges,54,Argyll and Bute,NHS Highland,S08000022
+S12000030,2010/2011,Count,Hospital Discharges,114,Stirling,NHS Forth Valley,S08000019
+S12000033,2010/2011,Count,Hospital Discharges,537,Aberdeen City,NHS Grampian,S08000020
+S12000040,2010/2011,Count,Hospital Discharges,219,West Lothian,NHS Lothian,S08000024
+S12000039,2010/2011,Count,Hospital Discharges,144,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2010/2011,Count,Hospital Discharges,144,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000041,2010/2011,Count,Hospital Discharges,105,Angus,NHS Tayside,S08000027
+S12000041,2010/2011,Count,Hospital Discharges,105,Angus,NHS Tayside,S08000030
+S12000036,2010/2011,Count,Hospital Discharges,756,City of Edinburgh,NHS Lothian,S08000024
+S12000038,2010/2011,Count,Hospital Discharges,267,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2010/2011,Count,Hospital Discharges,267,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2010/2011,Count,Hospital Discharges,84,Midlothian,NHS Lothian,S08000024
+S12000021,2010/2011,Count,Hospital Discharges,360,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000020,2010/2011,Count,Hospital Discharges,48,Moray,NHS Grampian,S08000020
+S12000017,2010/2011,Count,Hospital Discharges,156,Highland,NHS Highland,S08000022
+S12000018,2010/2011,Count,Hospital Discharges,201,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2010/2011,Count,Hospital Discharges,201,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000028,2010/2011,Count,Hospital Discharges,177,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000027,2010/2011,Count,Hospital Discharges,36,Shetland Islands,NHS Shetland,S08000026
+S12000029,2010/2011,Count,Hospital Discharges,183,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2010/2011,Count,Hospital Discharges,183,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000023,2010/2011,Count,Hospital Discharges,9,Orkney Islands,NHS Orkney,S08000025
+S12000026,2010/2011,Count,Hospital Discharges,84,Scottish Borders,NHS Borders,S08000016
+S12000050,2010/2011,Count,Hospital Discharges,219,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2010/2011,Count,Hospital Discharges,1380,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2010/2011,Count,Hospital Discharges,330,Dundee City,NHS Tayside,S08000027
+S12000042,2010/2011,Count,Hospital Discharges,330,Dundee City,NHS Tayside,S08000030
+S12000045,2010/2011,Count,Hospital Discharges,48,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2010/2011,Count,Hospital Discharges,48,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2010/2011,Count,Hospital Discharges,126,Perth and Kinross,NHS Tayside,S08000030
+S12000047,2010/2011,Count,Hospital Discharges,399,Fife,NHS Fife,S08000029
+S12000010,2010/2011,Count,Hospital Discharges,78,East Lothian,NHS Lothian,S08000024
+S12000011,2010/2011,Count,Hospital Discharges,45,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2010/2011,Count,Hospital Discharges,45,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000006,2010/2011,Count,Hospital Discharges,162,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000005,2010/2011,Count,Hospital Discharges,39,Clackmannanshire,NHS Forth Valley,S08000019
+S12000008,2010/2011,Count,Hospital Discharges,324,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000013,2010/2011,Count,Hospital Discharges,9,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2010/2011,Count,Hospital Discharges,96,Falkirk,NHS Forth Valley,S08000019
+S12000045,2010/2011,Ratio,"EASR per 100,000",56.76,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2010/2011,Ratio,"EASR per 100,000",56.76,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000047,2010/2011,Ratio,"EASR per 100,000",112.92,Fife,NHS Fife,S08000029
+S12000048,2010/2011,Ratio,"EASR per 100,000",98.04,Perth and Kinross,NHS Tayside,S08000030
+S12000049,2010/2011,Ratio,"EASR per 100,000",216.96,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2010/2011,Ratio,"EASR per 100,000",64.85,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000010,2010/2011,Ratio,"EASR per 100,000",87.88,East Lothian,NHS Lothian,S08000024
+S12000026,2010/2011,Ratio,"EASR per 100,000",89.2,Scottish Borders,NHS Borders,S08000016
+S12000027,2010/2011,Ratio,"EASR per 100,000",160.48,Shetland Islands,NHS Shetland,S08000026
+S12000023,2010/2011,Ratio,"EASR per 100,000",39.7,Orkney Islands,NHS Orkney,S08000025
+S12000029,2010/2011,Ratio,"EASR per 100,000",59.35,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2010/2011,Ratio,"EASR per 100,000",59.35,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000008,2010/2011,Ratio,"EASR per 100,000",274.93,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000028,2010/2011,Ratio,"EASR per 100,000",178.52,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2010/2011,Ratio,"EASR per 100,000",270.72,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2010/2011,Ratio,"EASR per 100,000",270.72,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2010/2011,Ratio,"EASR per 100,000",32.79,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2010/2011,Ratio,"EASR per 100,000",60.58,Falkirk,NHS Forth Valley,S08000019
+S12000017,2010/2011,Ratio,"EASR per 100,000",73.26,Highland,NHS Highland,S08000022
+S12000011,2010/2011,Ratio,"EASR per 100,000",56.92,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2010/2011,Ratio,"EASR per 100,000",56.92,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000021,2010/2011,Ratio,"EASR per 100,000",293.48,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000019,2010/2011,Ratio,"EASR per 100,000",108.72,Midlothian,NHS Lothian,S08000024
+S12000020,2010/2011,Ratio,"EASR per 100,000",53.54,Moray,NHS Grampian,S08000020
+S12000040,2010/2011,Ratio,"EASR per 100,000",121.59,West Lothian,NHS Lothian,S08000024
+S12000038,2010/2011,Ratio,"EASR per 100,000",157.2,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2010/2011,Ratio,"EASR per 100,000",157.2,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2010/2011,Ratio,"EASR per 100,000",164.84,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2010/2011,Ratio,"EASR per 100,000",164.84,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2010/2011,Ratio,"EASR per 100,000",225.65,Dundee City,NHS Tayside,S08000027
+S12000042,2010/2011,Ratio,"EASR per 100,000",225.65,Dundee City,NHS Tayside,S08000030
+S12000041,2010/2011,Ratio,"EASR per 100,000",102.24,Angus,NHS Tayside,S08000027
+S12000041,2010/2011,Ratio,"EASR per 100,000",102.24,Angus,NHS Tayside,S08000030
+S12000033,2010/2011,Ratio,"EASR per 100,000",217.2,Aberdeen City,NHS Grampian,S08000020
+S12000005,2010/2011,Ratio,"EASR per 100,000",77.71,Clackmannanshire,NHS Forth Valley,S08000019
+S12000034,2010/2011,Ratio,"EASR per 100,000",67.8,Aberdeenshire,NHS Grampian,S08000020
+S12000006,2010/2011,Ratio,"EASR per 100,000",126.14,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000030,2010/2011,Ratio,"EASR per 100,000",134.92,Stirling,NHS Forth Valley,S08000019
+S12000036,2010/2011,Ratio,"EASR per 100,000",141.99,City of Edinburgh,NHS Lothian,S08000024
+S12000035,2010/2011,Ratio,"EASR per 100,000",68.38,Argyll and Bute,NHS Highland,S08000022
+S12000034,2011/2012,Count,Hospital Discharges,144,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2011/2012,Count,Hospital Discharges,54,Argyll and Bute,NHS Highland,S08000022
+S12000030,2011/2012,Count,Hospital Discharges,75,Stirling,NHS Forth Valley,S08000019
+S12000033,2011/2012,Count,Hospital Discharges,471,Aberdeen City,NHS Grampian,S08000020
+S12000040,2011/2012,Count,Hospital Discharges,297,West Lothian,NHS Lothian,S08000024
+S12000039,2011/2012,Count,Hospital Discharges,96,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2011/2012,Count,Hospital Discharges,96,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000041,2011/2012,Count,Hospital Discharges,102,Angus,NHS Tayside,S08000027
+S12000041,2011/2012,Count,Hospital Discharges,102,Angus,NHS Tayside,S08000030
+S12000036,2011/2012,Count,Hospital Discharges,762,City of Edinburgh,NHS Lothian,S08000024
+S12000038,2011/2012,Count,Hospital Discharges,261,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2011/2012,Count,Hospital Discharges,261,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2011/2012,Count,Hospital Discharges,93,Midlothian,NHS Lothian,S08000024
+S12000020,2011/2012,Count,Hospital Discharges,45,Moray,NHS Grampian,S08000020
+S12000017,2011/2012,Count,Hospital Discharges,219,Highland,NHS Highland,S08000022
+S12000018,2011/2012,Count,Hospital Discharges,228,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2011/2012,Count,Hospital Discharges,228,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000027,2011/2012,Count,Hospital Discharges,21,Shetland Islands,NHS Shetland,S08000026
+S12000029,2011/2012,Count,Hospital Discharges,249,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2011/2012,Count,Hospital Discharges,249,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000028,2011/2012,Count,Hospital Discharges,162,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000021,2011/2012,Count,Hospital Discharges,375,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000023,2011/2012,Count,Hospital Discharges,6,Orkney Islands,NHS Orkney,S08000025
+S12000026,2011/2012,Count,Hospital Discharges,102,Scottish Borders,NHS Borders,S08000016
+S12000050,2011/2012,Count,Hospital Discharges,255,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2011/2012,Count,Hospital Discharges,1275,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2011/2012,Count,Hospital Discharges,330,Dundee City,NHS Tayside,S08000027
+S12000042,2011/2012,Count,Hospital Discharges,330,Dundee City,NHS Tayside,S08000030
+S12000045,2011/2012,Count,Hospital Discharges,45,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2011/2012,Count,Hospital Discharges,45,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2011/2012,Count,Hospital Discharges,138,Perth and Kinross,NHS Tayside,S08000030
+S12000047,2011/2012,Count,Hospital Discharges,462,Fife,NHS Fife,S08000029
+S12000010,2011/2012,Count,Hospital Discharges,102,East Lothian,NHS Lothian,S08000024
+S12000011,2011/2012,Count,Hospital Discharges,45,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2011/2012,Count,Hospital Discharges,45,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000006,2011/2012,Count,Hospital Discharges,168,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000005,2011/2012,Count,Hospital Discharges,39,Clackmannanshire,NHS Forth Valley,S08000019
+S12000008,2011/2012,Count,Hospital Discharges,360,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000013,2011/2012,Count,Hospital Discharges,12,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2011/2012,Count,Hospital Discharges,87,Falkirk,NHS Forth Valley,S08000019
+S12000048,2011/2012,Ratio,"EASR per 100,000",102.44,Perth and Kinross,NHS Tayside,S08000030
+S12000045,2011/2012,Ratio,"EASR per 100,000",52.57,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2011/2012,Ratio,"EASR per 100,000",52.57,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000047,2011/2012,Ratio,"EASR per 100,000",132.63,Fife,NHS Fife,S08000029
+S12000049,2011/2012,Ratio,"EASR per 100,000",196.42,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2011/2012,Ratio,"EASR per 100,000",74.3,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000026,2011/2012,Ratio,"EASR per 100,000",111.13,Scottish Borders,NHS Borders,S08000016
+S12000010,2011/2012,Ratio,"EASR per 100,000",113.05,East Lothian,NHS Lothian,S08000024
+S12000027,2011/2012,Ratio,"EASR per 100,000",89.4,Shetland Islands,NHS Shetland,S08000026
+S12000023,2011/2012,Ratio,"EASR per 100,000",25.09,Orkney Islands,NHS Orkney,S08000025
+S12000029,2011/2012,Ratio,"EASR per 100,000",81.55,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2011/2012,Ratio,"EASR per 100,000",81.55,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000028,2011/2012,Ratio,"EASR per 100,000",166.02,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000008,2011/2012,Ratio,"EASR per 100,000",306.53,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2011/2012,Ratio,"EASR per 100,000",300.01,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2011/2012,Ratio,"EASR per 100,000",300.01,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2011/2012,Ratio,"EASR per 100,000",50.73,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2011/2012,Ratio,"EASR per 100,000",54.64,Falkirk,NHS Forth Valley,S08000019
+S12000017,2011/2012,Ratio,"EASR per 100,000",100.43,Highland,NHS Highland,S08000022
+S12000011,2011/2012,Ratio,"EASR per 100,000",62.04,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2011/2012,Ratio,"EASR per 100,000",62.04,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000021,2011/2012,Ratio,"EASR per 100,000",305.07,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000019,2011/2012,Ratio,"EASR per 100,000",118.77,Midlothian,NHS Lothian,S08000024
+S12000020,2011/2012,Ratio,"EASR per 100,000",51.88,Moray,NHS Grampian,S08000020
+S12000040,2011/2012,Ratio,"EASR per 100,000",164.81,West Lothian,NHS Lothian,S08000024
+S12000038,2011/2012,Ratio,"EASR per 100,000",151.87,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2011/2012,Ratio,"EASR per 100,000",151.87,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2011/2012,Ratio,"EASR per 100,000",106.89,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2011/2012,Ratio,"EASR per 100,000",106.89,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2011/2012,Ratio,"EASR per 100,000",221.06,Dundee City,NHS Tayside,S08000027
+S12000042,2011/2012,Ratio,"EASR per 100,000",221.06,Dundee City,NHS Tayside,S08000030
+S12000041,2011/2012,Ratio,"EASR per 100,000",97.93,Angus,NHS Tayside,S08000027
+S12000041,2011/2012,Ratio,"EASR per 100,000",97.93,Angus,NHS Tayside,S08000030
+S12000033,2011/2012,Ratio,"EASR per 100,000",189.99,Aberdeen City,NHS Grampian,S08000020
+S12000005,2011/2012,Ratio,"EASR per 100,000",74.2,Clackmannanshire,NHS Forth Valley,S08000019
+S12000034,2011/2012,Ratio,"EASR per 100,000",59.86,Aberdeenshire,NHS Grampian,S08000020
+S12000006,2011/2012,Ratio,"EASR per 100,000",131.24,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000030,2011/2012,Ratio,"EASR per 100,000",86.33,Stirling,NHS Forth Valley,S08000019
+S12000036,2011/2012,Ratio,"EASR per 100,000",141.57,City of Edinburgh,NHS Lothian,S08000024
+S12000035,2011/2012,Ratio,"EASR per 100,000",66.7,Argyll and Bute,NHS Highland,S08000022
+S12000034,2012/2013,Count,Hospital Discharges,120,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2012/2013,Count,Hospital Discharges,42,Argyll and Bute,NHS Highland,S08000022
+S12000030,2012/2013,Count,Hospital Discharges,93,Stirling,NHS Forth Valley,S08000019
+S12000033,2012/2013,Count,Hospital Discharges,402,Aberdeen City,NHS Grampian,S08000020
+S12000040,2012/2013,Count,Hospital Discharges,249,West Lothian,NHS Lothian,S08000024
+S12000039,2012/2013,Count,Hospital Discharges,114,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2012/2013,Count,Hospital Discharges,114,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000041,2012/2013,Count,Hospital Discharges,72,Angus,NHS Tayside,S08000027
+S12000041,2012/2013,Count,Hospital Discharges,72,Angus,NHS Tayside,S08000030
+S12000036,2012/2013,Count,Hospital Discharges,714,City of Edinburgh,NHS Lothian,S08000024
+S12000038,2012/2013,Count,Hospital Discharges,237,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2012/2013,Count,Hospital Discharges,237,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2012/2013,Count,Hospital Discharges,108,Midlothian,NHS Lothian,S08000024
+S12000020,2012/2013,Count,Hospital Discharges,42,Moray,NHS Grampian,S08000020
+S12000017,2012/2013,Count,Hospital Discharges,186,Highland,NHS Highland,S08000022
+S12000018,2012/2013,Count,Hospital Discharges,156,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2012/2013,Count,Hospital Discharges,156,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000027,2012/2013,Count,Hospital Discharges,18,Shetland Islands,NHS Shetland,S08000026
+S12000029,2012/2013,Count,Hospital Discharges,252,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2012/2013,Count,Hospital Discharges,252,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000028,2012/2013,Count,Hospital Discharges,126,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000021,2012/2013,Count,Hospital Discharges,294,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000023,2012/2013,Count,Hospital Discharges,9,Orkney Islands,NHS Orkney,S08000025
+S12000026,2012/2013,Count,Hospital Discharges,81,Scottish Borders,NHS Borders,S08000016
+S12000050,2012/2013,Count,Hospital Discharges,288,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2012/2013,Count,Hospital Discharges,1074,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2012/2013,Count,Hospital Discharges,306,Dundee City,NHS Tayside,S08000027
+S12000042,2012/2013,Count,Hospital Discharges,306,Dundee City,NHS Tayside,S08000030
+S12000045,2012/2013,Count,Hospital Discharges,45,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2012/2013,Count,Hospital Discharges,45,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2012/2013,Count,Hospital Discharges,141,Perth and Kinross,NHS Tayside,S08000030
+S12000047,2012/2013,Count,Hospital Discharges,582,Fife,NHS Fife,S08000029
+S12000010,2012/2013,Count,Hospital Discharges,78,East Lothian,NHS Lothian,S08000024
+S12000006,2012/2013,Count,Hospital Discharges,174,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000005,2012/2013,Count,Hospital Discharges,33,Clackmannanshire,NHS Forth Valley,S08000019
+S12000008,2012/2013,Count,Hospital Discharges,300,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000013,2012/2013,Count,Hospital Discharges,9,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2012/2013,Count,Hospital Discharges,87,Falkirk,NHS Forth Valley,S08000019
+S12000011,2012/2013,Count,Hospital Discharges,45,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2012/2013,Count,Hospital Discharges,45,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2012/2013,Ratio,"EASR per 100,000",105.37,Perth and Kinross,NHS Tayside,S08000030
+S12000045,2012/2013,Ratio,"EASR per 100,000",49.64,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2012/2013,Ratio,"EASR per 100,000",49.64,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000047,2012/2013,Ratio,"EASR per 100,000",166.49,Fife,NHS Fife,S08000029
+S12000049,2012/2013,Ratio,"EASR per 100,000",171.31,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2012/2013,Ratio,"EASR per 100,000",85.9,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000026,2012/2013,Ratio,"EASR per 100,000",87.84,Scottish Borders,NHS Borders,S08000016
+S12000023,2012/2013,Ratio,"EASR per 100,000",43.73,Orkney Islands,NHS Orkney,S08000025
+S12000010,2012/2013,Ratio,"EASR per 100,000",86.47,East Lothian,NHS Lothian,S08000024
+S12000029,2012/2013,Ratio,"EASR per 100,000",82.93,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2012/2013,Ratio,"EASR per 100,000",82.93,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000027,2012/2013,Ratio,"EASR per 100,000",76.26,Shetland Islands,NHS Shetland,S08000026
+S12000028,2012/2013,Ratio,"EASR per 100,000",131.63,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000008,2012/2013,Ratio,"EASR per 100,000",258.63,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2012/2013,Ratio,"EASR per 100,000",209.41,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2012/2013,Ratio,"EASR per 100,000",209.41,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2012/2013,Ratio,"EASR per 100,000",44.27,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2012/2013,Ratio,"EASR per 100,000",54.85,Falkirk,NHS Forth Valley,S08000019
+S12000017,2012/2013,Ratio,"EASR per 100,000",85.98,Highland,NHS Highland,S08000022
+S12000011,2012/2013,Ratio,"EASR per 100,000",59.32,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2012/2013,Ratio,"EASR per 100,000",59.32,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000021,2012/2013,Ratio,"EASR per 100,000",238.71,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000019,2012/2013,Ratio,"EASR per 100,000",136.91,Midlothian,NHS Lothian,S08000024
+S12000020,2012/2013,Ratio,"EASR per 100,000",48.58,Moray,NHS Grampian,S08000020
+S12000040,2012/2013,Ratio,"EASR per 100,000",139.29,West Lothian,NHS Lothian,S08000024
+S12000038,2012/2013,Ratio,"EASR per 100,000",138.11,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2012/2013,Ratio,"EASR per 100,000",138.11,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2012/2013,Ratio,"EASR per 100,000",130.15,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2012/2013,Ratio,"EASR per 100,000",130.15,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2012/2013,Ratio,"EASR per 100,000",214.21,Dundee City,NHS Tayside,S08000027
+S12000042,2012/2013,Ratio,"EASR per 100,000",214.21,Dundee City,NHS Tayside,S08000030
+S12000041,2012/2013,Ratio,"EASR per 100,000",68.24,Angus,NHS Tayside,S08000027
+S12000041,2012/2013,Ratio,"EASR per 100,000",68.24,Angus,NHS Tayside,S08000030
+S12000033,2012/2013,Ratio,"EASR per 100,000",161,Aberdeen City,NHS Grampian,S08000020
+S12000005,2012/2013,Ratio,"EASR per 100,000",68.08,Clackmannanshire,NHS Forth Valley,S08000019
+S12000034,2012/2013,Ratio,"EASR per 100,000",49.81,Aberdeenshire,NHS Grampian,S08000020
+S12000030,2012/2013,Ratio,"EASR per 100,000",108.79,Stirling,NHS Forth Valley,S08000019
+S12000006,2012/2013,Ratio,"EASR per 100,000",139.32,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000036,2012/2013,Ratio,"EASR per 100,000",135.61,City of Edinburgh,NHS Lothian,S08000024
+S12000035,2012/2013,Ratio,"EASR per 100,000",54.27,Argyll and Bute,NHS Highland,S08000022
+S12000034,2013/2014,Count,Hospital Discharges,120,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2013/2014,Count,Hospital Discharges,42,Argyll and Bute,NHS Highland,S08000022
+S12000030,2013/2014,Count,Hospital Discharges,81,Stirling,NHS Forth Valley,S08000019
+S12000029,2013/2014,Count,Hospital Discharges,264,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2013/2014,Count,Hospital Discharges,264,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000033,2013/2014,Count,Hospital Discharges,429,Aberdeen City,NHS Grampian,S08000020
+S12000039,2013/2014,Count,Hospital Discharges,126,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2013/2014,Count,Hospital Discharges,126,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000041,2013/2014,Count,Hospital Discharges,111,Angus,NHS Tayside,S08000027
+S12000041,2013/2014,Count,Hospital Discharges,111,Angus,NHS Tayside,S08000030
+S12000040,2013/2014,Count,Hospital Discharges,249,West Lothian,NHS Lothian,S08000024
+S12000036,2013/2014,Count,Hospital Discharges,846,City of Edinburgh,NHS Lothian,S08000024
+S12000038,2013/2014,Count,Hospital Discharges,276,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2013/2014,Count,Hospital Discharges,276,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2013/2014,Count,Hospital Discharges,99,Midlothian,NHS Lothian,S08000024
+S12000020,2013/2014,Count,Hospital Discharges,48,Moray,NHS Grampian,S08000020
+S12000017,2013/2014,Count,Hospital Discharges,168,Highland,NHS Highland,S08000022
+S12000018,2013/2014,Count,Hospital Discharges,195,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2013/2014,Count,Hospital Discharges,195,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000027,2013/2014,Count,Hospital Discharges,27,Shetland Islands,NHS Shetland,S08000026
+S12000028,2013/2014,Count,Hospital Discharges,162,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000023,2013/2014,Count,Hospital Discharges,15,Orkney Islands,NHS Orkney,S08000025
+S12000021,2013/2014,Count,Hospital Discharges,321,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000026,2013/2014,Count,Hospital Discharges,90,Scottish Borders,NHS Borders,S08000016
+S12000050,2013/2014,Count,Hospital Discharges,354,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2013/2014,Count,Hospital Discharges,1152,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2013/2014,Count,Hospital Discharges,357,Dundee City,NHS Tayside,S08000027
+S12000042,2013/2014,Count,Hospital Discharges,357,Dundee City,NHS Tayside,S08000030
+S12000045,2013/2014,Count,Hospital Discharges,42,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2013/2014,Count,Hospital Discharges,42,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2013/2014,Count,Hospital Discharges,144,Perth and Kinross,NHS Tayside,S08000030
+S12000047,2013/2014,Count,Hospital Discharges,750,Fife,NHS Fife,S08000029
+S12000010,2013/2014,Count,Hospital Discharges,111,East Lothian,NHS Lothian,S08000024
+S12000008,2013/2014,Count,Hospital Discharges,291,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000005,2013/2014,Count,Hospital Discharges,48,Clackmannanshire,NHS Forth Valley,S08000019
+S12000006,2013/2014,Count,Hospital Discharges,192,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000013,2013/2014,Count,Hospital Discharges,12,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2013/2014,Count,Hospital Discharges,144,Falkirk,NHS Forth Valley,S08000019
+S12000011,2013/2014,Count,Hospital Discharges,48,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2013/2014,Count,Hospital Discharges,48,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2013/2014,Ratio,"EASR per 100,000",108.36,Perth and Kinross,NHS Tayside,S08000030
+S12000045,2013/2014,Ratio,"EASR per 100,000",43.18,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2013/2014,Ratio,"EASR per 100,000",43.18,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000047,2013/2014,Ratio,"EASR per 100,000",216.26,Fife,NHS Fife,S08000029
+S12000049,2013/2014,Ratio,"EASR per 100,000",184.04,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2013/2014,Ratio,"EASR per 100,000",104.55,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000026,2013/2014,Ratio,"EASR per 100,000",99.95,Scottish Borders,NHS Borders,S08000016
+S12000023,2013/2014,Ratio,"EASR per 100,000",70.72,Orkney Islands,NHS Orkney,S08000025
+S12000010,2013/2014,Ratio,"EASR per 100,000",119.33,East Lothian,NHS Lothian,S08000024
+S12000029,2013/2014,Ratio,"EASR per 100,000",85.95,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2013/2014,Ratio,"EASR per 100,000",85.95,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000006,2013/2014,Ratio,"EASR per 100,000",156.54,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000027,2013/2014,Ratio,"EASR per 100,000",116.11,Shetland Islands,NHS Shetland,S08000026
+S12000008,2013/2014,Ratio,"EASR per 100,000",256.61,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000028,2013/2014,Ratio,"EASR per 100,000",165.62,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2013/2014,Ratio,"EASR per 100,000",263.92,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2013/2014,Ratio,"EASR per 100,000",263.92,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2013/2014,Ratio,"EASR per 100,000",52.55,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2013/2014,Ratio,"EASR per 100,000",91.65,Falkirk,NHS Forth Valley,S08000019
+S12000017,2013/2014,Ratio,"EASR per 100,000",78.47,Highland,NHS Highland,S08000022
+S12000011,2013/2014,Ratio,"EASR per 100,000",62.14,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2013/2014,Ratio,"EASR per 100,000",62.14,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000021,2013/2014,Ratio,"EASR per 100,000",266.85,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000019,2013/2014,Ratio,"EASR per 100,000",129.79,Midlothian,NHS Lothian,S08000024
+S12000020,2013/2014,Ratio,"EASR per 100,000",54.87,Moray,NHS Grampian,S08000020
+S12000040,2013/2014,Ratio,"EASR per 100,000",141.15,West Lothian,NHS Lothian,S08000024
+S12000038,2013/2014,Ratio,"EASR per 100,000",164.08,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2013/2014,Ratio,"EASR per 100,000",164.08,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2013/2014,Ratio,"EASR per 100,000",149.03,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2013/2014,Ratio,"EASR per 100,000",149.03,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2013/2014,Ratio,"EASR per 100,000",252.53,Dundee City,NHS Tayside,S08000027
+S12000042,2013/2014,Ratio,"EASR per 100,000",252.53,Dundee City,NHS Tayside,S08000030
+S12000041,2013/2014,Ratio,"EASR per 100,000",105.43,Angus,NHS Tayside,S08000027
+S12000041,2013/2014,Ratio,"EASR per 100,000",105.43,Angus,NHS Tayside,S08000030
+S12000033,2013/2014,Ratio,"EASR per 100,000",176.53,Aberdeen City,NHS Grampian,S08000020
+S12000005,2013/2014,Ratio,"EASR per 100,000",91.84,Clackmannanshire,NHS Forth Valley,S08000019
+S12000034,2013/2014,Ratio,"EASR per 100,000",48.81,Aberdeenshire,NHS Grampian,S08000020
+S12000030,2013/2014,Ratio,"EASR per 100,000",96.55,Stirling,NHS Forth Valley,S08000019
+S12000036,2013/2014,Ratio,"EASR per 100,000",159.55,City of Edinburgh,NHS Lothian,S08000024
+S12000035,2013/2014,Ratio,"EASR per 100,000",57.45,Argyll and Bute,NHS Highland,S08000022
+S12000034,2014/2015,Count,Hospital Discharges,117,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2014/2015,Count,Hospital Discharges,33,Argyll and Bute,NHS Highland,S08000022
+S12000030,2014/2015,Count,Hospital Discharges,96,Stirling,NHS Forth Valley,S08000019
+S12000029,2014/2015,Count,Hospital Discharges,312,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2014/2015,Count,Hospital Discharges,312,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000033,2014/2015,Count,Hospital Discharges,387,Aberdeen City,NHS Grampian,S08000020
+S12000039,2014/2015,Count,Hospital Discharges,141,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2014/2015,Count,Hospital Discharges,141,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000041,2014/2015,Count,Hospital Discharges,129,Angus,NHS Tayside,S08000027
+S12000041,2014/2015,Count,Hospital Discharges,129,Angus,NHS Tayside,S08000030
+S12000040,2014/2015,Count,Hospital Discharges,267,West Lothian,NHS Lothian,S08000024
+S12000036,2014/2015,Count,Hospital Discharges,1134,City of Edinburgh,NHS Lothian,S08000024
+S12000038,2014/2015,Count,Hospital Discharges,288,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2014/2015,Count,Hospital Discharges,288,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2014/2015,Count,Hospital Discharges,141,Midlothian,NHS Lothian,S08000024
+S12000020,2014/2015,Count,Hospital Discharges,54,Moray,NHS Grampian,S08000020
+S12000017,2014/2015,Count,Hospital Discharges,171,Highland,NHS Highland,S08000022
+S12000018,2014/2015,Count,Hospital Discharges,228,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2014/2015,Count,Hospital Discharges,228,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000027,2014/2015,Count,Hospital Discharges,21,Shetland Islands,NHS Shetland,S08000026
+S12000028,2014/2015,Count,Hospital Discharges,183,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000023,2014/2015,Count,Hospital Discharges,15,Orkney Islands,NHS Orkney,S08000025
+S12000021,2014/2015,Count,Hospital Discharges,348,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000026,2014/2015,Count,Hospital Discharges,81,Scottish Borders,NHS Borders,S08000016
+S12000050,2014/2015,Count,Hospital Discharges,369,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2014/2015,Count,Hospital Discharges,1260,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2014/2015,Count,Hospital Discharges,369,Dundee City,NHS Tayside,S08000027
+S12000042,2014/2015,Count,Hospital Discharges,369,Dundee City,NHS Tayside,S08000030
+S12000045,2014/2015,Count,Hospital Discharges,57,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2014/2015,Count,Hospital Discharges,57,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2014/2015,Count,Hospital Discharges,126,Perth and Kinross,NHS Tayside,S08000030
+S12000047,2014/2015,Count,Hospital Discharges,675,Fife,NHS Fife,S08000029
+S12000008,2014/2015,Count,Hospital Discharges,318,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000010,2014/2015,Count,Hospital Discharges,120,East Lothian,NHS Lothian,S08000024
+S12000005,2014/2015,Count,Hospital Discharges,42,Clackmannanshire,NHS Forth Valley,S08000019
+S12000006,2014/2015,Count,Hospital Discharges,171,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000013,2014/2015,Count,Hospital Discharges,15,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2014/2015,Count,Hospital Discharges,156,Falkirk,NHS Forth Valley,S08000019
+S12000011,2014/2015,Count,Hospital Discharges,54,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2014/2015,Count,Hospital Discharges,54,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2014/2015,Ratio,"EASR per 100,000",89.89,Perth and Kinross,NHS Tayside,S08000030
+S12000045,2014/2015,Ratio,"EASR per 100,000",61.85,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2014/2015,Ratio,"EASR per 100,000",61.85,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000047,2014/2015,Ratio,"EASR per 100,000",194.69,Fife,NHS Fife,S08000029
+S12000049,2014/2015,Ratio,"EASR per 100,000",199.56,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2014/2015,Ratio,"EASR per 100,000",110.95,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000026,2014/2015,Ratio,"EASR per 100,000",86.47,Scottish Borders,NHS Borders,S08000016
+S12000010,2014/2015,Ratio,"EASR per 100,000",136.28,East Lothian,NHS Lothian,S08000024
+S12000023,2014/2015,Ratio,"EASR per 100,000",67.9,Orkney Islands,NHS Orkney,S08000025
+S12000029,2014/2015,Ratio,"EASR per 100,000",101.83,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2014/2015,Ratio,"EASR per 100,000",101.83,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000006,2014/2015,Ratio,"EASR per 100,000",133.52,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000027,2014/2015,Ratio,"EASR per 100,000",91.44,Shetland Islands,NHS Shetland,S08000026
+S12000008,2014/2015,Ratio,"EASR per 100,000",278.11,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000028,2014/2015,Ratio,"EASR per 100,000",189.66,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2014/2015,Ratio,"EASR per 100,000",313.61,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2014/2015,Ratio,"EASR per 100,000",313.61,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2014/2015,Ratio,"EASR per 100,000",61.79,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2014/2015,Ratio,"EASR per 100,000",101.44,Falkirk,NHS Forth Valley,S08000019
+S12000017,2014/2015,Ratio,"EASR per 100,000",79.91,Highland,NHS Highland,S08000022
+S12000011,2014/2015,Ratio,"EASR per 100,000",69.58,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2014/2015,Ratio,"EASR per 100,000",69.58,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000020,2014/2015,Ratio,"EASR per 100,000",64.17,Moray,NHS Grampian,S08000020
+S12000021,2014/2015,Ratio,"EASR per 100,000",295.66,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000019,2014/2015,Ratio,"EASR per 100,000",177.6,Midlothian,NHS Lothian,S08000024
+S12000040,2014/2015,Ratio,"EASR per 100,000",150.3,West Lothian,NHS Lothian,S08000024
+S12000038,2014/2015,Ratio,"EASR per 100,000",169.22,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2014/2015,Ratio,"EASR per 100,000",169.22,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2014/2015,Ratio,"EASR per 100,000",163.37,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2014/2015,Ratio,"EASR per 100,000",163.37,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2014/2015,Ratio,"EASR per 100,000",259.44,Dundee City,NHS Tayside,S08000027
+S12000042,2014/2015,Ratio,"EASR per 100,000",259.44,Dundee City,NHS Tayside,S08000030
+S12000041,2014/2015,Ratio,"EASR per 100,000",124.8,Angus,NHS Tayside,S08000027
+S12000041,2014/2015,Ratio,"EASR per 100,000",124.8,Angus,NHS Tayside,S08000030
+S12000033,2014/2015,Ratio,"EASR per 100,000",162.59,Aberdeen City,NHS Grampian,S08000020
+S12000005,2014/2015,Ratio,"EASR per 100,000",81.45,Clackmannanshire,NHS Forth Valley,S08000019
+S12000034,2014/2015,Ratio,"EASR per 100,000",46.92,Aberdeenshire,NHS Grampian,S08000020
+S12000030,2014/2015,Ratio,"EASR per 100,000",110.86,Stirling,NHS Forth Valley,S08000019
+S12000036,2014/2015,Ratio,"EASR per 100,000",209.92,City of Edinburgh,NHS Lothian,S08000024
+S12000035,2014/2015,Ratio,"EASR per 100,000",41.55,Argyll and Bute,NHS Highland,S08000022
+S12000034,2015/2016,Count,Hospital Discharges,120,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2015/2016,Count,Hospital Discharges,54,Argyll and Bute,NHS Highland,S08000022
+S12000030,2015/2016,Count,Hospital Discharges,117,Stirling,NHS Forth Valley,S08000019
+S12000029,2015/2016,Count,Hospital Discharges,444,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2015/2016,Count,Hospital Discharges,444,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000033,2015/2016,Count,Hospital Discharges,396,Aberdeen City,NHS Grampian,S08000020
+S12000039,2015/2016,Count,Hospital Discharges,183,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2015/2016,Count,Hospital Discharges,183,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000041,2015/2016,Count,Hospital Discharges,81,Angus,NHS Tayside,S08000027
+S12000041,2015/2016,Count,Hospital Discharges,81,Angus,NHS Tayside,S08000030
+S12000040,2015/2016,Count,Hospital Discharges,261,West Lothian,NHS Lothian,S08000024
+S12000036,2015/2016,Count,Hospital Discharges,906,City of Edinburgh,NHS Lothian,S08000024
+S12000038,2015/2016,Count,Hospital Discharges,282,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2015/2016,Count,Hospital Discharges,282,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2015/2016,Count,Hospital Discharges,114,Midlothian,NHS Lothian,S08000024
+S12000020,2015/2016,Count,Hospital Discharges,108,Moray,NHS Grampian,S08000020
+S12000017,2015/2016,Count,Hospital Discharges,213,Highland,NHS Highland,S08000022
+S12000018,2015/2016,Count,Hospital Discharges,252,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2015/2016,Count,Hospital Discharges,252,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000027,2015/2016,Count,Hospital Discharges,24,Shetland Islands,NHS Shetland,S08000026
+S12000028,2015/2016,Count,Hospital Discharges,192,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000023,2015/2016,Count,Hospital Discharges,9,Orkney Islands,NHS Orkney,S08000025
+S12000021,2015/2016,Count,Hospital Discharges,387,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000026,2015/2016,Count,Hospital Discharges,87,Scottish Borders,NHS Borders,S08000016
+S12000050,2015/2016,Count,Hospital Discharges,444,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2015/2016,Count,Hospital Discharges,1617,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2015/2016,Count,Hospital Discharges,354,Dundee City,NHS Tayside,S08000027
+S12000042,2015/2016,Count,Hospital Discharges,354,Dundee City,NHS Tayside,S08000030
+S12000045,2015/2016,Count,Hospital Discharges,69,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2015/2016,Count,Hospital Discharges,69,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2015/2016,Count,Hospital Discharges,156,Perth and Kinross,NHS Tayside,S08000030
+S12000047,2015/2016,Count,Hospital Discharges,645,Fife,NHS Fife,S08000029
+S12000008,2015/2016,Count,Hospital Discharges,303,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000010,2015/2016,Count,Hospital Discharges,117,East Lothian,NHS Lothian,S08000024
+S12000005,2015/2016,Count,Hospital Discharges,84,Clackmannanshire,NHS Forth Valley,S08000019
+S12000006,2015/2016,Count,Hospital Discharges,186,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000013,2015/2016,Count,Hospital Discharges,9,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2015/2016,Count,Hospital Discharges,186,Falkirk,NHS Forth Valley,S08000019
+S12000011,2015/2016,Count,Hospital Discharges,57,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2015/2016,Count,Hospital Discharges,57,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2015/2016,Ratio,"EASR per 100,000",111.45,Perth and Kinross,NHS Tayside,S08000030
+S12000045,2015/2016,Ratio,"EASR per 100,000",70.36,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2015/2016,Ratio,"EASR per 100,000",70.36,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000047,2015/2016,Ratio,"EASR per 100,000",187.71,Fife,NHS Fife,S08000029
+S12000049,2015/2016,Ratio,"EASR per 100,000",257.67,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2015/2016,Ratio,"EASR per 100,000",132.89,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000026,2015/2016,Ratio,"EASR per 100,000",97.16,Scottish Borders,NHS Borders,S08000016
+S12000010,2015/2016,Ratio,"EASR per 100,000",123.81,East Lothian,NHS Lothian,S08000024
+S12000023,2015/2016,Ratio,"EASR per 100,000",40.14,Orkney Islands,NHS Orkney,S08000025
+S12000029,2015/2016,Ratio,"EASR per 100,000",146.76,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2015/2016,Ratio,"EASR per 100,000",146.76,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000006,2015/2016,Ratio,"EASR per 100,000",150.3,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000027,2015/2016,Ratio,"EASR per 100,000",108.74,Shetland Islands,NHS Shetland,S08000026
+S12000008,2015/2016,Ratio,"EASR per 100,000",271,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000028,2015/2016,Ratio,"EASR per 100,000",206.49,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2015/2016,Ratio,"EASR per 100,000",348.17,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2015/2016,Ratio,"EASR per 100,000",348.17,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2015/2016,Ratio,"EASR per 100,000",35.81,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2015/2016,Ratio,"EASR per 100,000",119.39,Falkirk,NHS Forth Valley,S08000019
+S12000017,2015/2016,Ratio,"EASR per 100,000",100.26,Highland,NHS Highland,S08000022
+S12000011,2015/2016,Ratio,"EASR per 100,000",68.77,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2015/2016,Ratio,"EASR per 100,000",68.77,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000020,2015/2016,Ratio,"EASR per 100,000",121.79,Moray,NHS Grampian,S08000020
+S12000021,2015/2016,Ratio,"EASR per 100,000",333.71,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000019,2015/2016,Ratio,"EASR per 100,000",138.73,Midlothian,NHS Lothian,S08000024
+S12000040,2015/2016,Ratio,"EASR per 100,000",146.01,West Lothian,NHS Lothian,S08000024
+S12000038,2015/2016,Ratio,"EASR per 100,000",167.11,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2015/2016,Ratio,"EASR per 100,000",167.11,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2015/2016,Ratio,"EASR per 100,000",217.73,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2015/2016,Ratio,"EASR per 100,000",217.73,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2015/2016,Ratio,"EASR per 100,000",250.61,Dundee City,NHS Tayside,S08000027
+S12000042,2015/2016,Ratio,"EASR per 100,000",250.61,Dundee City,NHS Tayside,S08000030
+S12000041,2015/2016,Ratio,"EASR per 100,000",76.11,Angus,NHS Tayside,S08000027
+S12000041,2015/2016,Ratio,"EASR per 100,000",76.11,Angus,NHS Tayside,S08000030
+S12000033,2015/2016,Ratio,"EASR per 100,000",165.23,Aberdeen City,NHS Grampian,S08000020
+S12000005,2015/2016,Ratio,"EASR per 100,000",174.26,Clackmannanshire,NHS Forth Valley,S08000019
+S12000034,2015/2016,Ratio,"EASR per 100,000",47.04,Aberdeenshire,NHS Grampian,S08000020
+S12000030,2015/2016,Ratio,"EASR per 100,000",129.47,Stirling,NHS Forth Valley,S08000019
+S12000036,2015/2016,Ratio,"EASR per 100,000",170.2,City of Edinburgh,NHS Lothian,S08000024
+S12000035,2015/2016,Ratio,"EASR per 100,000",66.76,Argyll and Bute,NHS Highland,S08000022
+S12000050,2016/2017,Count,Hospital Discharges,540,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2016/2017,Count,Hospital Discharges,2067,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000005,2016/2017,Count,Hospital Discharges,69,Clackmannanshire,NHS Forth Valley,S08000019
+S12000006,2016/2017,Count,Hospital Discharges,231,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000021,2016/2017,Count,Hospital Discharges,507,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000013,2016/2017,Count,Hospital Discharges,9,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2016/2017,Count,Hospital Discharges,195,Falkirk,NHS Forth Valley,S08000019
+S12000010,2016/2017,Count,Hospital Discharges,102,East Lothian,NHS Lothian,S08000024
+S12000008,2016/2017,Count,Hospital Discharges,381,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000011,2016/2017,Count,Hospital Discharges,54,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2016/2017,Count,Hospital Discharges,54,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2016/2017,Count,Hospital Discharges,108,Midlothian,NHS Lothian,S08000024
+S12000020,2016/2017,Count,Hospital Discharges,75,Moray,NHS Grampian,S08000020
+S12000017,2016/2017,Count,Hospital Discharges,225,Highland,NHS Highland,S08000022
+S12000018,2016/2017,Count,Hospital Discharges,246,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2016/2017,Count,Hospital Discharges,246,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000048,2016/2017,Count,Hospital Discharges,147,Perth and Kinross,NHS Tayside,S08000030
+S12000042,2016/2017,Count,Hospital Discharges,384,Dundee City,NHS Tayside,S08000027
+S12000042,2016/2017,Count,Hospital Discharges,384,Dundee City,NHS Tayside,S08000030
+S12000041,2016/2017,Count,Hospital Discharges,66,Angus,NHS Tayside,S08000027
+S12000041,2016/2017,Count,Hospital Discharges,66,Angus,NHS Tayside,S08000030
+S12000045,2016/2017,Count,Hospital Discharges,84,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2016/2017,Count,Hospital Discharges,84,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2016/2017,Count,Hospital Discharges,225,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2016/2017,Count,Hospital Discharges,225,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000038,2016/2017,Count,Hospital Discharges,351,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2016/2017,Count,Hospital Discharges,351,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000040,2016/2017,Count,Hospital Discharges,321,West Lothian,NHS Lothian,S08000024
+S12000028,2016/2017,Count,Hospital Discharges,246,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000027,2016/2017,Count,Hospital Discharges,27,Shetland Islands,NHS Shetland,S08000026
+S12000029,2016/2017,Count,Hospital Discharges,450,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2016/2017,Count,Hospital Discharges,450,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000026,2016/2017,Count,Hospital Discharges,90,Scottish Borders,NHS Borders,S08000016
+S12000023,2016/2017,Count,Hospital Discharges,6,Orkney Islands,NHS Orkney,S08000025
+S12000035,2016/2017,Count,Hospital Discharges,84,Argyll and Bute,NHS Highland,S08000022
+S12000034,2016/2017,Count,Hospital Discharges,147,Aberdeenshire,NHS Grampian,S08000020
+S12000036,2016/2017,Count,Hospital Discharges,777,City of Edinburgh,NHS Lothian,S08000024
+S12000030,2016/2017,Count,Hospital Discharges,144,Stirling,NHS Forth Valley,S08000019
+S12000033,2016/2017,Count,Hospital Discharges,408,Aberdeen City,NHS Grampian,S08000020
+S12000047,2016/2017,Count,Hospital Discharges,756,Fife,NHS Fife,S08000029
+S12000042,2016/2017,Ratio,"EASR per 100,000",275.33,Dundee City,NHS Tayside,S08000027
+S12000042,2016/2017,Ratio,"EASR per 100,000",275.33,Dundee City,NHS Tayside,S08000030
+S12000041,2016/2017,Ratio,"EASR per 100,000",63.5,Angus,NHS Tayside,S08000027
+S12000041,2016/2017,Ratio,"EASR per 100,000",63.5,Angus,NHS Tayside,S08000030
+S12000040,2016/2017,Ratio,"EASR per 100,000",180.64,West Lothian,NHS Lothian,S08000024
+S12000034,2016/2017,Ratio,"EASR per 100,000",59.38,Aberdeenshire,NHS Grampian,S08000020
+S12000048,2016/2017,Ratio,"EASR per 100,000",107.77,Perth and Kinross,NHS Tayside,S08000030
+S12000033,2016/2017,Ratio,"EASR per 100,000",168.97,Aberdeen City,NHS Grampian,S08000020
+S12000045,2016/2017,Ratio,"EASR per 100,000",89.95,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2016/2017,Ratio,"EASR per 100,000",89.95,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000028,2016/2017,Ratio,"EASR per 100,000",262.59,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000039,2016/2017,Ratio,"EASR per 100,000",267.06,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2016/2017,Ratio,"EASR per 100,000",267.06,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000036,2016/2017,Ratio,"EASR per 100,000",144.71,City of Edinburgh,NHS Lothian,S08000024
+S12000038,2016/2017,Ratio,"EASR per 100,000",208.99,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2016/2017,Ratio,"EASR per 100,000",208.99,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000029,2016/2017,Ratio,"EASR per 100,000",149.48,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2016/2017,Ratio,"EASR per 100,000",149.48,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000030,2016/2017,Ratio,"EASR per 100,000",161.2,Stirling,NHS Forth Valley,S08000019
+S12000035,2016/2017,Ratio,"EASR per 100,000",114.32,Argyll and Bute,NHS Highland,S08000022
+S12000027,2016/2017,Ratio,"EASR per 100,000",116.72,Shetland Islands,NHS Shetland,S08000026
+S12000017,2016/2017,Ratio,"EASR per 100,000",103.82,Highland,NHS Highland,S08000022
+S12000047,2016/2017,Ratio,"EASR per 100,000",221,Fife,NHS Fife,S08000029
+S12000013,2016/2017,Ratio,"EASR per 100,000",34.13,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000014,2016/2017,Ratio,"EASR per 100,000",123.99,Falkirk,NHS Forth Valley,S08000019
+S12000021,2016/2017,Ratio,"EASR per 100,000",444.6,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000018,2016/2017,Ratio,"EASR per 100,000",341.88,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2016/2017,Ratio,"EASR per 100,000",341.88,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000020,2016/2017,Ratio,"EASR per 100,000",81.66,Moray,NHS Grampian,S08000020
+S12000019,2016/2017,Ratio,"EASR per 100,000",131.87,Midlothian,NHS Lothian,S08000024
+S12000023,2016/2017,Ratio,"EASR per 100,000",35.13,Orkney Islands,NHS Orkney,S08000025
+S12000026,2016/2017,Ratio,"EASR per 100,000",93.17,Scottish Borders,NHS Borders,S08000016
+S12000006,2016/2017,Ratio,"EASR per 100,000",191.65,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000008,2016/2017,Ratio,"EASR per 100,000",341.87,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000005,2016/2017,Ratio,"EASR per 100,000",145.35,Clackmannanshire,NHS Forth Valley,S08000019
+S12000011,2016/2017,Ratio,"EASR per 100,000",63.97,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2016/2017,Ratio,"EASR per 100,000",63.97,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000010,2016/2017,Ratio,"EASR per 100,000",109.18,East Lothian,NHS Lothian,S08000024
+S12000050,2016/2017,Ratio,"EASR per 100,000",163.09,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2016/2017,Ratio,"EASR per 100,000",331.27,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000030,2017/2018,Count,Hospital Discharges,120,Stirling,NHS Forth Valley,S08000019
+S12000028,2017/2018,Count,Hospital Discharges,237,South Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000029,2017/2018,Count,Hospital Discharges,522,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2017/2018,Count,Hospital Discharges,522,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000034,2017/2018,Count,Hospital Discharges,147,Aberdeenshire,NHS Grampian,S08000020
+S12000035,2017/2018,Count,Hospital Discharges,84,Argyll and Bute,NHS Highland,S08000022
+S12000033,2017/2018,Count,Hospital Discharges,465,Aberdeen City,NHS Grampian,S08000020
+S12000021,2017/2018,Count,Hospital Discharges,474,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000023,2017/2018,Count,Hospital Discharges,15,Orkney Islands,NHS Orkney,S08000025
+S12000020,2017/2018,Count,Hospital Discharges,87,Moray,NHS Grampian,S08000020
+S12000027,2017/2018,Count,Hospital Discharges,18,Shetland Islands,NHS Shetland,S08000026
+S12000026,2017/2018,Count,Hospital Discharges,114,Scottish Borders,NHS Borders,S08000016
+S12000047,2017/2018,Count,Hospital Discharges,855,Fife,NHS Fife,S08000029
+S12000042,2017/2018,Count,Hospital Discharges,471,Dundee City,NHS Tayside,S08000027
+S12000042,2017/2018,Count,Hospital Discharges,471,Dundee City,NHS Tayside,S08000030
+S12000045,2017/2018,Count,Hospital Discharges,87,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2017/2018,Count,Hospital Discharges,87,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000049,2017/2018,Count,Hospital Discharges,2241,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2017/2018,Count,Hospital Discharges,672,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000048,2017/2018,Count,Hospital Discharges,153,Perth and Kinross,NHS Tayside,S08000030
+S12000038,2017/2018,Count,Hospital Discharges,294,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2017/2018,Count,Hospital Discharges,294,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000039,2017/2018,Count,Hospital Discharges,204,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2017/2018,Count,Hospital Discharges,204,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000036,2017/2018,Count,Hospital Discharges,846,City of Edinburgh,NHS Lothian,S08000024
+S12000041,2017/2018,Count,Hospital Discharges,120,Angus,NHS Tayside,S08000027
+S12000041,2017/2018,Count,Hospital Discharges,120,Angus,NHS Tayside,S08000030
+S12000040,2017/2018,Count,Hospital Discharges,345,West Lothian,NHS Lothian,S08000024
+S12000014,2017/2018,Count,Hospital Discharges,291,Falkirk,NHS Forth Valley,S08000019
+S12000011,2017/2018,Count,Hospital Discharges,69,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2017/2018,Count,Hospital Discharges,69,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000013,2017/2018,Count,Hospital Discharges,9,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000018,2017/2018,Count,Hospital Discharges,210,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2017/2018,Count,Hospital Discharges,210,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000019,2017/2018,Count,Hospital Discharges,177,Midlothian,NHS Lothian,S08000024
+S12000017,2017/2018,Count,Hospital Discharges,267,Highland,NHS Highland,S08000022
+S12000005,2017/2018,Count,Hospital Discharges,111,Clackmannanshire,NHS Forth Valley,S08000019
+S12000006,2017/2018,Count,Hospital Discharges,276,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000010,2017/2018,Count,Hospital Discharges,105,East Lothian,NHS Lothian,S08000024
+S12000008,2017/2018,Count,Hospital Discharges,414,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000010,2017/2018,Ratio,"EASR per 100,000",113.55,East Lothian,NHS Lothian,S08000024
+S12000011,2017/2018,Ratio,"EASR per 100,000",81.3,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000011,2017/2018,Ratio,"EASR per 100,000",81.3,East Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000008,2017/2018,Ratio,"EASR per 100,000",366.62,East Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000014,2017/2018,Ratio,"EASR per 100,000",186.67,Falkirk,NHS Forth Valley,S08000019
+S12000013,2017/2018,Ratio,"EASR per 100,000",29.75,Na h-Eileanan Siar,NHS Western Isles,S08000028
+S12000005,2017/2018,Ratio,"EASR per 100,000",231.07,Clackmannanshire,NHS Forth Valley,S08000019
+S12000006,2017/2018,Ratio,"EASR per 100,000",229.38,Dumfries and Galloway,NHS Dumfries and Galloway,S08000017
+S12000035,2017/2018,Ratio,"EASR per 100,000",115.33,Argyll and Bute,NHS Highland,S08000022
+S12000038,2017/2018,Ratio,"EASR per 100,000",176.58,Renfrewshire,NHS Greater Glasgow and Clyde,S08000021
+S12000038,2017/2018,Ratio,"EASR per 100,000",176.58,Renfrewshire,NHS Greater Glasgow and Clyde,S08000031
+S12000036,2017/2018,Ratio,"EASR per 100,000",156.21,City of Edinburgh,NHS Lothian,S08000024
+S12000033,2017/2018,Ratio,"EASR per 100,000",191.94,Aberdeen City,NHS Grampian,S08000020
+S12000034,2017/2018,Ratio,"EASR per 100,000",60.16,Aberdeenshire,NHS Grampian,S08000020
+S12000047,2017/2018,Ratio,"EASR per 100,000",248.29,Fife,NHS Fife,S08000029
+S12000048,2017/2018,Ratio,"EASR per 100,000",112.68,Perth and Kinross,NHS Tayside,S08000030
+S12000045,2017/2018,Ratio,"EASR per 100,000",93.17,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000045,2017/2018,Ratio,"EASR per 100,000",93.17,East Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000050,2017/2018,Ratio,"EASR per 100,000",201.79,North Lanarkshire,NHS Lanarkshire,S08000032
+S12000049,2017/2018,Ratio,"EASR per 100,000",355.72,Glasgow City,NHS Greater Glasgow and Clyde,S08000031
+S12000040,2017/2018,Ratio,"EASR per 100,000",192.82,West Lothian,NHS Lothian,S08000024
+S12000039,2017/2018,Ratio,"EASR per 100,000",244.96,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000021
+S12000039,2017/2018,Ratio,"EASR per 100,000",244.96,West Dunbartonshire,NHS Greater Glasgow and Clyde,S08000031
+S12000042,2017/2018,Ratio,"EASR per 100,000",344.68,Dundee City,NHS Tayside,S08000027
+S12000042,2017/2018,Ratio,"EASR per 100,000",344.68,Dundee City,NHS Tayside,S08000030
+S12000041,2017/2018,Ratio,"EASR per 100,000",117.59,Angus,NHS Tayside,S08000027
+S12000041,2017/2018,Ratio,"EASR per 100,000",117.59,Angus,NHS Tayside,S08000030
+S12000023,2017/2018,Ratio,"EASR per 100,000",65.2,Orkney Islands,NHS Orkney,S08000025
+S12000021,2017/2018,Ratio,"EASR per 100,000",415.57,North Ayrshire,NHS Ayrshire and Arran,S08000015
+S12000026,2017/2018,Ratio,"EASR per 100,000",123.11,Scottish Borders,NHS Borders,S08000016
+S12000018,2017/2018,Ratio,"EASR per 100,000",298.47,Inverclyde,NHS Greater Glasgow and Clyde,S08000021
+S12000018,2017/2018,Ratio,"EASR per 100,000",298.47,Inverclyde,NHS Greater Glasgow and Clyde,S08000031
+S12000017,2017/2018,Ratio,"EASR per 100,000",124.25,Highland,NHS Highland,S08000022
+S12000020,2017/2018,Ratio,"EASR per 100,000",95.24,Moray,NHS Grampian,S08000020
+S12000019,2017/2018,Ratio,"EASR per 100,000",215.11,Midlothian,NHS Lothian,S08000024
+S12000029,2017/2018,Ratio,"EASR per 100,000",173.53,South Lanarkshire,NHS Lanarkshire,S08000023
+S12000029,2017/2018,Ratio,"EASR per 100,000",173.53,South Lanarkshire,NHS Lanarkshire,S08000032
+S12000030,2017/2018,Ratio,"EASR per 100,000",137.86,Stirling,NHS Forth Valley,S08000019
+S12000027,2017/2018,Ratio,"EASR per 100,000",80.03,Shetland Islands,NHS Shetland,S08000026
+S12000028,2017/2018,Ratio,"EASR per 100,000",256.65,South Ayrshire,NHS Ayrshire and Arran,S08000015
