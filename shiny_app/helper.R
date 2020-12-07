@@ -3,7 +3,7 @@ library(leaflet)
 library(rgdal)
 
 # load in data
-life_expectancy_data <- read_csv("../data/raw_data/life_expectancy.csv")
+life_expectancy_data <- read_csv("../data/clean_data/life_expectancy_clean.csv")
 
 hb_shapes <- readOGR(
   dsn ="../data/shapefiles/SG_NHS_HealthBoards_2019/",
@@ -13,17 +13,9 @@ hb_shapes <- readOGR(
 # transform shape data to plot on map
 hb_shapes_ll <- spTransform(hb_shapes, CRS("+proj=longlat +datum=WGS84"))
 
-# filter data to desired form:
-# clean_names,
-# date - after 2009
+
 # all SIMD quintiles
 life_expectancy_data_all_SIMD <- life_expectancy_data %>% 
-  janitor::clean_names() %>% 
-  mutate(date_code = as.ordered(date_code)) %>% 
-  arrange(date_code) %>% 
-  filter(date_code > "2006-2008") %>% 
-  filter(urban_rural_classification == "All") %>% 
-  filter(age == "0 years") %>% 
   filter(simd_quintiles == "All") %>% 
   # ignore CIs
   filter(measurement == "Count") %>% 
