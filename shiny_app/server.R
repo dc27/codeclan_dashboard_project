@@ -12,7 +12,7 @@ server <- function(input, output) {
   
   # render map for life expectancy
   output$LE_map <- renderLeaflet({
-    create_hb_map(life_expect_chosen_year())
+    create_hb_map(life_expect_chosen_year(), reactive(input$sex_choice))
   })
   
   selected_simd <- filter_data_LE_simd(

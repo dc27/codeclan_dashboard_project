@@ -19,6 +19,5 @@ create_le_simd_plot <- function(data) {
        title = "Life expectancy over time",
        colour = "Sex") +
   theme(legend.position = "right",
-        axis.text.x = element_text(angle = 90, hjust = 1),
         legend.title = element_text(hjust = 0.5))
 }
