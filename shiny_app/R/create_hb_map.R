@@ -14,7 +14,7 @@ create_hb_map <- function(measurement_df, sex) {
     cbind(measurement_df)
   
   if (sex() == "Male") {
-    colour_age_range = -c(71,77)
+    colour_age_range = -c(74,80)
   }
   else if(sex() == "Female") {
     colour_age_range = -c(79,85)
