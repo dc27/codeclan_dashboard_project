@@ -5,7 +5,6 @@ library(shiny)
 library(rmapshaper)
 library(sp)
 library(sf)
-library(geojsonio)
 library(shinydashboard)
 
 # load in data
@@ -16,7 +15,7 @@ hb_shapes <- readOGR(
   layer = "SG_NHS_HealthBoards_2019",
   GDAL1_integer64_policy = TRUE)
 
-crs <- CRS("+proj=longlat +datum=WGS84 +no_defs")
+crs <- CRS("+proj=longlat +datum=WGS84")
 
 # transform shape data to plot on map
 hb_shapes_ll <- (
