@@ -54,17 +54,17 @@ life_satisfaction <- life_satisfaction %>%
   mutate(indicator = 
            recode(scottish_health_survey_indicator, 
                   "Life satisfaction: Above the mode (9 to 10-Extremely satisfied)" 
-                  = "Very Satisfied (above mode)",
+                  = "Very satisfied (above mode)",
                   "Life satisfaction: Below the mode (0-Extremely dissatisfied to 7)" 
-                  = "Very Dissatisfied (below mode)",
+                  = "Very dissatisfied (below mode)",
                   "Life satisfaction: Mode (8)" 
                   = "Satisfied (mode)")) %>% 
   mutate(health_board_name = 
            if_else(is.na(health_board_name), "Scotland", health_board_name)) %>% 
   mutate(indicator_factor = factor(indicator, 
-                            levels = c("Very Dissatisfied (below mode)",
+                            levels = c("Very dissatisfied (below mode)",
                                        "Satisfied (mode)",
-                                       "Very Satisfied (above mode)"))) %>% 
+                                       "Very satisfied (above mode)"))) %>% 
   arrange(indicator_factor)
 
 #Output cleaned data to csv file
