@@ -14,9 +14,9 @@ create_le_simd_plot <- function(data) {
                   group = sex),
               alpha = 0.2) +
   theme_bw() +
-  labs(x = "Date range",
+  labs(x = "SIMD",
        y = "Life expectancy by SIMD",
-       title = "Life expectancy over time",
+       title = "Life expectancy by SIMD",
        colour = "Sex") +
   theme(legend.position = "right",
         legend.title = element_text(hjust = 0.5))

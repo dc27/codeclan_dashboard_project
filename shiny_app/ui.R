@@ -22,7 +22,7 @@ ui <- dashboardPage(
   dashboardHeader(
     title = "Health in Scotland"
   ),
-  dashboardSidebar(),
+  dashboardSidebar(disable = TRUE),
   dashboardBody(
     tabsetPanel(
       tabPanel(
@@ -47,6 +47,7 @@ ui <- dashboardPage(
             
             actionButton(inputId = "update",
                          label = "Show plot"),
+            tags$hr(),
             
             # user inputs:
             # date range input
@@ -64,9 +65,9 @@ ui <- dashboardPage(
           ),
           
           mainPanel(
+            plotOutput("satisfaction_plot"),
             leafletOutput("LE_map"),
-            plotOutput("LE_by_simd_plot"),
-            plotOutput("satisfaction_plot")
+            plotOutput("LE_by_simd_plot")
           )
         )
       ),
