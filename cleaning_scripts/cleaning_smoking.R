@@ -26,7 +26,8 @@ smoking_data_clean <- smoking_scot_survey %>%
 council_area_clean <- council_area %>%
   clean_names() %>% 
   select(feature_code = ca,
-         council_area = ca_name)
+         council_area = ca_name) %>% 
+  unique()
 
 # join the datasets (joining on feature code) & remove duplicate rows
 
