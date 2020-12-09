@@ -1,5 +1,7 @@
 Authors:
 David Currie
+Geraldine Smith
+Mark Donaldson
 
 ## Guide to authors: branch n merge
 
