@@ -18,8 +18,8 @@ hb_shapes <- readOGR(
 crs <- CRS("+proj=longlat +datum=WGS84")
 
 # transform shape data to plot on map
-hb_shapes_ll <- (
-  spTransform(hb_shapes, crs)
-)
+hb_shapes_ll <- hb_shapes %>% 
+  rgeos::gSimplify(tol=25, topologyPreserve=TRUE) %>% 
+  spTransform(crs)
 
-# hb_shapes_ll <- ms_simplify(hb_shapes_ll)
+hb_shapes@polygons <- hb_shapes_ll@polygons

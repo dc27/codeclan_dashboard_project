@@ -10,7 +10,7 @@ life_expectancy_data_all_SIMD <- life_expectancy_data %>%
 create_hb_map <- function(measurement_df, sex) {
   # measurement_df is calculated in the server - determined by user inputs
   # bind to shape data
-  hb_shapes_ll@data <- hb_shapes_ll@data %>% 
+  hb_shapes@data <- hb_shapes@data %>% 
     cbind(measurement_df)
   
   if (sex() == "Male") {
@@ -22,7 +22,7 @@ create_hb_map <- function(measurement_df, sex) {
   
   # pretty labels
   labels <- sprintf("<strong>%s</strong><br/>%g",
-                    hb_shapes_ll$HBName, hb_shapes_ll$value) %>%
+                    hb_shapes$HBName, hb_shapes$value) %>%
     lapply(htmltools::HTML)
   
   # plot
@@ -36,10 +36,10 @@ create_hb_map <- function(measurement_df, sex) {
     # load in basemap
     addProviderTiles(providers$CartoDB.PositronNoLabels) %>% 
     # add Health Board polygons, colour based on LE, highlight on hover
-    addPolygons(data = hb_shapes_ll, color = "white",
+    addPolygons(data = hb_shapes, color = "white",
                 fillColor = ~colorQuantile(
-                  "YlOrRd", (colour_age_range))
-                (-hb_shapes_ll$value),
+                  "YlOrRd", (-hb_shapes$value))
+                (-hb_shapes$value),
                 weight = 1, fillOpacity = 0.9, label = labels,
                 highlightOptions = highlightOptions(
                   color = "white", weight = 2,
