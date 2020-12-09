@@ -1,6 +1,7 @@
 source("R/filter_data_life_expectancy.R")
 source("R/filter_data_life_expectancy_simd.R")
 
+
 # create variables for input choices
 
 date_ranges <- sort(unique(life_expectancy_data_all_SIMD$date_code))
@@ -15,6 +16,11 @@ sex_choices_life_satisfaction <-  life_satisfaction %>%
 area_choices_life_satisfaction <- life_satisfaction %>% 
   distinct(health_board_name) %>%
   arrange(desc(health_board_name)) %>% 
+  pull()
+
+# list of unqiue council areas
+council_areas <- scotland_smoking_data %>% 
+  distinct(council_area) %>% 
   pull()
 
 # build the UI
@@ -78,8 +84,39 @@ ui <- dashboardPage(
         "Tab 3"
       ),
       tabPanel(
-        "Tab 4"
+        "Smoking",
+        sidebarLayout(
+          sidebarPanel(
+            # user inputs:
+            # age range input
+            selectInput(inputId = "age",
+                        label = "Age Range?",
+                        choices = c("16-34 years", "35-64 years", "65 years and over", "All",
+                        "All")
+            ),
+            # gender input
+            selectInput(inputId = "gender",
+                        label = "Gender?",
+                        choices = c("Male", "Female", "All",
+                        "All")
+            ),
+            #council area input
+            selectInput("council",
+                        "Which Council Area?",
+                        choices = sort(council_areas)
+            ),
+            # add button so variable choices update only when confirmed
+            actionButton(inputId = "confirm_variable_choices", 
+                         label = "Confirm")
+          ),
+          
+          
+          mainPanel(
+            plotOutput("smoking_plot")
+          )
+        )
       )
+      
     )
   )
 )

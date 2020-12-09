@@ -16,6 +16,8 @@ life_expectancy_data <- read_csv("../data/clean_data/life_expectancy_clean.csv")
 
 life_satisfaction <- read_csv("../data/clean_data/life_satisfaction_clean.csv")
 
+scotland_smoking_data <- read_csv("../data/clean_data/clean_smoking.csv")
+
 hb_shapes <- readOGR(
   dsn ="../data/shapefiles/SG_NHS_HealthBoards_2019/",
   layer = "SG_NHS_HealthBoards_2019",
