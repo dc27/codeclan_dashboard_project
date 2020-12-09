@@ -7,11 +7,18 @@ life_expectancy_data_all_SIMD <- life_expectancy_data %>%
   filter(str_detect(feature_code, "^S0")) %>% 
   arrange(feature_code)
 
-create_hb_map <- function(measurement_df) {
+create_hb_map <- function(measurement_df, sex) {
   # measurement_df is calculated in the server - determined by user inputs
   # bind to shape data
   hb_shapes_ll@data <- hb_shapes_ll@data %>% 
     cbind(measurement_df)
+  
+  if (sex() == "Male") {
+    colour_age_range = -c(74,80)
+  }
+  else if(sex() == "Female") {
+    colour_age_range = -c(79,85)
+  }
   
   # pretty labels
   labels <- sprintf("<strong>%s</strong><br/>%g",
@@ -31,8 +38,8 @@ create_hb_map <- function(measurement_df) {
     # add Health Board polygons, colour based on LE, highlight on hover
     addPolygons(data = hb_shapes_ll, color = "white",
                 fillColor = ~colorQuantile(
-                  "YlOrRd", -hb_shapes_ll$value
-                ) (-hb_shapes_ll$value),
+                  "YlOrRd", (colour_age_range))
+                (-hb_shapes_ll$value),
                 weight = 1, fillOpacity = 0.9, label = labels,
                 highlightOptions = highlightOptions(
                   color = "white", weight = 2,

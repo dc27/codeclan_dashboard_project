@@ -1,5 +1,7 @@
 Authors:
 David Currie
+Geraldine Smith
+Mark Donaldson
 
 ## Guide to authors: branch n merge
 
@@ -29,7 +31,7 @@ gco feature/name_of_your_feature
 ```
 git merge main
 ```
-7. Resolve any conflicts and verify the app is working. 
+7. Resolve any conflicts and **verify the app is working**. 
 8. Push working app
 ```
 git push
