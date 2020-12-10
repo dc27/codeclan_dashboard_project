@@ -23,21 +23,25 @@ ui <- fluidPage(
     sidebarLayout(
         sidebarPanel(
             
+            # Year selection
             selectInput("date_code",
                         "Select year",
                         choices = sort(date_code),
                         selected =  "2018/2019"),
 
+            # Council Area Code selection - multiple 
             checkboxGroupInput(inputId = "council_area",
                                label = "Council Region:",
                                choices = sort(council_area),
                                selected = NULL),
             
+            # Alcohol related condition selection
             selectInput(inputId = "alcohol_condition",
                         label = "Alcohol Related Condition",
                         choices = alcohol_condition,
                         selected = "All alcohol conditions"),
             
+            # Update button
             actionButton(inputId = "update",
                          label = "Update Plot")
         ),

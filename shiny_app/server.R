@@ -59,5 +59,67 @@ output$satisfaction_plot <- renderPlot({
     create_le_simd_plot(selected_simd())
   })
 
+  # Alcohol server function
+  # filter data for update action
+  filtered_alcohol <- eventReactive(input$update_alcohol_plot,{alcohol %>% 
+      filter(date_code %in% input$date_code) %>% 
+      filter(council_area %in% input$council_area) %>% 
+      filter(alcohol_condition %in% input$alcohol_condition)
+  })
+  
+  # Alcohol geom col plot
+  output$alcohol_discharge <- renderPlot({
+    filtered_alcohol() %>% 
+      ggplot() +
+      aes(x= council_area, y = count, fill = council_area) +
+      geom_col(position = "dodge", colour = "white") +
+      scale_fill_brewer(palette = 1) +
+      labs(x = "Council Region",
+           y = "Count",
+           title = "Alcohol Related Incidents Within Hospital") +
+      theme(plot.title = element_text(hjust = 0.5, vjust = 1, size=16),
+            axis.title.x = element_blank(),
+            axis.text.x = element_text(vjust=1,size=10),
+            axis.text.y = element_text(hjust=1.5,size=10),
+            legend.title = element_blank(),
+            legend.position = "bottom",
+            legend.spacing.x = unit(1.0, "cm"),
+            legend.text = element_text(size = 10),
+            panel.grid.major.y = element_blank(),
+            plot.background = element_rect(fill = "white", colour = "grey"),
+            panel.background = element_rect(fill = "white", colour = "grey")) +
+      facet_wrap(~ alcohol_condition)
+  })
+  
+  
+  # Drugs server function
+  # filtered data for update action
+  filtered_drugs <- eventReactive(input$update_drugs_plot,{drugs %>% 
+      filter(date_code %in% input$date_code) %>% 
+      filter(council_area %in% input$council_area)
+  })
+  
+  # Drugs geom col plot
+  output$drug_count <- renderPlot({
+    filtered_drugs() %>% 
+      ggplot() +
+      aes(x = council_area, y = value, fill = council_area) +
+      geom_col(position = "dodge", colour = "white") +
+      scale_fill_brewer(palette = 1) +
+      labs(x = "Council Region",
+           y = "Count",
+           title = "Drug Related Dishcharges from Hospital") +
+      theme(plot.title = element_text(hjust = 0.5, vjust = 1, size=16),
+            axis.title.x = element_blank(),
+            axis.text.x = element_text(vjust=1,size=10),
+            axis.text.y = element_text(hjust=1.5,size=10),
+            legend.title = element_blank(),
+            legend.position = "bottom",
+            legend.spacing.x = unit(1.0, "cm"),
+            legend.text = element_text(size = 10),
+            panel.grid.major.y = element_blank(),
+            plot.background = element_rect(fill = "white", colour = "grey"),
+            panel.background = element_rect(fill = "white", colour = "grey"))
+  })
   
 }

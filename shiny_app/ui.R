@@ -7,6 +7,15 @@ date_ranges <- sort(unique(life_expectancy_data_all_SIMD$date_code))
 sexes <- unique(life_expectancy_data_all_SIMD$sex)
 simd_quints <- sort(unique(le_data_individual_simds$simd_quintiles))
 
+# Alcohol input for plot
+alcohol_condition <- unique(alcohol$alcohol_condition)
+  council_area <- unique(alcohol$council_area)
+  date_code <- unique(alcohol$date_code)
+
+# Drug input for plot  
+council_area <- unique(drugs$council_area)
+  date_code <- unique(drugs$date_code)
+
 #Determine lists for input buttons/checkboxes for life satisfaction
 sex_choices_life_satisfaction <-  life_satisfaction %>% 
   distinct(sex) %>% 
@@ -72,11 +81,87 @@ ui <- dashboardPage(
         )
       ),
       tabPanel(
-        "Tab 2"
+        "Alcohol",
+        
+        # Application title
+        titlePanel("Hospital Related Alcohol Incedents"),
+        
+        # Sidebar with a slider input for number of bins 
+        sidebarLayout(
+          sidebarPanel(
+            
+            # Year selection
+            selectInput("date_code",
+                        "Select year",
+                        choices = sort(date_code),
+                        selected =  "2018/2019"),
+            
+            # Council Area Code selection - multiple 
+            checkboxGroupInput(inputId = "council_area",
+                               label = "Council Region:",
+                               choices = sort(council_area),
+                               selected = c("Aberdeen City",
+                                            "City of Edinburgh",
+                                            "Glasgow City")),
+            
+            # Alcohol related condition selection
+            selectInput(inputId = "alcohol_condition",
+                        label = "Alcohol Related Condition",
+                        choices = alcohol_condition,
+                        selected = "All alcohol conditions"),
+            
+            # Update button
+            actionButton(inputId = "update_alcohol_plot",
+                         label = "Update Plot")
+          ),
+          
+          # Show a plot of the generated distribution
+          mainPanel(
+            plotOutput("alcohol_discharge"),
+            
+            "Alcohol-related hospital statistics (ARHS) provide an annual update to figures on the alcohol-related inpatient and day case activity taking place within general acute hospitals and psychiatric hospitals in Scotland"
+          )
+          
+        )
       ),
+        
       tabPanel(
-        "Tab 3"
+        "Drugs",
+
+      # Application title
+      titlePanel("Drug Misuse Discharge's from Hospital"),
+      
+      # Sidebar with a slider input for number of bins 
+      sidebarLayout(
+        sidebarPanel(
+          
+          selectInput(inputId = "date_code",
+                      "Select year",
+                      choices = sort(date_code),
+                      selected = "2017/2018"),
+          
+          checkboxGroupInput(inputId = "council_area",
+                             label = "Council Region:",
+                             choices = sort(council_area),
+                             selected = c("Aberdeen City",
+                                          "City of Edinburgh",
+                                          "Glasgow City")),
+          
+          actionButton(inputId = "update_drugs_plot",
+                       label = "Update Plot")
+        ),
+        
+        # Show a plot of the generated distribution
+        mainPanel(
+          plotOutput("drug_count"),
+          
+          "Number and EASR of hospital stays related to a drug misuse diagnosis. Hospital activity is data routinely drawn from hospital administrative systems across all NHS hospitals in Scotland. These data contain statistics derived from General Acute Inpatient / Day cases Records (Scottish Morbidity Records 01 or SMR01 database), which includes all inpatient and day cases discharged from acute medical specialties (all specialties other than mental health, maternity, neonatal and geriatric long stay specialties), and where drug misuse was mentioned in the records at some point during the patients’ hospital stay."
+          
+        )
+      )
       ),
+      
+      
       tabPanel(
         "Tab 4"
       )
