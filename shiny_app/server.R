@@ -2,6 +2,8 @@ source("R/filter_data_life_expectancy.R")
 source("R/create_hb_map.R")
 source("R/filter_data_life_expectancy_simd.R")
 source("R/create_le_simd_plot.R")
+source("R/filter_stats_life_satisfaction_sex_only.R")
+source("R/create_life_expect_plot_all_years.R")
 
 server <- function(input, output) {
   # take ui inputs for date, sex
@@ -15,21 +17,38 @@ server <- function(input, output) {
     create_hb_map(life_expect_chosen_year(), reactive(input$sex_choice))
   })
 
-#filter stats for when user clicks action buttons
-filtered_stats_life_satisfaction <- 
-  eventReactive(input$update, 
-                ignoreNULL = FALSE,{
-                                    life_satisfaction %>% 
-                                    filter(sex %in% 
-                                            c(input$sex_choices_life_satisfaction)) %>% 
-                                      filter(health_board_name %in% 
-                                            c(input$area_choices_life_satisfaction))
-}) 
+  # filter stats for when user clicks action buttons
+  filtered_stats_life_satisfaction <- 
+    eventReactive(input$update, 
+                  ignoreNULL = FALSE,{
+                                      life_satisfaction %>% 
+                                      filter(sex %in% 
+                                              c(input$sex_choices_life_satisfaction)) %>% 
+                                        filter(health_board_name %in% 
+                                              c(input$area_choices_life_satisfaction))
+  })
+  # filter LS by sex only for map
+  filtered_stats_LS_by_sex_only <-
+    filter_stats_life_satisfaction_sex_only(input = input,
+                                            data = life_satisfaction)
+  # create map for life satisfaction
+  output$satisfaction_map <- renderLeaflet({
+    create_hb_map_LS(filtered_stats_LS_by_sex_only(),
+                     reactive(input$sex_choices_life_satisfaction))
+  })
+  # create plot for life expectancy by year for all scotland
+  output$LE_year_plot <- renderPlot({
+    create_life_expectancy_all_scotland_all_years(life_expectancy_data)
+  })
 
 # create plot for life satisfaction
 output$satisfaction_plot <- renderPlot({
   filtered_stats_life_satisfaction() %>% 
-    ggplot(aes(x = health_board_name, y = value, fill = indicator_factor)) +
+    ggplot(aes(x = health_board_name, y = value,
+               fill = factor(indicator_factor,
+                             levels = c("Very dissatisfied (below mode)",
+                                        "Satisfied (mode)",
+                                        "Very satisfied (above mode)")))) +
       geom_col(position = "dodge", colour = "grey") +
       scale_fill_brewer(palette = 1) +
       labs(y = "% Adults",
@@ -40,15 +59,15 @@ output$satisfaction_plot <- renderPlot({
             axis.text.y = element_text(hjust=1.5,size=10),
             legend.title = element_blank(),
             legend.position = "bottom",
-            legend.spacing.x = unit(1.0, "cm"),
+            legend.spacing.x = unit(0.5, "cm"),
             legend.text = element_text(size = 10),
             panel.grid.major.y = element_blank(),
             plot.background = element_rect(fill = "white", colour = "grey"),
-            panel.background = element_rect(fill = "white", colour = "grey"))+
+            panel.background = element_rect(fill = "white", colour = "grey")) +
       facet_wrap(~ sex)
   })  
 
-  
+  # filter data for life expectancy by SIMD
   selected_simd <- filter_data_LE_simd(
     input = input,
     data = le_data_individual_simds
