@@ -18,8 +18,7 @@ smoking_data_clean <- smoking_scot_survey %>%
   filter(age != "16-64 years") %>%
   separate(date_code, sep = "-",
            into = c("date_start", "date_end"), remove = FALSE) %>%
-  mutate(date_diff = as.integer(date_end) - as.integer(date_start)) %>% 
-  filter(is.na(date_end)|(date_diff==1)) %>% 
+  filter(is.na(date_end)) %>% 
   filter(str_detect(feature_code, "S12"))
 
 
@@ -37,3 +36,4 @@ smoking_clean_join <- inner_join(smoking_data_clean, council_area_clean)
 # output clean data
 smoking_clean_join %>% 
   write_csv("data/clean_data/clean_smoking.csv")
+
