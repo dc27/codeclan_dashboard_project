@@ -14,7 +14,8 @@ smoking_data_clean <- smoking_scot_survey %>%
   filter(measurement == "Percent") %>%
   filter(limiting_long_term_physical_or_mental_health_condition == "All") %>% 
   filter(type_of_tenure == "All") %>% 
-  filter(household_type == "All") %>% 
+  filter(household_type == "All") %>%
+  filter(age != "16-64 years") %>%
   separate(date_code, sep = "-",
            into = c("date_start", "date_end"), remove = FALSE) %>%
   mutate(date_diff = as.integer(date_end) - as.integer(date_start)) %>% 

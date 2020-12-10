@@ -1,11 +1,13 @@
 source("R/filter_data_life_expectancy.R")
 source("R/filter_data_life_expectancy_simd.R")
 
+
 # create variables for input choices
 
 date_ranges <- sort(unique(life_expectancy_data_all_SIMD$date_code))
 sexes <- unique(life_expectancy_data_all_SIMD$sex)
 simd_quints <- sort(unique(le_data_individual_simds$simd_quintiles))
+
 
 # Alcohol input for plot
 alcohol_condition <- unique(alcohol$alcohol_condition)
@@ -15,6 +17,12 @@ alcohol_condition <- unique(alcohol$alcohol_condition)
 # Drug input for plot  
 council_area_drugs <- unique(drugs$council_area)
   date_code_drugs <- unique(drugs$date_code)
+
+# create variables for smoking tab input choices
+
+#smoking_genders <- sort(scotland_smoking_data$gender)
+#smoking_ages <- sort(scotland_smoking_data$age)
+
 
 #Determine lists for input buttons/checkboxes for life satisfaction
 sex_choices_life_satisfaction <-  life_satisfaction %>% 
@@ -223,8 +231,41 @@ ui <- dashboardPage(
       
       
       tabPanel(
-        "Tab 4"
+        "Smoking",
+        sidebarLayout(
+          sidebarPanel(
+            # user inputs:
+            # age range input
+            selectInput(inputId = "age",
+                        label = "Age Range?",
+                        choices = sort(scotland_smoking_data$age),
+                        "All"),
+            
+            # gender input
+            selectInput(inputId = "gender",
+                        label = "Gender?",
+                        choices = scotland_smoking_data$gender,
+                        "All"),
+            
+            #council area input
+            selectInput(inputId = "council",
+                        label = "Which Council Area?",
+                        choices = sort(scotland_smoking_data$council_area)
+            ),
+            
+              
+            # add button so variable choices update only when confirmed
+            actionButton(inputId = "confirm_variable_choices", 
+                         label = "Confirm")
+          ),
+          
+          
+          mainPanel(
+            plotOutput("smoking_plot")
+          )
+        )
       )
+      
     )
   )
 )

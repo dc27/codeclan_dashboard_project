@@ -17,9 +17,13 @@ life_expectancy_data <- read_csv("../data/clean_data/life_expectancy_clean.csv")
 
 life_satisfaction <- read_csv("../data/clean_data/life_satisfaction_clean.csv")
 
+
 alcohol <- read.csv(here("data/clean_data/alcohol_hospital_area.csv"))
 
 drugs <- read.csv(here("data/clean_data/drug_hospital_area.csv"))
+
+scotland_smoking_data <- read_csv("../data/clean_data/clean_smoking.csv")
+
 
 hb_shapes <- readOGR(
   dsn ="../data/shapefiles/SG_NHS_HealthBoards_2019/",
