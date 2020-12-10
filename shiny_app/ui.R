@@ -72,7 +72,11 @@ ui <- dashboardPage(
                     leafletOutput("LE_map")),
                   tabPanel(
                     "By SIMD",
-                    plotOutput("LE_by_simd_plot"))
+                    plotOutput("LE_by_simd_plot")),
+                  tabPanel(
+                    "All Scotland",
+                    plotOutput("LE_year_plot")
+                  )
                 )
               )
             )
