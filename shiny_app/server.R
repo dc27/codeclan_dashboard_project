@@ -2,6 +2,8 @@ source("R/filter_data_life_expectancy.R")
 source("R/create_hb_map.R")
 source("R/filter_data_life_expectancy_simd.R")
 source("R/create_le_simd_plot.R")
+source("R/create_smoking_plot.R")
+source("R/filter_smoking_data.R")
 
 server <- function(input, output) {
   # take ui inputs for date, sex
@@ -59,5 +61,12 @@ output$satisfaction_plot <- renderPlot({
     create_le_simd_plot(selected_simd())
   })
 
+  # calling filtered smoking data
+  smoking_filtered <- filter_smoking_data(
+    input = input,
+    data = scotland_smoking_data
+  )
   
+  # render plot for smoking tab
+  output$smoking_plot <- renderPlot(createSmokingPlot(smoking_filtered))
 }

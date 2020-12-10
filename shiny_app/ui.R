@@ -8,6 +8,11 @@ date_ranges <- sort(unique(life_expectancy_data_all_SIMD$date_code))
 sexes <- unique(life_expectancy_data_all_SIMD$sex)
 simd_quints <- sort(unique(le_data_individual_simds$simd_quintiles))
 
+# create variables for smoking tab input choices
+
+#smoking_genders <- sort(scotland_smoking_data$gender)
+#smoking_ages <- sort(scotland_smoking_data$age)
+
 #Determine lists for input buttons/checkboxes for life satisfaction
 sex_choices_life_satisfaction <-  life_satisfaction %>% 
   distinct(sex) %>% 
@@ -16,11 +21,6 @@ sex_choices_life_satisfaction <-  life_satisfaction %>%
 area_choices_life_satisfaction <- life_satisfaction %>% 
   distinct(health_board_name) %>%
   arrange(desc(health_board_name)) %>% 
-  pull()
-
-# list of unqiue council areas
-council_areas <- scotland_smoking_data %>% 
-  distinct(council_area) %>% 
   pull()
 
 # build the UI
@@ -91,20 +91,22 @@ ui <- dashboardPage(
             # age range input
             selectInput(inputId = "age",
                         label = "Age Range?",
-                        choices = c("16-34 years", "35-64 years", "65 years and over", "All",
-                        "All")
-            ),
+                        choices = sort(scotland_smoking_data$age),
+                        "All"),
+            
             # gender input
             selectInput(inputId = "gender",
                         label = "Gender?",
-                        choices = c("Male", "Female", "All",
-                        "All")
-            ),
+                        choices = scotland_smoking_data$gender,
+                        "All"),
+            
             #council area input
-            selectInput("council",
-                        "Which Council Area?",
-                        choices = sort(council_areas)
+            selectInput(inputId = "council",
+                        label = "Which Council Area?",
+                        choices = sort(scotland_smoking_data$council_area)
             ),
+            
+              
             # add button so variable choices update only when confirmed
             actionButton(inputId = "confirm_variable_choices", 
                          label = "Confirm")
