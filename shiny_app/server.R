@@ -81,8 +81,8 @@ output$satisfaction_plot <- renderPlot({
   # Alcohol server function
   # filter data for update action
   filtered_alcohol <- eventReactive(input$update_alcohol_plot,{alcohol %>% 
-      filter(date_code %in% input$date_code) %>% 
-      filter(council_area %in% input$council_area) %>% 
+      filter(date_code %in% input$date_code_alcohol) %>% 
+      filter(council_area %in% input$council_area_alcohol) %>% 
       filter(alcohol_condition %in% input$alcohol_condition)
   })
   
@@ -114,8 +114,8 @@ output$satisfaction_plot <- renderPlot({
   # Drugs server function
   # filtered data for update action
   filtered_drugs <- eventReactive(input$update_drugs_plot,{drugs %>% 
-      filter(date_code %in% input$date_code) %>% 
-      filter(council_area %in% input$council_area)
+      filter(date_code %in% input$date_code_drugs) %>% 
+      filter(council_area %in% input$council_area_drugs)
   })
   
   # Drugs geom col plot

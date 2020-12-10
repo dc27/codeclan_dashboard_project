@@ -9,12 +9,12 @@ simd_quints <- sort(unique(le_data_individual_simds$simd_quintiles))
 
 # Alcohol input for plot
 alcohol_condition <- unique(alcohol$alcohol_condition)
-  council_area <- unique(alcohol$council_area)
-  date_code <- unique(alcohol$date_code)
+  council_area_alcohol <- unique(alcohol$council_area)
+  date_code_alcohol <- unique(alcohol$date_code)
 
 # Drug input for plot  
-council_area <- unique(drugs$council_area)
-  date_code <- unique(drugs$date_code)
+council_area_drugs <- unique(drugs$council_area)
+  date_code_drugs <- unique(drugs$date_code)
 
 #Determine lists for input buttons/checkboxes for life satisfaction
 sex_choices_life_satisfaction <-  life_satisfaction %>% 
@@ -151,15 +151,15 @@ ui <- dashboardPage(
           sidebarPanel(
             
             # Year selection
-            selectInput("date_code",
+            selectInput("date_code_alcohol",
                         "Select year",
-                        choices = sort(date_code),
+                        choices = sort(date_code_alcohol),
                         selected =  "2018/2019"),
             
             # Council Area Code selection - multiple 
-            checkboxGroupInput(inputId = "council_area",
+            checkboxGroupInput(inputId = "council_area_alcohol",
                                label = "Council Region:",
-                               choices = sort(council_area),
+                               choices = sort(council_area_alcohol),
                                selected = c("Aberdeen City",
                                             "City of Edinburgh",
                                             "Glasgow City")),
@@ -195,14 +195,14 @@ ui <- dashboardPage(
       sidebarLayout(
         sidebarPanel(
           
-          selectInput(inputId = "date_code",
+          selectInput(inputId = "date_code_drugs",
                       "Select year",
-                      choices = sort(date_code),
+                      choices = sort(date_code_alcohol),
                       selected = "2017/2018"),
           
-          checkboxGroupInput(inputId = "council_area",
+          checkboxGroupInput(inputId = "council_area_drugs",
                              label = "Council Region:",
-                             choices = sort(council_area),
+                             choices = sort(council_area_alcohol),
                              selected = c("Aberdeen City",
                                           "City of Edinburgh",
                                           "Glasgow City")),
