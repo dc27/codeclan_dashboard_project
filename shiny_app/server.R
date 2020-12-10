@@ -84,6 +84,7 @@ output$satisfaction_plot <- renderPlot({
   # Alcohol server function
   # filter data for update action
   filtered_alcohol <- eventReactive(input$update_alcohol_plot,{alcohol %>% 
+      filter(!str_detect(units, "per")) %>% 
       filter(date_code %in% input$date_code_alcohol) %>% 
       filter(council_area %in% input$council_area_alcohol) %>% 
       filter(alcohol_condition %in% input$alcohol_condition)
@@ -93,7 +94,7 @@ output$satisfaction_plot <- renderPlot({
   output$alcohol_discharge <- renderPlot({
     filtered_alcohol() %>% 
       ggplot() +
-      aes(x= council_area, y = count, fill = council_area) +
+      aes(x = council_area, y = count, fill = council_area) +
       geom_col(position = "dodge", colour = "white") +
       scale_fill_brewer(palette = 1) +
       labs(x = "Council Region",
@@ -110,7 +111,7 @@ output$satisfaction_plot <- renderPlot({
             panel.grid.major.y = element_blank(),
             plot.background = element_rect(fill = "white", colour = "grey"),
             panel.background = element_rect(fill = "white", colour = "grey")) +
-      facet_wrap(~ alcohol_condition)
+      facet_wrap(~alcohol_condition)
   })
   
   
@@ -128,6 +129,7 @@ output$satisfaction_plot <- renderPlot({
       aes(x = council_area, y = value, fill = council_area) +
       geom_col(position = "dodge", colour = "white") +
       scale_fill_brewer(palette = 1) +
+      facet_wrap(~measurement) +
       labs(x = "Council Region",
            y = "Count",
            title = "Drug Related Dishcharges from Hospital") +

@@ -63,7 +63,7 @@ ui <- dashboardPage(
                   selectInput(inputId = "date_range_choice",
                               label = "Date Range:",
                               choices = date_ranges,
-                              "2016-2018"),
+                              "2016-2018")
                 ),
                 column(
                   4,
@@ -164,19 +164,23 @@ ui <- dashboardPage(
                         choices = sort(date_code_alcohol),
                         selected =  "2018/2019"),
             
-            # Council Area Code selection - multiple 
-            checkboxGroupInput(inputId = "council_area_alcohol",
-                               label = "Council Region:",
-                               choices = sort(council_area_alcohol),
-                               selected = c("Aberdeen City",
-                                            "City of Edinburgh",
-                                            "Glasgow City")),
-            
             # Alcohol related condition selection
             selectInput(inputId = "alcohol_condition",
                         label = "Alcohol Related Condition",
                         choices = alcohol_condition,
                         selected = "All alcohol conditions"),
+            
+            # Council Area Code selection - multiple 
+            dropdownButton(label = "Select Council Area(s)",
+                           status = "default",
+                           circle = FALSE,
+                           checkboxGroupInput(inputId = "council_area_alcohol",
+                               label = "Council Region:",
+                               choices = sort(council_area_alcohol),
+                               selected = c("Aberdeen City",
+                                            "City of Edinburgh",
+                                            "Glasgow City"))),
+            tags$br(),
             
             # Update button
             actionButton(inputId = "update_alcohol_plot",
@@ -187,7 +191,7 @@ ui <- dashboardPage(
           mainPanel(
             plotOutput("alcohol_discharge"),
             
-            "Alcohol-related hospital statistics (ARHS) provide an annual update to figures on the alcohol-related inpatient and day case activity taking place within general acute hospitals and psychiatric hospitals in Scotland"
+            tags$h3("Alcohol-related hospital statistics (ARHS) provide an annual update to figures on the alcohol-related inpatient and day case activity taking place within general acute hospitals and psychiatric hospitals in Scotland")
           )
           
         )
@@ -208,12 +212,16 @@ ui <- dashboardPage(
                       choices = sort(date_code_alcohol),
                       selected = "2017/2018"),
           
-          checkboxGroupInput(inputId = "council_area_drugs",
+          dropdownButton(label = "Select Council Area(s)",
+                         status = "default",
+                         circle = FALSE,
+                         checkboxGroupInput(inputId = "council_area_drugs",
                              label = "Council Region:",
                              choices = sort(council_area_alcohol),
                              selected = c("Aberdeen City",
                                           "City of Edinburgh",
-                                          "Glasgow City")),
+                                          "Glasgow City"))),
+          tags$br(),
           
           actionButton(inputId = "update_drugs_plot",
                        label = "Update Plot")
@@ -223,7 +231,7 @@ ui <- dashboardPage(
         mainPanel(
           plotOutput("drug_count"),
           
-          "Number and EASR of hospital stays related to a drug misuse diagnosis. Hospital activity is data routinely drawn from hospital administrative systems across all NHS hospitals in Scotland. These data contain statistics derived from General Acute Inpatient / Day cases Records (Scottish Morbidity Records 01 or SMR01 database), which includes all inpatient and day cases discharged from acute medical specialties (all specialties other than mental health, maternity, neonatal and geriatric long stay specialties), and where drug misuse was mentioned in the records at some point during the patients’ hospital stay."
+          tags$h3("Number and EASR of hospital stays related to a drug misuse diagnosis. Hospital activity is data routinely drawn from hospital administrative systems across all NHS hospitals in Scotland. These data contain statistics derived from General Acute Inpatient / Day cases Records (Scottish Morbidity Records 01 or SMR01 database), which includes all inpatient and day cases discharged from acute medical specialties (all specialties other than mental health, maternity, neonatal and geriatric long stay specialties), and where drug misuse was mentioned in the records at some point during the patients’ hospital stay.")
           
         )
       )
