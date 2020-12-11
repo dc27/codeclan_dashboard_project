@@ -102,7 +102,7 @@ ui <- dashboardPage(
             6,
             box(
               width = 12,
-              title = "Life Satisfaction",
+              title = "Life Satisfaction (2016-2019)",
               column(
                 5,
                 checkboxGroupInput(inputId = "sex_choices_life_satisfaction",
@@ -167,7 +167,7 @@ ui <- dashboardPage(
             # Alcohol related condition selection
             selectInput(inputId = "alcohol_condition",
                         label = "Alcohol Related Condition",
-                        choices = alcohol_condition,
+                        choices = sort(alcohol_condition),
                         selected = "All alcohol conditions"),
             
             # Council Area Code selection - multiple 
@@ -189,11 +189,23 @@ ui <- dashboardPage(
           
           # Show a plot of the generated distribution
           mainPanel(
-            plotOutput("alcohol_discharge"),
-            
-            tags$h3("Alcohol-related hospital statistics (ARHS) provide an annual update to figures on the alcohol-related inpatient and day case activity taking place within general acute hospitals and psychiatric hospitals in Scotland")
+            tabBox(
+              width = 12,
+              tabPanel(
+                "By Council Area",
+                plotOutput("alcohol_discharge")                
+              ),
+              tabPanel(
+                "Over Time",
+                plotOutput("alcohol_over_time")
+              )
+
+            ),
+            box(
+              width = 12,
+              tags$h3("Alcohol-related hospital statistics (ARHS) provide an annual update to figures on the alcohol-related inpatient and day case activity taking place within general acute hospitals and psychiatric hospitals in Scotland")                
+            )
           )
-          
         )
       ),
         
@@ -201,45 +213,57 @@ ui <- dashboardPage(
         "Drugs",
 
       # Application title
-      titlePanel("Drug Misuse Discharge's from Hospital"),
-      
-      # Sidebar with a slider input for number of bins 
-      sidebarLayout(
-        sidebarPanel(
-          
-          selectInput(inputId = "date_code_drugs",
-                      "Select year",
-                      choices = sort(date_code_alcohol),
-                      selected = "2017/2018"),
-          
-          dropdownButton(label = "Select Council Area(s)",
-                         status = "default",
-                         circle = FALSE,
-                         checkboxGroupInput(inputId = "council_area_drugs",
-                             label = "Council Region:",
-                             choices = sort(council_area_alcohol),
-                             selected = c("Aberdeen City",
-                                          "City of Edinburgh",
-                                          "Glasgow City"))),
-          tags$br(),
-          
-          actionButton(inputId = "update_drugs_plot",
-                       label = "Update Plot")
-        ),
+        titlePanel("Drug Misuse Discharge's from Hospital"),
         
-        # Show a plot of the generated distribution
-        mainPanel(
-          plotOutput("drug_count"),
+        # Sidebar with a slider input for number of bins 
+        sidebarLayout(
+          sidebarPanel(
+            
+            selectInput(inputId = "date_code_drugs",
+                        "Select year",
+                        choices = sort(date_code_drugs),
+                        selected = "2017/2018"),
+            
+            dropdownButton(label = "Select Council Area(s)",
+                           status = "default",
+                           circle = FALSE,
+                           checkboxGroupInput(inputId = "council_area_drugs",
+                               label = "Council Region:",
+                               choices = sort(council_area_drugs),
+                               selected = c("Aberdeen City",
+                                            "City of Edinburgh",
+                                            "Glasgow City"))),
+            tags$br(),
+            
+            actionButton(inputId = "update_drugs_plot",
+                         label = "Update Plot")
+          ),
           
-          tags$h3("Number and EASR of hospital stays related to a drug misuse diagnosis. Hospital activity is data routinely drawn from hospital administrative systems across all NHS hospitals in Scotland. These data contain statistics derived from General Acute Inpatient / Day cases Records (Scottish Morbidity Records 01 or SMR01 database), which includes all inpatient and day cases discharged from acute medical specialties (all specialties other than mental health, maternity, neonatal and geriatric long stay specialties), and where drug misuse was mentioned in the records at some point during the patients’ hospital stay.")
-          
+          # Show a plot of the generated distribution
+          mainPanel(
+            tabBox(
+              width = 12,
+              tabPanel(
+                "By Council Area",
+                plotOutput("drug_count")
+              ),
+              tabPanel(
+                "Over Time",
+                plotOutput("drugs_over_time")
+              )
+            ),
+            box(
+              width = 12,
+              tags$h3("Number and EASR of hospital stays related to a drug misuse diagnosis. Hospital activity is data routinely drawn from hospital administrative systems across all NHS hospitals in Scotland. These data contain statistics derived from General Acute Inpatient / Day cases Records (Scottish Morbidity Records 01 or SMR01 database), which includes all inpatient and day cases discharged from acute medical specialties (all specialties other than mental health, maternity, neonatal and geriatric long stay specialties), and where drug misuse was mentioned in the records at some point during the patients’ hospital stay.")
+            )
+          )
         )
-      )
       ),
       
       
       tabPanel(
         "Smoking",
+        titlePanel("Scotland Smoking Data"),
         sidebarLayout(
           sidebarPanel(
             # user inputs:
@@ -247,13 +271,14 @@ ui <- dashboardPage(
             selectInput(inputId = "age",
                         label = "Age Range?",
                         choices = sort(scotland_smoking_data$age),
-                        "All"),
+            ),
             
             # gender input
             selectInput(inputId = "gender",
                         label = "Gender?",
-                        choices = scotland_smoking_data$gender,
-                        "All"),
+                        choices = sort(scotland_smoking_data$gender,
+                                       decreasing = TRUE)
+            ),
             
             #council area input
             selectInput(inputId = "council",
@@ -273,7 +298,6 @@ ui <- dashboardPage(
           )
         )
       )
-      
     )
   )
 )
