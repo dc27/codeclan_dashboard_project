@@ -4,7 +4,7 @@ createSmokingPlot <- function(data){
       ggplot() +
       aes(x = date_start, y = value, fill = currently_smokes_cigarettes) +
       geom_bar(stat = "identity", colour = "black") +
-      labs(title = "Scotland Smoking Data", y = "Percentage", x = "Year",
+      labs(y = "Percentage", x = "Year",
            fill = "Currently smoking cigarettes") +
     scale_fill_manual(values = c("white","orange"))
     }

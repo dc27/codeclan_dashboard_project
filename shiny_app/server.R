@@ -83,15 +83,26 @@ output$satisfaction_plot <- renderPlot({
 
   # Alcohol server function
   # filter data for update action
-  filtered_alcohol <- eventReactive(input$update_alcohol_plot,
-                                    ignoreNULL = FALSE,
-                                    {alcohol %>% 
-      filter(!str_detect(units, "Per")) %>% 
-      filter(hospital_classification == "General Hospital") %>% 
-      filter(date_code %in% input$date_code_alcohol) %>% 
-      filter(council_area %in% input$council_area_alcohol) %>% 
-      filter(alcohol_condition %in% input$alcohol_condition)
+  filtered_alcohol <-
+    eventReactive(input$update_alcohol_plot,
+                  ignoreNULL = FALSE,
+                  {alcohol %>% 
+                      filter(!str_detect(units, "Per")) %>% 
+                      filter(hospital_classification == "General Hospital") %>% 
+                      filter(date_code %in% input$date_code_alcohol) %>% 
+                      filter(council_area %in% input$council_area_alcohol) %>% 
+                      filter(alcohol_condition %in% input$alcohol_condition)
   })
+  filtered_alcohol_for_line_plt <-
+    eventReactive(input$update_alcohol_plot,
+                  ignoreNULL = FALSE,
+                  {alcohol %>% 
+                      filter(!str_detect(units, "Per")) %>% 
+                      filter(hospital_classification == "General Hospital") %>%
+                      mutate(date_code = str_extract(date_code, "[0-9]{4}")) %>%
+                      filter(units == "Patients") %>% 
+                      filter(council_area %in% input$council_area_alcohol) %>% 
+                      filter(alcohol_condition %in% input$alcohol_condition)})
   
   # Alcohol geom col plot
   output$alcohol_discharge <- renderPlot({
@@ -117,6 +128,28 @@ output$satisfaction_plot <- renderPlot({
       facet_wrap(~alcohol_condition)
   })
   
+  output$alcohol_over_time <- renderPlot({
+    filtered_alcohol_for_line_plt() %>% 
+      ggplot() +
+      aes(x = date_code, y = count, group = council_area, colour = council_area) +
+      geom_line() +
+      geom_point() +
+      labs(x = "Year",
+           y = "Patients",
+           title = "Alcohol Related Incidents Within Hospital",
+           colour = "Council Area") +
+      theme(plot.title = element_text(hjust = 0.5, vjust = 1, size=16),
+            axis.title.x = element_blank(),
+            axis.text.x = element_text(vjust=1,size=10),
+            axis.text.y = element_text(hjust=1,size=10),
+            legend.position = "right",
+            legend.title.align = 0.5,
+            legend.text = element_text(size = 10),
+            panel.grid.major.y = element_blank(),
+            plot.background = element_rect(fill = "white", colour = "grey"),
+            panel.background = element_rect(fill = "white", colour = "grey")) +
+      facet_wrap(~alcohol_condition)
+  })
   
   # Drugs server function
   # filtered data for update action
@@ -127,6 +160,15 @@ output$satisfaction_plot <- renderPlot({
       filter(date_code %in% input$date_code_drugs) %>% 
       filter(council_area %in% input$council_area_drugs)
   })
+  
+  filtered_drugs_only_by_council_area <- eventReactive(
+    input$update_drugs_plot,
+    ignoreNULL = FALSE,
+    {drugs %>% 
+        filter(measurement == "Count") %>% 
+        mutate(date_code = str_extract(date_code, "[0-9]{4}")) %>%
+        filter(council_area %in% input$council_area_drugs)}
+  )
   
   # Drugs geom col plot
   output$drug_count <- renderPlot({
@@ -151,6 +193,28 @@ output$satisfaction_plot <- renderPlot({
             panel.background = element_rect(fill = "white", colour = "grey"))
   })
 
+  output$drugs_over_time <- renderPlot({
+    filtered_drugs_only_by_council_area() %>% 
+      ggplot() +
+      aes(x = date_code, y = value, group = council_area, colour = council_area) +
+      geom_line() +
+      geom_point() +
+      labs(x = "Year",
+           y = "Discharges",
+           title = "Drugs Misuse Discharges from Hospital",
+           colour = "Council Area") +
+      theme(plot.title = element_text(hjust = 0.5, vjust = 1, size=16),
+            axis.title.x = element_blank(),
+            axis.text.x = element_text(vjust=1,size=10),
+            axis.text.y = element_text(hjust=1,size=10),
+            legend.position = "right",
+            legend.title.align = 0.5,
+            legend.text = element_text(size = 10),
+            panel.grid.major.y = element_blank(),
+            plot.background = element_rect(fill = "white", colour = "grey"),
+            panel.background = element_rect(fill = "white", colour = "grey"))
+  })
+  
   # calling filtered smoking data
   smoking_filtered <- filter_smoking_data(
     input = input,
