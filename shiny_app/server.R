@@ -83,8 +83,11 @@ output$satisfaction_plot <- renderPlot({
 
   # Alcohol server function
   # filter data for update action
-  filtered_alcohol <- eventReactive(input$update_alcohol_plot,{alcohol %>% 
-      filter(!str_detect(units, "per")) %>% 
+  filtered_alcohol <- eventReactive(input$update_alcohol_plot,
+                                    ignoreNULL = FALSE,
+                                    {alcohol %>% 
+      filter(!str_detect(units, "Per")) %>% 
+      filter(hospital_classification == "General Hospital") %>% 
       filter(date_code %in% input$date_code_alcohol) %>% 
       filter(council_area %in% input$council_area_alcohol) %>% 
       filter(alcohol_condition %in% input$alcohol_condition)
@@ -94,7 +97,7 @@ output$satisfaction_plot <- renderPlot({
   output$alcohol_discharge <- renderPlot({
     filtered_alcohol() %>% 
       ggplot() +
-      aes(x = council_area, y = count, fill = council_area) +
+      aes(x = council_area, y = count, fill = units) +
       geom_col(position = "dodge", colour = "white") +
       scale_fill_brewer(palette = 1) +
       labs(x = "Council Region",
@@ -103,7 +106,7 @@ output$satisfaction_plot <- renderPlot({
       theme(plot.title = element_text(hjust = 0.5, vjust = 1, size=16),
             axis.title.x = element_blank(),
             axis.text.x = element_text(vjust=1,size=10),
-            axis.text.y = element_text(hjust=1.5,size=10),
+            axis.text.y = element_text(hjust=1,size=10),
             legend.title = element_blank(),
             legend.position = "bottom",
             legend.spacing.x = unit(1.0, "cm"),
@@ -117,7 +120,10 @@ output$satisfaction_plot <- renderPlot({
   
   # Drugs server function
   # filtered data for update action
-  filtered_drugs <- eventReactive(input$update_drugs_plot,{drugs %>% 
+  filtered_drugs <- eventReactive(input$update_drugs_plot,
+                                  ignoreNULL = FALSE,
+                                  {drugs %>% 
+                                      filter(measurement == "Count") %>% 
       filter(date_code %in% input$date_code_drugs) %>% 
       filter(council_area %in% input$council_area_drugs)
   })
@@ -126,17 +132,16 @@ output$satisfaction_plot <- renderPlot({
   output$drug_count <- renderPlot({
     filtered_drugs() %>% 
       ggplot() +
-      aes(x = council_area, y = value, fill = council_area) +
-      geom_col(position = "dodge", colour = "white") +
+      aes(x = council_area, y = value) +
+      geom_col(position = "dodge", colour = "white", fill = "#0088cc") +
       scale_fill_brewer(palette = 1) +
-      facet_wrap(~measurement) +
       labs(x = "Council Region",
            y = "Count",
            title = "Drug Related Dishcharges from Hospital") +
       theme(plot.title = element_text(hjust = 0.5, vjust = 1, size=16),
             axis.title.x = element_blank(),
             axis.text.x = element_text(vjust=1,size=10),
-            axis.text.y = element_text(hjust=1.5,size=10),
+            axis.text.y = element_text(hjust=1,size=10),
             legend.title = element_blank(),
             legend.position = "bottom",
             legend.spacing.x = unit(1.0, "cm"),

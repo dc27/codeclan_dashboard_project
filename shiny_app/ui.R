@@ -102,7 +102,7 @@ ui <- dashboardPage(
             6,
             box(
               width = 12,
-              title = "Life Satisfaction",
+              title = "Life Satisfaction (2016-2019)",
               column(
                 5,
                 checkboxGroupInput(inputId = "sex_choices_life_satisfaction",
