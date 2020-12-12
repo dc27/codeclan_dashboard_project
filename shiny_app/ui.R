@@ -1,5 +1,5 @@
-source("R/filter_data_life_expectancy.R")
-source("R/filter_data_life_expectancy_simd.R")
+source("R/life_expectancy/filter_data_life_expectancy.R")
+source("R/life_expectancy/filter_data_life_expectancy_simd.R")
 
 
 # create variables for input choices
@@ -78,7 +78,7 @@ ui <- dashboardPage(
                   align = "center",
                   tags$br(),
                   # add button so map updates only when told to
-                  actionButton("update_life_expect_map", "Update Map")
+                  actionButton("update_LE", "Update plot")
                 )
               ),
               fluidRow(
@@ -129,8 +129,8 @@ ui <- dashboardPage(
                 3,
                 tags$br(),
                 align = "center",
-                actionButton(inputId = "update",
-                             label = "Show plot")
+                actionButton(inputId = "update_LS",
+                             label = "Update plot")
               ),
               fluidRow(
                 tabBox(
