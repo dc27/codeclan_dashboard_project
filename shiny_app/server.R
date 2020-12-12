@@ -1,3 +1,5 @@
+#####------load in helper scripts------######
+
 # life expectancy files
 source("R/life_expectancy/filter_data_life_expectancy.R")
 source("R/life_expectancy/create_hb_map.R")
@@ -23,15 +25,18 @@ source("R/drugs/create_drugs_line_plot.R")
 source("R/smoking/create_smoking_plot.R")
 source("R/smoking/filter_smoking_data.R")
 
-
-
-server <- function(input, output) {
+#####-----server-----#####
+server <- function(input, output, session) {
 #####-----life expectancy------#####
   # take ui inputs for date, sex
-  life_expect_chosen_year <- filter_data_LE(
-    input = input,
-    data = life_expectancy_data_all_SIMD
-    )
+  life_expect_chosen_year <-
+    eventReactive(
+      input$update_LE,
+      ignoreNULL = FALSE,
+      {filter_data_LE(
+        input = input,
+        data = life_expectancy_data_all_SIMD)
+      })
   
   # render map for life expectancy
   output$LE_map <- renderLeaflet({
@@ -61,8 +66,7 @@ server <- function(input, output) {
                   ignoreNULL = FALSE,
                   {filter_stats_life_satisfaction(
                     input = input,
-                    data = life_satisfaction
-                  )
+                    data = life_satisfaction)
                   })
   
   # create plot for life satisfaction
@@ -71,7 +75,7 @@ server <- function(input, output) {
       data = filtered_stats_life_satisfaction()
     )
   })
-  
+
   # filter LS by sex only for map
   filtered_stats_LS_by_sex_only <-
     eventReactive(input$update_LS,
@@ -156,6 +160,36 @@ server <- function(input, output) {
 
 #####-----smoking survey responses-----#####  
   # calling filtered smoking data
+
+  observe({
+    user_in_age <- input$age
+    if (user_in_age != "All") {
+      smoking_genders <- "All"
+    } else {
+      smoking_genders <- sort(unique(scotland_smoking_data$gender),
+                              decreasing = TRUE)
+    }
+    updateSelectInput(session, "gender",
+                      choices = smoking_genders,
+                      selected = tail(smoking_genders, 1)
+    )
+  })
+  
+  # data is limited to only filtering by either age or gender at one time; not
+  # both.
+  observe({
+    user_in_gender <- input$gender
+    if (user_in_gender != "All") {
+      smoking_ages <- "All"
+      
+    } else {
+      smoking_ages <- sort(unique(scotland_smoking_data$age))
+    }
+    updateSelectInput(session, "age",
+                      choices = smoking_ages,
+                      selected = tail(smoking_ages, 1)
+    )
+  })
   
   smoking_filtered <- 
     eventReactive(

@@ -113,15 +113,18 @@ ui <- dashboardPage(
               column(
                 4,
                 tags$br(),
-                dropdownButton(label = "Select Health Board(s)",
-                               status = "default",
-                               circle = FALSE,
-                               checkboxGroupInput(
-                                 width = 250,
-                                 inputId = "area_choices_life_satisfaction",
-                                 label = "Health Board Area",
-                                 choices = area_choices_life_satisfaction,
-                                 selected = "Scotland"))
+                dropdownButton(
+                  label = "Select Health Board(s)",
+                  status = "default",
+                  circle = FALSE,
+                  checkboxGroupInput(
+                   width = 250,
+                   inputId = "area_choices_life_satisfaction",
+                   label = "Health Board Area",
+                   choices = area_choices_life_satisfaction,
+                   selected = "Scotland"
+                  )
+                )
               ),
               column(
                 3,
@@ -132,12 +135,15 @@ ui <- dashboardPage(
               ),
               fluidRow(
                 tabBox(
+                  id = "LS_tab",
                   width = 12,
                   tabPanel(
+                    value = "graph",
                     "Graph",
                     plotOutput("satisfaction_plot")
                   ),
                   tabPanel(
+                    value = "map",
                     "Map",
                     leafletOutput("satisfaction_map"))
                 )
