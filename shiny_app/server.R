@@ -8,6 +8,7 @@ source("R/life_expectancy/create_life_expect_plot_all_years.R")
 source("R/life_satisfaction/filter_stats_life_satisfaction.R")
 source("R/life_satisfaction/filter_stats_life_satisfaction_sex_only.R")
 source("R/life_satisfaction/create_life_satisfaction_plot.R")
+source("R/life_satisfaction/create_hb_map_LS.R")
 # alcohol hospital admissions files
 source("R/alcohol/filter_data_alcohol.R")
 source("R/alcohol/filter_data_alcohol_all_dates.R")

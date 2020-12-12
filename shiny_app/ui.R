@@ -1,5 +1,5 @@
-source("R/life_expectancy/filter_data_life_expectancy.R")
-source("R/life_expectancy/filter_data_life_expectancy_simd.R")
+source("R/life_expectancy/create_le_simd_plot.R")
+source("R/life_expectancy/create_hb_map.R")
 
 
 # create variables for input choices
