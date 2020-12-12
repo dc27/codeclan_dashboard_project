@@ -103,7 +103,8 @@ server <- function(input, output) {
                   {filter_data_alcohol_all_dates(
                     input = input,
                     data = alcohol
-                  )})
+                  )
+                  })
   
   # Alcohol geom col plot
   output$alcohol_discharge <- renderPlot({
@@ -155,12 +156,20 @@ server <- function(input, output) {
 
 #####-----smoking survey responses-----#####  
   # calling filtered smoking data
-  smoking_filtered <- filter_smoking_data(
-    input = input,
-    data = scotland_smoking_data
-  )
-
+  
+  smoking_filtered <- 
+    eventReactive(
+      input$confirm_variable_choices,
+      {filter_smoking_data(
+        input = input,
+        data = scotland_smoking_data
+        )
+        })
   
   # render plot for smoking tab
-  output$smoking_plot <- renderPlot(createSmokingPlot(smoking_filtered))
+  output$smoking_plot <- renderPlot({
+    createSmokingPlot(
+      smoking_filtered()
+      )
+    })
 }

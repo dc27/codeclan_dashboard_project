@@ -8,20 +8,20 @@ date_ranges <- sort(unique(life_expectancy_data_all_SIMD$date_code))
 sexes <- unique(life_expectancy_data_all_SIMD$sex)
 simd_quints <- sort(unique(le_data_individual_simds$simd_quintiles))
 
-
 # Alcohol input for plot
 alcohol_condition <- unique(alcohol$alcohol_condition)
-  council_area_alcohol <- unique(alcohol$council_area)
-  date_code_alcohol <- unique(alcohol$date_code)
+council_area_alcohol <- unique(alcohol$council_area)
+date_code_alcohol <- unique(alcohol$date_code)
 
 # Drug input for plot  
-council_area_drugs <- unique(drugs$council_area)
-  date_code_drugs <- unique(drugs$date_code)
+council_areas <- sort(unique(drugs$council_area))
+date_code_drugs <- sort(unique(drugs$date_code))
 
 # create variables for smoking tab input choices
 
-#smoking_genders <- sort(scotland_smoking_data$gender)
-#smoking_ages <- sort(scotland_smoking_data$age)
+smoking_genders <- sort(unique(scotland_smoking_data$gender),
+                        decreasing = TRUE)
+smoking_ages <- sort(unique(scotland_smoking_data$age))
 
 
 #Determine lists for input buttons/checkboxes for life satisfaction
@@ -46,8 +46,6 @@ ui <- dashboardPage(
     tabsetPanel(
       tabPanel(
         "Overview",
-    
-      # TODO: discuss layout options
         fluidRow(
           tags$br(),
           column(
@@ -176,7 +174,7 @@ ui <- dashboardPage(
                            circle = FALSE,
                            checkboxGroupInput(inputId = "council_area_alcohol",
                                label = "Council Region:",
-                               choices = sort(council_area_alcohol),
+                               choices = council_areas,
                                selected = c("Aberdeen City",
                                             "City of Edinburgh",
                                             "Glasgow City"))),
@@ -229,7 +227,7 @@ ui <- dashboardPage(
                            circle = FALSE,
                            checkboxGroupInput(inputId = "council_area_drugs",
                                label = "Council Region:",
-                               choices = sort(council_area_drugs),
+                               choices = sort(council_areas),
                                selected = c("Aberdeen City",
                                             "City of Edinburgh",
                                             "Glasgow City"))),
@@ -259,8 +257,6 @@ ui <- dashboardPage(
           )
         )
       ),
-      
-      
       tabPanel(
         "Smoking",
         titlePanel("Scotland Smoking Data"),
@@ -270,29 +266,26 @@ ui <- dashboardPage(
             # age range input
             selectInput(inputId = "age",
                         label = "Age Range?",
-                        choices = sort(scotland_smoking_data$age),
+                        choices = smoking_ages,
+                        selected = "All"
+                        
             ),
-            
             # gender input
             selectInput(inputId = "gender",
                         label = "Gender?",
-                        choices = sort(scotland_smoking_data$gender,
-                                       decreasing = TRUE)
+                        choices = smoking_genders,
+                        selected = "All"
             ),
-            
             #council area input
             selectInput(inputId = "council",
                         label = "Which Council Area?",
-                        choices = sort(scotland_smoking_data$council_area)
+                        choices = council_areas,
+                        selected = "City of Edinburgh"
             ),
-            
-              
             # add button so variable choices update only when confirmed
             actionButton(inputId = "confirm_variable_choices", 
                          label = "Confirm")
           ),
-          
-          
           mainPanel(
             plotOutput("smoking_plot")
           )
