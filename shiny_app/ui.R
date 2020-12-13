@@ -103,11 +103,20 @@ ui <- dashboardPage(
               title = "Life Satisfaction (2016-2019)",
               column(
                 5,
-                checkboxGroupInput(inputId = "sex_choices_life_satisfaction",
+                conditionalPanel(condition = "output.graph_tab",
+                                 checkboxGroupInput(
+                                   inputId = "sex_choices_life_satisfaction_group",
                                    label = "Sex:",
                                    choices = sex_choices_life_satisfaction,
                                    selected = "All",
-                                   inline = TRUE),
+                                   inline = TRUE)),
+                conditionalPanel(condition = "output.map_tab",
+                                 radioButtons(
+                                   inputId = "sex_choices_life_satisfaction_one",
+                                   label = "Sex:",
+                                   choices = sex_choices_life_satisfaction,
+                                   selected = "All",
+                                   inline = TRUE)),
                 tags$br()
               ),
               column(
@@ -130,8 +139,13 @@ ui <- dashboardPage(
                 3,
                 tags$br(),
                 align = "center",
-                actionButton(inputId = "update_LS",
-                             label = "Update plot")
+                conditionalPanel(condition = "output.graph_tab",
+                                 actionButton(inputId = "update_LS_graph",
+                                              label = "Update plot")),
+                conditionalPanel(condition = "output.map_tab",
+                                 actionButton(inputId = "update_LS_map",
+                                              label = "Update map"))
+                                 
               ),
               fluidRow(
                 tabBox(

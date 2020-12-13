@@ -1,7 +1,7 @@
 filter_stats_life_satisfaction_sex_only <- function(input, data) {
   data %>%
       filter(sex %in%
-               c(input$sex_choices_life_satisfaction)) %>% 
+               c(input$sex_choices_life_satisfaction_one)) %>% 
       mutate(multiplier =
                recode(indicator,
                       "Very satisfied (above mode)" = 1,

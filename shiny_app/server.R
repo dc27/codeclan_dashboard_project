@@ -43,16 +43,20 @@ server <- function(input, output, session) {
     create_hb_map(life_expect_chosen_year(), reactive(input$sex_choice))
   })
 
-  # create plot for life expectancy by year for all scotland
+  # create plot for life expectancy by year for all Scotland
   output$LE_year_plot <- renderPlot({
     create_life_expectancy_all_scotland_all_years(life_expectancy_data)
   })
 
   # filter data for life expectancy by SIMD
-  selected_simd <- filter_data_LE_simd(
-    input = input,
-    data = le_data_individual_simds
-  )
+  selected_simd <- 
+    eventReactive(
+      input$update_life_expect_map,
+      ignoreNULL = FALSE,
+      {filter_data_LE_simd(
+        input = input,
+        data = le_data_individual_simds)
+      })
   
   # render plot for life expectancy by SIMD
   output$LE_by_simd_plot <- renderPlot({
@@ -62,7 +66,7 @@ server <- function(input, output, session) {
 #####-----life satisfaction-----#####  
   # filter stats for when user clicks action buttons
   filtered_stats_life_satisfaction <- 
-    eventReactive(input$update_LS, 
+    eventReactive(input$update_LS_graph, 
                   ignoreNULL = FALSE,
                   {filter_stats_life_satisfaction(
                     input = input,
@@ -75,10 +79,31 @@ server <- function(input, output, session) {
       data = filtered_stats_life_satisfaction()
     )
   })
-
+  
+  tabInput_graph <- reactive ({
+    switch(input$LS_tab,
+           "graph" = "graph")
+  })
+  
+  tabInput_map <- reactive({
+    switch(input$LS_tab,
+           "map" = "map")
+  })
+  
+  output$graph_tab <- reactive({
+    tabInput_graph()
+  })
+  
+  output$map_tab <- reactive ({
+    tabInput_map()
+  })
+  
+  outputOptions(output, "graph_tab", suspendWhenHidden = FALSE)
+  outputOptions(output, "map_tab", suspendWhenHidden = FALSE)  
+  
   # filter LS by sex only for map
   filtered_stats_LS_by_sex_only <-
-    eventReactive(input$update_LS,
+    eventReactive(input$update_LS_map,
                   ignoreNULL = FALSE,
                   {filter_stats_life_satisfaction_sex_only(
                     input = input,
@@ -87,8 +112,10 @@ server <- function(input, output, session) {
   
   # create map for life satisfaction
   output$satisfaction_map <- renderLeaflet({
-    create_hb_map_LS(filtered_stats_LS_by_sex_only(),
-                     reactive(input$sex_choices_life_satisfaction))
+      create_hb_map_LS(
+          measurement_df = filtered_stats_LS_by_sex_only(),
+          reactive(input$sex_choice_life_satisfaction_one)
+      )
   })
 #####-----alcohol related hospital stats-----#####  
   # Alcohol server function
