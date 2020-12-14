@@ -24,10 +24,10 @@ Each tab allows the user to explore the data set by changing variables such as N
 
 # Images
 
-![text with image](images/life_expectancy_&_life_satisfaction.png)
-![text with image](images/hospital_related_alcohol_incedents.png)
-![text with image](images/drug_misuse_dischrage's_from_hospital.png)
-![text with image](images/scotland_smoking_data)
+![life_exp_&_life_sat](images/life_expectancy_&_life_satisfaction.png)
+![alcohol](images/hospital_related_alcohol_incedents.png)
+![drugs](images/drug_misuse_dischrage's_from_hospital.png)
+![smoking](images/scotland_smoking_data)
 
 # References
 
