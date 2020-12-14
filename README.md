@@ -1,3 +1,9 @@
+---
+title: "Dashboard Project - Health in Scotland"
+date: "14/12/2020"
+output: html_document
+---
+
 ## Team MGCD Dashboard Project - Health in Scotland
 
 # Introduction
@@ -16,9 +22,9 @@ The main packages used for cleaning were tidyverse and janitor.  The packages us
 # App Functionality
 The app has four tabs which display data on different topics:
 General Health Overview - Life Expectancy/Life Satisfaction
-Alcohol - 
-Drugs - 
-Smoking - 
+Alcohol - Hospital related alcohol incidents
+Drugs - Drug Misuse Discharge's from Hospital
+Smoking - Scotland Smoking Data
 
 Each tab allows the user to explore the data set by changing variables such as NHS health board, time period, age range and gender.
 
