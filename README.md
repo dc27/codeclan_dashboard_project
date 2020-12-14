@@ -22,6 +22,13 @@ Smoking -
 
 Each tab allows the user to explore the data set by changing variables such as NHS health board, time period, age range and gender.
 
+# Images
+
+![text with image](images/life_expectancy_&_life_satisfaction.png)
+![text with image](images/hospital_related_alcohol_incedents.png)
+![text with image](images/drug_misuse_dischrage's_from_hospital.png)
+![text with image](images/scotland_smoking_data)
+
 # References
 
 All data was sourced from www.gov.scot. For specific data sets used, please see links below:
