@@ -4,6 +4,8 @@ date: "14/12/2020"
 output: html_document
 ---
 
+# Dashboard Project - Public Health in Scotland Interactive Dashboard
+
 ## Introduction
 This repository showcases a dashboard app created using R studio and Shiny functionality to explore health data in Scotland.  The team created a dashboard which allowed the user to explore two main health overview topics - Life Expectancy and Life Satisfaction.  The dashboard also allowed exploration of the health issues around smoking, drug and alcohol behaviours. Data was sourced from the Scottish Government.
 
