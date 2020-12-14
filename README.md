@@ -32,7 +32,7 @@ Each tab allows the user to explore the data set by changing variables such as N
 ![Overview Tab](images/life_expectancy_&_life_satisfaction.png "Overview")
 
 ### Alcohol-related Hospital Admissions
-![Alcohol Tab](images/hospital_related_ alcohol_incidents.png)
+![Alcohol Tab](images/hospital_related_alcohol_incidents.png)
 
 ### Drug-related Hospital Discharges
 ![Drug Tab](images/drug_misuse_discharges_from_hospital.png)
