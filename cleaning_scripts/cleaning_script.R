@@ -3,6 +3,8 @@ library(tidyverse)
 library(janitor)
 library(here)
 
+source("config.R")
+
 #####-----life expectancy stats-----#####
 # 1. input raw data
 life_expectancy_data <- read_csv("data/raw_data/life_expectancy.csv")
@@ -13,7 +15,7 @@ life_expectancy_data_clean <- life_expectancy_data %>%
   # 2.2 convert dates to ordered and filter for past decade
   mutate(date_code = as.ordered(date_code)) %>% 
   arrange(date_code) %>% 
-  filter(date_code > "2006-2008") %>%
+  filter(date_code > start_date_code_life_expectancy) %>%
   # 2.3 not every year contains detail for specific URC
   filter(urban_rural_classification == "All") %>%
   # 2.4 LE for each age band is not necessary for analysis
@@ -107,7 +109,7 @@ drug_related_hospital_clean <- drug_related_hospital %>%
   # 2. convert dates to ordered and filter for past decade
   mutate(date_code = as.ordered(date_code)) %>% 
   arrange(date_code) %>% 
-  filter(date_code > "2007/2008")
+  filter(date_code > start_date_code_drug_years)
 
 council_area_clean <- council_area %>% 
   # 3. re-name and select nessesary cols from data set
@@ -141,7 +143,7 @@ alcohol_hospital_stats_clean <- alcohol_hospital_stats %>%
   mutate(date_code = as.ordered(date_code)) %>% 
   arrange(date_code) %>% 
   # convert dates to ordered and filter for past decade
-  filter(date_code > "2007/2008") %>% 
+  filter(date_code > start_date_code_alcohol_years) %>% 
   # 2.3 changing All within hospital_classification to General Hospital
   mutate(hospital_classification = str_replace_all(hospital_classification,
                                                    "All", "General Hospital"))
