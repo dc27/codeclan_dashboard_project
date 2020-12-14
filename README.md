@@ -17,7 +17,7 @@ Our team of four comprised David Currie, Mark Donaldson, Calum Sey and Geraldine
 The team used data from the Scottish Government website, which required some cleaning and wrangling. The data sets required levels of filtering in order to allow the user to explore by different variables such as council area, health board, age and gender.
 
 # Packages Used
-The main packages used for cleaning were tidyverse and janitor.  The packages used to manipulate the spacial data were.....
+The main packages used for cleaning were tidyverse and janitor. The packages used to manipulate the spacial data were `rgeos`, `sf`, `sp`, and `rgdal` to read the shapefiles.
 
 # App Functionality
 The app has four tabs which display data on different topics:
