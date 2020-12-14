@@ -2,6 +2,7 @@ Authors:
 David Currie
 Geraldine Smith
 Mark Donaldson
+Calum Sey
 
 ## Guide to authors: branch n merge
 
