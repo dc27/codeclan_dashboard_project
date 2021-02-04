@@ -40,7 +40,7 @@ Each tab allows the user to explore the data set by changing variables such as N
 ![Drug Tab](images/drug_misuse_discharges_from_hospital.png)
 
 ### Smoking Survey Responses
-![Smoking Tab](images/scotland_smoking_data.png)
+![Smoking Tab](images/smoking_plot.png)
 
 ## References
 
