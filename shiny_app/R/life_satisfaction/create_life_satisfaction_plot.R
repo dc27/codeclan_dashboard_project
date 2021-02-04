@@ -12,8 +12,8 @@ create_life_satisfaction_plot <- function(data) {
        title = "Life Satisfaction") +
   theme(plot.title = element_text(hjust = 0.5, vjust = 1, size=16),
         axis.title.x = element_blank(),
-        axis.text.x = element_text(vjust=1,size=10),
-        axis.text.y = element_text(hjust=1.5,size=10),
+        axis.text.x = element_text(vjust = 1,size = 10),
+        axis.text.y = element_text(hjust = 1.5,size = 10),
         legend.title = element_blank(),
         legend.position = "bottom",
         legend.spacing.x = unit(0.5, "cm"),
@@ -21,5 +21,5 @@ create_life_satisfaction_plot <- function(data) {
         panel.grid.major.y = element_blank(),
         plot.background = element_rect(fill = "white", colour = "grey"),
         panel.background = element_rect(fill = "white", colour = "grey")) +
-  facet_wrap(~ sex)
+    facet_wrap(~sex)
 }

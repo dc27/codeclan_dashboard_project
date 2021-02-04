@@ -2,8 +2,8 @@ create_drugs_col_plot <- function(data) {
   data %>% 
     ggplot() +
     aes(x = council_area, y = value) +
-    geom_col(position = "dodge", colour = "white", fill = "#0088cc") +
-    scale_fill_brewer(palette = 1) +
+    geom_col(position = "dodge", colour = "white",
+             fill = RColorBrewer::brewer.pal(9, "Blues")[6]) +
     labs(x = "Council Region",
          y = "Count",
          title = "Drug Related Dishcharges from Hospital") +
