@@ -1,7 +1,6 @@
 source("R/life_expectancy/create_le_simd_plot.R")
 source("R/life_expectancy/create_hb_map.R")
 
-
 # create variables for input choices
 
 date_ranges <- sort(unique(life_expectancy_data_all_SIMD$date_code))

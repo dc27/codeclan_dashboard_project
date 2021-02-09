@@ -21,7 +21,7 @@ create_hb_map <- function(measurement_df, sex) {
   }
   
   # pretty labels
-  labels <- sprintf("<strong>%s</strong><br/>%g",
+  labels <- sprintf("<strong>%s</strong><br/>%g years",
                     hb_shapes$HBName, hb_shapes$value) %>%
     lapply(htmltools::HTML)
   
