@@ -227,7 +227,7 @@ ui <- dashboardPage(
       ),
         
       tabPanel(
-        "Drugs",
+        "Drug Use",
 
       # Application title
         titlePanel("Drug Misuse Discharge's from Hospital"),
