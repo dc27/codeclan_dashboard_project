@@ -169,7 +169,7 @@ ui <- dashboardPage(
         "Alcohol",
         
         # Application title
-        titlePanel("Hospital Related Alcohol Incedents"),
+        titlePanel("Hospital Related Alcohol Incidents"),
         
         # Sidebar with a slider input for number of bins 
         sidebarLayout(
