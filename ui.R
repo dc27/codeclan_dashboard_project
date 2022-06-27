@@ -57,18 +57,22 @@ ui <- dashboardPage(
                   4,
                   # user inputs:
                   # date range input
-                  selectInput(inputId = "date_range_choice",
-                              label = "Date Range:",
-                              choices = date_ranges,
-                              "2016-2018")
+                  selectInput(
+                    inputId = "date_range_choice",
+                    label = "Date Range:",
+                    choices = date_ranges,
+                    "2016-2018"
+                  )
                 ),
                 column(
                   4,
                   # sex input
-                  selectInput(inputId = "sex_choice",
-                              label = "Sex:",
-                              choices = sexes,
-                              "Female")
+                  selectInput(
+                    inputId = "sex_choice",
+                    label = "Sex:",
+                    choices = sexes,
+                    "Female"
+                  )
                 ),
                 column(
                   4,
@@ -102,20 +106,24 @@ ui <- dashboardPage(
               title = "Life Satisfaction (2016-2019)",
               column(
                 5,
-                conditionalPanel(condition = "output.graph_tab",
-                                 checkboxGroupInput(
-                                   inputId = "sex_choices_life_satisfaction_group",
-                                   label = "Sex:",
-                                   choices = sex_choices_life_satisfaction,
-                                   selected = "All",
-                                   inline = TRUE)),
-                conditionalPanel(condition = "output.map_tab",
-                                 radioButtons(
-                                   inputId = "sex_choices_life_satisfaction_one",
-                                   label = "Sex:",
-                                   choices = sex_choices_life_satisfaction,
-                                   selected = "All",
-                                   inline = TRUE)),
+                conditionalPanel(
+                  condition = "output.graph_tab",
+                  checkboxGroupInput(
+                    inputId = "sex_choices_life_satisfaction_group",
+                    label = "Sex:",
+                    choices = sex_choices_life_satisfaction,
+                    selected = "All",
+                    inline = TRUE)
+                ),
+                conditionalPanel(
+                  condition = "output.map_tab",
+                  radioButtons(
+                    inputId = "sex_choices_life_satisfaction_one",
+                    label = "Sex:",
+                    choices = sex_choices_life_satisfaction,
+                    selected = "All",
+                    inline = TRUE)
+                ),
                 tags$br()
               ),
               column(
@@ -126,11 +134,11 @@ ui <- dashboardPage(
                   status = "default",
                   circle = FALSE,
                   checkboxGroupInput(
-                   width = 250,
-                   inputId = "area_choices_life_satisfaction",
-                   label = "Health Board Area",
-                   choices = area_choices_life_satisfaction,
-                   selected = "Scotland"
+                    width = 250,
+                    inputId = "area_choices_life_satisfaction",
+                    label = "Health Board Area",
+                    choices = area_choices_life_satisfaction,
+                    selected = "Scotland"
                   )
                 )
               ),
@@ -138,13 +146,17 @@ ui <- dashboardPage(
                 3,
                 tags$br(),
                 align = "center",
-                conditionalPanel(condition = "output.graph_tab",
-                                 actionButton(inputId = "update_LS_graph",
-                                              label = "Update plot")),
-                conditionalPanel(condition = "output.map_tab",
-                                 actionButton(inputId = "update_LS_map",
-                                              label = "Update map"))
-                                 
+                conditionalPanel(
+                  condition = "output.graph_tab",
+                  actionButton(inputId = "update_LS_graph",
+                               label = "Update plot")
+                ),
+                conditionalPanel(
+                  condition = "output.map_tab",
+                  actionButton(inputId = "update_LS_map",
+                               label = "Update map")
+                )
+                
               ),
               fluidRow(
                 tabBox(
@@ -176,32 +188,41 @@ ui <- dashboardPage(
           sidebarPanel(
             
             # Year selection
-            selectInput("date_code_alcohol",
-                        "Select year",
-                        choices = sort(date_code_alcohol),
-                        selected =  "2018/2019"),
+            selectInput(
+              "date_code_alcohol",
+              "Select year",
+              choices = sort(date_code_alcohol),
+              selected =  "2018/2019"
+            ),
             
             # Alcohol related condition selection
-            selectInput(inputId = "alcohol_condition",
-                        label = "Alcohol Related Condition",
-                        choices = sort(alcohol_condition),
-                        selected = "All alcohol conditions"),
+            selectInput(
+              inputId = "alcohol_condition",
+              label = "Alcohol Related Condition",
+              choices = sort(alcohol_condition),
+              selected = "All alcohol conditions"
+            ),
             
             # Council Area Code selection - multiple 
-            dropdownButton(label = "Select Council Area(s)",
-                           status = "default",
-                           circle = FALSE,
-                           checkboxGroupInput(inputId = "council_area_alcohol",
-                               label = "Council Region:",
-                               choices = council_areas,
-                               selected = c("Aberdeen City",
-                                            "City of Edinburgh",
-                                            "Glasgow City"))),
+            dropdownButton(
+              label = "Select Council Area(s)",
+              status = "default",
+              circle = FALSE,
+              checkboxGroupInput(
+                inputId = "council_area_alcohol",
+                label = "Council Region:",
+                choices = council_areas,
+                selected = c("Aberdeen City",
+                             "City of Edinburgh",
+                             "Glasgow City")
+              )
+            ),
             tags$br(),
             
             # Update button
-            actionButton(inputId = "update_alcohol_plot",
-                         label = "Update Plot")
+            actionButton(
+              inputId = "update_alcohol_plot",
+              label = "Update Plot")
           ),
           
           # Show a plot of the generated distribution
@@ -216,7 +237,7 @@ ui <- dashboardPage(
                 "Over Time",
                 plotOutput("alcohol_over_time")
               )
-
+              
             ),
             box(
               width = 12,
@@ -225,35 +246,43 @@ ui <- dashboardPage(
           )
         )
       ),
-        
+      
       tabPanel(
         "Drug Use",
-
-      # Application title
+        
+        # Application title
         titlePanel("Drug Misuse Discharge's from Hospital"),
         
         # Sidebar with a slider input for number of bins 
         sidebarLayout(
           sidebarPanel(
             
-            selectInput(inputId = "date_code_drugs",
-                        "Select year",
-                        choices = sort(date_code_drugs),
-                        selected = "2017/2018"),
+            selectInput(
+              inputId = "date_code_drugs",
+              "Select year",
+              choices = sort(date_code_drugs),
+              selected = "2017/2018"
+            ),
             
-            dropdownButton(label = "Select Council Area(s)",
-                           status = "default",
-                           circle = FALSE,
-                           checkboxGroupInput(inputId = "council_area_drugs",
-                               label = "Council Region:",
-                               choices = sort(council_areas),
-                               selected = c("Aberdeen City",
-                                            "City of Edinburgh",
-                                            "Glasgow City"))),
+            dropdownButton(
+              label = "Select Council Area(s)",
+              status = "default",
+              circle = FALSE,
+              checkboxGroupInput(
+                inputId = "council_area_drugs",
+                label = "Council Region:",
+                choices = sort(council_areas),
+                selected = c("Aberdeen City",
+                             "City of Edinburgh",
+                             "Glasgow City")
+              )
+            ),
             tags$br(),
             
-            actionButton(inputId = "update_drugs_plot",
-                         label = "Update Plot")
+            actionButton(
+              inputId = "update_drugs_plot",
+              label = "Update Plot"
+            )
           ),
           
           # Show a plot of the generated distribution
@@ -283,27 +312,32 @@ ui <- dashboardPage(
           sidebarPanel(
             # user inputs:
             # age range input
-            selectInput(inputId = "age",
-                        label = "Age Range?",
-                        choices = smoking_ages,
-                        selected = "All"
-                        
+            selectInput(
+              inputId = "age",
+              label = "Age Range?",
+              choices = smoking_ages,
+              selected = "All"
+              
             ),
             # gender input
-            selectInput(inputId = "gender",
-                        label = "Gender?",
-                        choices = smoking_genders,
-                        selected = "All"
+            selectInput(
+              inputId = "gender",
+              label = "Gender?",
+              choices = smoking_genders,
+              selected = "All"
             ),
             #council area input
-            selectInput(inputId = "council",
-                        label = "Which Council Area?",
-                        choices = council_areas,
-                        selected = "City of Edinburgh"
+            selectInput(
+              inputId = "council",
+              label = "Which Council Area?",
+              choices = council_areas,
+              selected = "City of Edinburgh"
             ),
             # add button so variable choices update only when confirmed
-            actionButton(inputId = "confirm_variable_choices", 
-                         label = "Confirm")
+            actionButton(
+              inputId = "confirm_variable_choices", 
+              label = "Confirm"
+            )
           ),
           mainPanel(
             plotOutput("smoking_plot")

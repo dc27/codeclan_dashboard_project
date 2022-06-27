@@ -13,19 +13,19 @@ library(here)
 #source("/cleaning_scripts/cleaning_life_satisfaction_script.R")
 
 # load in data
-life_expectancy_data <- read_csv("../data/clean_data/life_expectancy_clean.csv")
+life_expectancy_data <- read_csv("data/clean_data/life_expectancy_clean.csv")
 
-life_satisfaction <- read_csv("../data/clean_data/life_satisfaction_clean.csv")
+life_satisfaction <- read_csv("data/clean_data/life_satisfaction_clean.csv")
 
 alcohol <- read.csv(here("data/clean_data/alcohol_hospital_area.csv"))
 
 drugs <- read.csv(here("data/clean_data/drug_hospital_area.csv"))
 
-scotland_smoking_data <- read_csv("../data/clean_data/clean_smoking.csv")
+scotland_smoking_data <- read_csv("data/clean_data/clean_smoking.csv")
 
 
 hb_shapes <- readOGR(
-  dsn ="../data/simpler_shapefiles/NHS_HealthBoards_2019/",
+  dsn ="data/simpler_shapefiles/NHS_HealthBoards_2019/",
   layer = "NHS_HealthBoards_2019",
   GDAL1_integer64_policy = TRUE)
 
