@@ -1,10 +1,7 @@
 library(tidyverse)
 library(leaflet)
-library(rgdal)
 library(shiny)
 library(shinyWidgets)
-library(rmapshaper)
-library(sp)
 library(sf)
 library(shinydashboard)
 library(here)
@@ -17,23 +14,18 @@ life_expectancy_data <- read_csv("data/clean_data/life_expectancy_clean.csv")
 
 life_satisfaction <- read_csv("data/clean_data/life_satisfaction_clean.csv")
 
-alcohol <- read.csv(here("data/clean_data/alcohol_hospital_area.csv"))
+alcohol <- read_csv(here("data/clean_data/alcohol_hospital_area.csv"))
 
-drugs <- read.csv(here("data/clean_data/drug_hospital_area.csv"))
+drugs <- read_csv(here("data/clean_data/drug_hospital_area.csv"))
 
 scotland_smoking_data <- read_csv("data/clean_data/clean_smoking.csv")
 
 
-hb_shapes <- readOGR(
+hb_shapes <- sf::st_read(
   dsn ="data/simpler_shapefiles/NHS_HealthBoards_2019/",
   layer = "NHS_HealthBoards_2019",
-  GDAL1_integer64_policy = TRUE)
+  crs = "(+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +units=m +no_defs"
+  )
 
-# crs <- CRS("+proj=longlat +datum=WGS84")
-# 
-# # transform shape data to plot on map
-# hb_shapes_ll <- hb_shapes %>% 
-#   rgeos::gSimplify(tol=25, topologyPreserve=TRUE) %>% 
-#   spTransform(crs)
-# 
-# hb_shapes@polygons <- hb_shapes_ll@polygons
+
+theme_set(theme_bw(base_size = 20))

@@ -2,8 +2,8 @@ create_drugs_line_plot <- function(data) {
   data %>% 
     ggplot() +
     aes(x = date_code, y = value, group = council_area, colour = council_area) +
-    geom_line() +
-    geom_point() +
+    geom_line(linewidth = 2) +
+    geom_point(size = 3) +
     labs(x = "Year",
          y = "Discharges",
          title = "Drugs Misuse Discharges from Hospital",

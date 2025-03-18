@@ -87,13 +87,13 @@ ui <- dashboardPage(
                   width = 12,
                   tabPanel(
                     "By Health Board",
-                    leafletOutput("LE_map")),
+                    leafletOutput("LE_map", height = "60vh")),
                   tabPanel(
                     "By SIMD",
-                    plotOutput("LE_by_simd_plot")),
+                    plotOutput("LE_by_simd_plot", height = "60vh")),
                   tabPanel(
                     "All Scotland",
-                    plotOutput("LE_year_plot")
+                    plotOutput("LE_year_plot", height = "60vh")
                   )
                 )
               )
@@ -165,12 +165,12 @@ ui <- dashboardPage(
                   tabPanel(
                     value = "graph",
                     "Graph",
-                    plotOutput("satisfaction_plot")
+                    plotOutput("satisfaction_plot", height = "60vh")
                   ),
                   tabPanel(
                     value = "map",
                     "Map",
-                    leafletOutput("satisfaction_map"))
+                    leafletOutput("satisfaction_map", height = "60vh"))
                 )
               )
             )

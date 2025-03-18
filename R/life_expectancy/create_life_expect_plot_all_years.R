@@ -6,12 +6,12 @@ create_life_expectancy_all_scotland_all_years <- function(data) {
     janitor::clean_names() %>% 
     ggplot(aes(date_code)) +
     geom_point(aes(y = count,
-                   colour = sex)) +
+                   colour = sex),
+               size = 4) +
     geom_ribbon(aes(ymin = x95_percent_lower_confidence_limit,
                     ymax = x95_percent_upper_confidence_limit,
                     group = sex),
                 alpha = 0.2) +
-    theme_bw() +
     labs(x = "Date range",
          y = "Life expectancy (years)",
          title = "Life expectancy over time in Scotland",

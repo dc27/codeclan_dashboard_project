@@ -38,6 +38,7 @@ server <- function(input, output, session) {
         data = life_expectancy_data_all_SIMD)
       })
   
+  
   # render map for life expectancy
   output$LE_map <- renderLeaflet({
     create_hb_map(life_expect_chosen_year(), reactive(input$sex_choice))
